@@ -8,6 +8,19 @@ import glob
 from tkinter import *
 from tkinter.ttk import *
 
+def save_file():
+    """Save the current file as a new file."""
+    filepath = asksaveasfilename(
+        defaultextension=".txt",
+        filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")],
+    )
+    if not filepath:
+        return
+    with open(filepath, mode="w", encoding="utf-8") as output_file:
+        text = txt_edit.get("1.0", tk.END)
+        output_file.write(text)
+    window.title(f"Simple Text Editor - {filepath}")
+
 class Gui:
 
     def __init__(self):
@@ -63,26 +76,29 @@ class Gui:
         # Call this method again to keep checking the selection box
         self.root.after(100, self.check_for_selection)
 
+    btn_convert = self.Button(
+    master=self,
+    text="\N{RIGHTWARDS BLACK ARROW}"
+)
+    
 
 app = Gui()
 app.root.mainloop()
-
-dotenv.load_dotenv() # load.env file into enviroment
+'''dotenv.load_dotenv() # load.env file into enviroment
 # assign directories
 directory_invoices = os.environ.get("SRC_INVOICE_FILE_PATH")
 directory_invoices_txt = os.environ.get("SRC_INVOICE_TXT_FILE_PATH")
 
 # get file name from invoices directory
-invoices_file_name = os.path.basename(directory_invoices)
-input =
+invoices_file_name = os.path.basename(directory_invoices)'''
 # Using os.walk()
-for dirpath, dirs, files in os.walk('src/CompanyDocuments/' + ): 
+for dirpath, dirs, files in os.walk('src/company_docs_pdf/' + self.selections.get()): 
   for filenamWWWe in files:
     fname = os.path.join(dirpath,filename)
     if fname.endswith('.pdf'):
         
     #  using pdfplumber to extract text from pdf invoices files
-        with pdfplumber.open() as pdf, open(  invoices_file_name + ".txt", "w",encoding="utf-8") as f:
+        with pdfplumber.open() as pdf, open( fname + ".txt", "w",encoding="utf-8") as f:
             for page in pdf.pages:
                  t = page.extract_text()
             if t:
