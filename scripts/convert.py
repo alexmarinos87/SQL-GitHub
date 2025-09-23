@@ -5,17 +5,19 @@ from tkinter import ttk
 import os
 import glob
 import glob2
+from pdfminer.high_level import extract_text
 
 # function to convert all pdf stored in one file in another as txt files from the selection made by the user
 def listfiles(directory, select_folder):
     for root, dirs, files in os.walk(directory):
         for f in files:
             print(f)
+            text = extract_text(f)
         newpath =   'src/company_docs_txt/' + select_folder
-        p = f.replace("pdf", "")
-        newpath = newpath + p
-        if not os.path.exists(newpath): os.makedirs(newpath)
-        os.system('pdftotext {0} {1}/{0}/txt'.format(f,newpath))
+        #p = f.replace("pdf", "")
+        #newpath = newpath + p
+       # if not os.path.exists(newpath): os.makedirs(newpath)
+        #os.system(' ' + newpath )
 
 root = tkinter.Tk()
 root.title('Select folder to convert pdfs to txt for reconcilliation and analysis.')

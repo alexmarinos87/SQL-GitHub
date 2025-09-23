@@ -70,13 +70,13 @@ class Gui:
 app = Gui()
 app.root.mainloop()"""
 
-
+"""
 import tkinter as tk
 
 def fahrenheit_to_celsius():
-    """Convert the value for Fahrenheit to Celsius and insert the
-    result into lbl_result.
-    """
+    #Convert the value for Fahrenheit to Celsius and insert the
+   # result into lbl_result.
+
     fahrenheit = ent_temperature.get()
     celsius = (5 / 9) * (float(fahrenheit) - 32)
     lbl_result["text"] = f"{round(celsius, 2)} \N{DEGREE CELSIUS}"
@@ -144,3 +144,33 @@ button_close = tk.Button(root, width=35, text='Close Programme', command=root.qu
 root.mainloop()
 
 print(select_sheet)
+"""
+import pathlib
+import pypdfium2
+import tkinter
+from tkinter import ttk
+import os
+import glob
+import glob2
+from pdfminer.high_level import extract_text
+# function to convert all pdf stored in one file in another as txt files from the selection made by the user
+select_folder ='inventory_report'
+directory = "src/company_docs_pdf/" + select_folder +"/monthly/monthly"
+def listfiles(directory, select_folder):
+    for root, dirs, files in os.walk(directory):
+        for f in files:
+            extract_text(f)
+        newpath =   'src/company_docs_txt/' + select_folder
+        #p = f.replace("pdf", "")
+        #newpath = newpath + p
+        if not os.path.exists(newpath): os.makedirs(newpath)
+        os.system( newpath )
+
+select_folder = "invoices"
+directory = "src/company_docs_pdf/" + select_folder
+def listfiles(directory, select_folder):
+    for root, dirs, files in os.walk(directory):
+        for f in files:
+            print(f)
+            text = extract_text(f)
+            
