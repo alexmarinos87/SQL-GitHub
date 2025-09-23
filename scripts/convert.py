@@ -1,21 +1,39 @@
-import pathlib
-import pypdfium2
+def main():
+
+    import pathlib
+    import pdfminer
+
+    for path in pathlib.Path("pdfs").glob("*.pdf"):
+        with path.open("rb") as file:
+            parser = pdfminer.pdfparser.PDFParser(file)
+            document = pdfminer.pdfdocument.PDFDocument(parser, "")
+            if not document.is_extracable:
+                continue
+                
+                manager =  pdfminer.pdfinterp.PDFResourceManager()
+                params = pdfminer.layout. LAParams()
+
+                device = pdfminer.converter.PDFPageAggregator(manager, laparams = params)
+                interpreter = pdfminer.pdfinterp.PDFPageInterpreter
+
+                text = ""
+
+                for page in pdfminer.pdfpage.PDFPage.create_pages(document):
+                    interpreter.process_page(page)
+                    for obj in device.get_result():
+                        if isinstance(obj.pdfminer.layout.LTTextbox) or isinstance(obj.pdfminer.layout.LTTextLine):
+                            text += obj.get_text()
+
+        with open( "/{}.txt.".format(path.stem), "w") as file:
+            file.write(text)
+    return 0
+
+if __name__ ==  "__main__":
+    import sys
+    sys.exit(main())
+
 import tkinter
 from tkinter import ttk
-import os
-import glob
-import glob2
-
-# function to convert all pdf stored in one file in another as txt files from the selection made by the user
-def listfiles(directory, select_folder):
-    for root, dirs, files in os.walk(directory):
-        for f in files:
-            print(f)
-        newpath =   'src/company_docs_txt/' + select_folder
-        p = f.replace("pdf", "")
-        newpath = newpath + p
-        if not os.path.exists(newpath): os.makedirs(newpath)
-        os.system('pdftotext {0} {1}/{0}/txt'.format(f,newpath))
 
 root = tkinter.Tk()
 root.title('Select folder to convert pdfs to txt for reconcilliation and analysis.')
@@ -41,10 +59,3 @@ button_close = tkinter.Button(root, width = 35, text = 'Close Programme', comman
 root.mainloop()
 
 print(select_folder)
-
-    # set directory path from user combobox selection
-if select_folder == 'inventory_report':
-    directory = "src/company_docs_pdf/" + select_folder +"/monthly/monthly"
-else: directory = "src/company_docs_pdf/" + select_folder
-
-listfiles(directory, select_folder)
