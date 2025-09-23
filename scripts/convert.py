@@ -1,105 +1,50 @@
-# import modules
+import pathlib
+import pypdfium2
+import tkinter
+from tkinter import ttk
 import os
-import pdfplumber
-import dotenv
 import glob
+import glob2
 
-# helpers
-from tkinter import *
-from tkinter.ttk import *
+# function to convert all pdf stored in one file in another as txt files from the selection made by the user
+def listfiles(directory, select_folder):
+    for root, dirs, files in os.walk(directory):
+        for f in files:
+            print(f)
+        newpath =   'src/company_docs_txt/' + select_folder
+        p = f.replace("pdf", "")
+        newpath = newpath + p
+        if not os.path.exists(newpath): os.makedirs(newpath)
+        os.system('pdftotext {0} {1}/{0}/txt'.format(f,newpath))
 
-def save_file():
-    """Save the current file as a new file."""
-    filepath = asksaveasfilename(
-        defaultextension=".txt",
-        filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")],
-    )
-    if not filepath:
-        return
-    with open(filepath, mode="w", encoding="utf-8") as output_file:
-        text = txt_edit.get("1.0", tk.END)
-        output_file.write(text)
-    window.title(f"Simple Text Editor - {filepath}")
+root = tkinter.Tk()
+root.title('Select folder to convert pdfs to txt for reconcilliation and analysis.')
+root.geometry('800x449+300+130')
+root.configure(bg ='#072462')
 
-class Gui:
+# def variable and store based on selection
+def comboclick(event):
+    global select_folder # Setting select _folder to global, so it can be modified
+    select_folder = cb.get()
 
-    def __init__(self):
-        self.root = Tk()
+# I am setting here the same value of cb.currrent(), so if the user doesnt change it, you still get an output
+select_folder = 'inventory_report'
 
-        # Set up the Combobox
-        self.selections = Combobox(self.root)
-        self.selections['values'] = ['invoices', 'inventory_report', 'purchase_orders', 'shipping_orders']
-        self.selections.pack()
+# create combobox
+cb = ttk.Combobox(root, value=('inventory_report', 'invoices', 'purchase_orders', 'shipping_orders'))
+cb. current(0)
+cb.bind('<<ComboboxSelected>>' , comboclick)
+cb.pack()
 
-        # The Entry to be shown if "Custom" is selected
-        self.custom_field = Entry(self.root)
-        self.show_custom_field = False
+# set close window button
+button_close = tkinter.Button(root, width = 35, text = 'Close Programme', command=root.quit, fg='#C51E42', bg='#B4B5B4', borderwidth =1).pack()
+root.mainloop()
 
-        # Check the selection in 100 ms
-        self.root.after(100, self.check_for_selection)
+print(select_folder)
 
-    def check_for_selection(self):
-        '''Checks if the value of the Combobox equals "Custom".'''
+    # set directory path from user combobox selection
+if select_folder == 'inventory_report':
+    directory = "src/company_docs_pdf/" + select_folder +"/monthly/monthly"
+else: directory = "src/company_docs_pdf/" + select_folder
 
-
-        # Get the value of the Combobox
-        value = self.selections.get()
-
-        # If the value is equal to "Custom" and show_field is set to False
-        if value == 'Custom' and not self.show_custom_field:
-
-            # Set show_field to True and pack() the custom entry field
-            self.show_custom_field = True
-            self.custom_field.pack()
-
-
-        # If the value DOESNT equal "Custom"
-        elif value != 'Custom':
-
-            # Set show_field to False
-            self.show_custom_field = False
-
-            # Destroy the custom input
-            self.custom_field.destroy()
-
-            # Set up a new Entry object to pack() if we need it later.
-            # Without this line, tkinter was raising an error for me.
-            # This fixed it, but I don't promise that this is the
-            # most efficient method to do this.
-            self.custom_field = Entry(self.root)
-
-        # If the value IS "Custom" and we're showing the custom_feild
-        elif value == 'Custom' and self.show_custom_field:
-            pass
-
-
-        # Call this method again to keep checking the selection box
-        self.root.after(100, self.check_for_selection)
-
-    btn_convert = self.Button(
-    master=self,
-    text="\N{RIGHTWARDS BLACK ARROW}"
-)
-    
-
-app = Gui()
-app.root.mainloop()
-'''dotenv.load_dotenv() # load.env file into enviroment
-# assign directories
-directory_invoices = os.environ.get("SRC_INVOICE_FILE_PATH")
-directory_invoices_txt = os.environ.get("SRC_INVOICE_TXT_FILE_PATH")
-
-# get file name from invoices directory
-invoices_file_name = os.path.basename(directory_invoices)'''
-# Using os.walk()
-for dirpath, dirs, files in os.walk('src/company_docs_pdf/' + self.selections.get()): 
-  for filenamWWWe in files:
-    fname = os.path.join(dirpath,filename)
-    if fname.endswith('.pdf'):
-        
-    #  using pdfplumber to extract text from pdf invoices files
-        with pdfplumber.open() as pdf, open( fname + ".txt", "w",encoding="utf-8") as f:
-            for page in pdf.pages:
-                 t = page.extract_text()
-            if t:
-                f.write(t + '\n')
+listfiles(directory, select_folder)
