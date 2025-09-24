@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10814
+Customer ID: VICTE
+Order Date: 2018-01-05
+Customer Details:
+Contact Name:
+Mary Saveley
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2, rue du Commerce
+Lyon
+69004
+France
+78.32.54.86
+78.32.54.87
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+43
+48
+61
+Jack's New England Clam Chowder
+Ipoh Coffee
+Chocolade
+Sirop d'érable
+20
+20
+8
+30
+9.65
+46.0
+12.75
+28.5
+TotalPrice
+2070.0
+Page 1
+ 
+ 

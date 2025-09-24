@@ -1,0 +1,281 @@
+Stock Report for 2017-05
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Côte de Blaye
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Laughing Lumberjack..
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Steeleye Stout
+Condiments
+Aniseed Syrup
+8
+34
+35
+85
+50
+7
+7
+30
+10
+56
+60
+Condiments
+Chef Anton's Cajun..
+100
+Condiments
+Gula Malacca
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Louisiana Hot Spiced..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Confections
+Gumbär Gummibärchen
+Confections
+Confections
+Maxilaku
+Pavlova
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+40
+36
+24
+10
+30
+40
+6
+84
+55
+15
+21
+60
+10
+35
+9
+53
+Dairy Products
+Gorgonzola Telino
+135
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Gustaf's Knäckebröd
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals
+Tunnbröd
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Tourtière
+28
+24
+55
+93
+45
+17
+30
+24
+5
+90
+73
+14
+49
+54
+7
+10
+35
+20
+18
+2
+20
+18
+35
+39
+17
+20
+17
+57
+52
+15
+125
+111
+20
+13
+53
+27
+76
+4
+32
+113
+15
+10
+29
+6
+40
+3
+17
+25
+19
+26
+112
+104
+115
+0
+26
+9
+14
+22
+86
+79
+21
+36
+61
+0
+21
+20
+26
+15
+62
+11
+31
+85
+24
+10
+5
+123
+101
+18
+263.5
+4.5
+46
+18
+14
+15
+7.75
+14
+18
+10
+22
+19.45
+21.05
+17
+13
+28.5
+31.23
+20
+17.45
+12.5
+81
+10
+49.3
+9.2
+34
+21.5
+2.5
+12.5
+36
+32
+34.8
+21
+38
+55
+38
+21
+9
+39
+24
+19.5
+7.45
+53
+45.6
+30
+18.4
+13.25
+26
+31
+19
+9.65
+6
+25.89
+9.5
+15
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Manjimup Dried Apples
+Rössle Sauerkraut
+Uncle Bob's Organic..
+Boston Crab Meat
+Escargots de Bourgogne
+Gravad lax
+Ikura
+Inlagd Sill
+Jack's New England..
+Konbu
+Nord-Ost Matjeshering
+Rogede sild
+Röd Kaviar
+100
+33
+120
+112

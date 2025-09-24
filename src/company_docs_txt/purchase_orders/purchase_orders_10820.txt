@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10820
+2018-01-07
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+Gnocchi di nonna Alice
+30
+38
+Page 1

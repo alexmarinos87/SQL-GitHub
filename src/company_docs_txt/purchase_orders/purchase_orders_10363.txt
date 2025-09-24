@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10363
+2016-11-26
+Sven Ottlieb
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+75
+76
+Gorgonzola Telino
+Rhönbräu Klosterbier
+Lakkalikööri
+20
+12
+12
+10
+6.2
+14.4
+Page 1

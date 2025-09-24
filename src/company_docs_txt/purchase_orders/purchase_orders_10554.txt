@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10554
+2017-05-30
+Henriette Pfalzheim
+Products
+Product:
+Pavlova
+Tunnbröd
+Tarte au sucre
+Original Frankfurter grüne Soße
+Product ID:
+16
+23
+62
+77
+Quantity:
+Unit Price:
+30
+20
+20
+10
+17.45
+9
+49.3
+13
+Page 1

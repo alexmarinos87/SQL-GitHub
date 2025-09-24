@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10718
+2017-10-27
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+12
+16
+36
+62
+Queso Manchego La Pastora
+Pavlova
+Inlagd Sill
+Tarte au sucre
+36
+20
+40
+20
+38
+17.45
+19
+49.3
+Page 1

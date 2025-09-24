@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10519
+Customer ID: CHOPS
+Order Date: 2017-04-28
+Customer Details:
+Contact Name:
+Yang Wang
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Hauptstr. 29
+Bern
+3012
+Switzerland
+0452-076545
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+56
+60
+Ikura
+Gnocchi di nonna Alice
+Camembert Pierrot
+16
+40
+10
+31.0
+38.0
+34.0
+TotalPrice
+2356.0
+Page 1
+ 
+ 

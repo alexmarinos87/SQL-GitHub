@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10248
+2016-07-04
+Paul Henriot
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+42
+72
+Queso Cabrales
+Singaporean Hokkien Fried Mee
+Mozzarella di Giovanni
+12
+10
+5
+14
+9.8
+34.8
+Page 1

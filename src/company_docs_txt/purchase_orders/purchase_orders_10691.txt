@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10691
+2017-10-03
+Horst Kloss
+Products
+Product:
+Chai
+Thüringer Rostbratwurst
+Ipoh Coffee
+Gula Malacca
+Tarte au sucre
+Product ID:
+1
+29
+43
+44
+62
+Quantity:
+Unit Price:
+30
+40
+40
+24
+48
+18
+123.79
+46
+19.45
+49.3
+Page 1

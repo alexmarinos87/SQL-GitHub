@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10996
+2018-04-02
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+42
+Singaporean Hokkien Fried Mee
+40
+14
+Page 1

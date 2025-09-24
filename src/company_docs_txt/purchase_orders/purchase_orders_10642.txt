@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10642
+2017-08-22
+Jytte Petersen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+61
+Sir Rodney's Scones
+Sirop d'érable
+30
+20
+10
+28.5
+Page 1

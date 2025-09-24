@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11045
+2018-04-23
+Elizabeth Lincoln
+Products
+Product ID:
+33
+51
+Product:
+Geitost
+Manjimup Dried Apples
+Quantity:
+Unit Price:
+15
+24
+2.5
+53
+Page 1

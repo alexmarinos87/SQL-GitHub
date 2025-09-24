@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10290
+2016-08-27
+Pedro Afonso
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+5
+29
+49
+77
+Chef Anton's Gumbo Mix
+Thüringer Rostbratwurst
+Maxilaku
+Original Frankfurter grüne Soße
+20
+15
+15
+10
+17
+99
+16
+10.4
+Page 1

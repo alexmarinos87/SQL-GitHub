@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11059
+Customer ID: RICAR
+Order Date: 2018-04-29
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+17
+60
+Konbu
+Alice Mutton
+Camembert Pierrot
+30
+12
+35
+6.0
+39.0
+34.0
+TotalPrice
+1838.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10780
+Customer ID: LILAS
+Order Date: 2017-12-16
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+70
+77
+Outback Lager
+Original Frankfurter grüne Soße
+35
+15
+15.0
+13.0
+TotalPrice
+720.0
+Page 1
+ 
+ 

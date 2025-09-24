@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10995
+2018-04-02
+Guillermo Fernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+51
+60
+Manjimup Dried Apples
+Camembert Pierrot
+20
+4
+53
+34
+Page 1

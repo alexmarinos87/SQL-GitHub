@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10380
+2016-12-12
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+53
+60
+70
+Nord-Ost Matjeshering
+Perth Pasties
+Camembert Pierrot
+Outback Lager
+18
+20
+6
+30
+20.7
+26.2
+27.2
+12
+Page 1

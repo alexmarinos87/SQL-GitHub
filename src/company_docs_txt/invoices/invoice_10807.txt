@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10807
+Customer ID: FRANS
+Order Date: 2017-12-31
+Customer Details:
+Contact Name:
+Paolo Accorti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Monte Bianco 34
+Torino
+10100
+Italy
+011-4988260
+011-4988261
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+Boston Crab Meat
+1
+TotalPrice
+18.4
+18.4
+Page 1
+ 
+ 

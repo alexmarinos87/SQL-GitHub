@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10839
+Customer ID: TRADH
+Order Date: 2018-01-19
+Customer Details:
+Contact Name:
+Anabela Domingues
+Address:
+City:
+Av. Inês de Castro, 414
+Sao Paulo
+Postal Code:
+05634-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-2167
+(11) 555-2168
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+58
+72
+Escargots de Bourgogne
+Mozzarella di Giovanni
+30
+15
+TotalPrice
+13.25
+34.8
+919.5
+Page 1
+ 
+ 

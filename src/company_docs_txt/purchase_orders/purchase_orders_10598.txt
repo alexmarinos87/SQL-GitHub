@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10598
+2017-07-14
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+27
+71
+Schoggi Schokolade
+Flotemysost
+50
+9
+43.9
+21.5
+Page 1

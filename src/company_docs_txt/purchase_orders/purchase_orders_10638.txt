@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10638
+2017-08-20
+Felipe Izquierdo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+45
+65
+72
+Rogede sild
+Louisiana Fiery Hot Pepper Sauce
+Mozzarella di Giovanni
+20
+21
+60
+9.5
+21.05
+34.8
+Page 1

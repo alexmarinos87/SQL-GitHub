@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10917
+Customer ID: ROMEY
+Order Date: 2018-03-02
+Customer Details:
+Contact Name:
+Alejandra Camino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Gran Vía, 1
+Madrid
+28001
+Spain
+(91) 745 6200
+(91) 745 6210
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+60
+Nord-Ost Matjeshering
+Camembert Pierrot
+1
+10
+25.89
+34.0
+TotalPrice
+365.89
+Page 1
+ 
+ 

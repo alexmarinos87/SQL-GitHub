@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10924
+2018-03-04
+Christina Berglund
+Products
+Product ID:
+10
+28
+75
+Product:
+Ikura
+Rössle Sauerkraut
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+20
+30
+6
+31
+45.6
+7.75
+Page 1

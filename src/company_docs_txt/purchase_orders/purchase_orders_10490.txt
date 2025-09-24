@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10490
+2017-03-31
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+68
+75
+Raclette Courdavault
+Scottish Longbreads
+Rhönbräu Klosterbier
+60
+30
+36
+44
+10
+6.2
+Page 1

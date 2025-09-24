@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10287
+Customer ID: RICAR
+Order Date: 2016-08-22
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+34
+46
+Pavlova
+Sasquatch Ale
+Spegesild
+40
+20
+15
+13.9
+11.2
+9.6
+TotalPrice
+924.0
+Page 1
+ 
+ 

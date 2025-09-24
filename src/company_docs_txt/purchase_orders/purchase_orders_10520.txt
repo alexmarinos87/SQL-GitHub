@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10520
+2017-04-29
+Jonas Bergulfsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+53
+Guaraná Fantástica
+Perth Pasties
+8
+5
+4.5
+32.8
+Page 1

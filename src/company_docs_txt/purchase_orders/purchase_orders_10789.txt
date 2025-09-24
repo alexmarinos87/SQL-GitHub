@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10789
+2017-12-22
+Martine Rancé
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+35
+63
+68
+Carnarvon Tigers
+Steeleye Stout
+Vegie-spread
+Scottish Longbreads
+30
+15
+30
+18
+62.5
+18
+43.9
+12.5
+Page 1

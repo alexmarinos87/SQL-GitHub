@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10259
+2016-07-18
+Francisco Chang
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+37
+Sir Rodney's Scones
+Gravad lax
+10
+1
+8
+20.8
+Page 1

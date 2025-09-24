@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10301
+2016-09-09
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+56
+Boston Crab Meat
+Gnocchi di nonna Alice
+10
+20
+14.7
+30.4
+Page 1

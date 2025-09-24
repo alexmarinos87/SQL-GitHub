@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10392
+2016-12-24
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+69
+Gudbrandsdalsost
+50
+28.8
+Page 1

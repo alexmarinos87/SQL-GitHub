@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10292
+2016-08-28
+Anabela Domingues
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+Sir Rodney's Marmalade
+20
+64.8
+Page 1

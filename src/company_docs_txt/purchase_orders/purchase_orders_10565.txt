@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10565
+2017-06-11
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+64
+Guaraná Fantástica
+Wimmers gute Semmelknödel
+25
+18
+4.5
+33.25
+Page 1

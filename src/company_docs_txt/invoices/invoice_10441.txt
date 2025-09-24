@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10441
+Customer ID: OLDWO
+Order Date: 2017-02-10
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+27
+Schoggi Schokolade
+50
+35.1
+TotalPrice
+1755.0
+Page 1
+ 
+ 

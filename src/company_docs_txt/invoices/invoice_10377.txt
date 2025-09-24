@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10377
+Customer ID: SEVES
+Order Date: 2016-12-09
+Customer Details:
+Contact Name:
+Hari Kumar
+Address:
+City:
+90 Wadhurst Rd.
+London
+Postal Code:
+OX15 4NB
+Country:
+Phone:
+Fax:
+UK
+(171) 555-1717
+(171) 555-5646
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+39
+Rössle Sauerkraut
+Chartreuse verte
+20
+20
+36.4
+14.4
+TotalPrice
+1016.0
+Page 1
+ 
+ 

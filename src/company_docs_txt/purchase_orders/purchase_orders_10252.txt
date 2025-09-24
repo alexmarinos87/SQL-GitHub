@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10252
+2016-07-09
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+33
+60
+Sir Rodney's Marmalade
+Geitost
+Camembert Pierrot
+40
+25
+40
+64.8
+2
+27.2
+Page 1

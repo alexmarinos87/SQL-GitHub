@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10349
+Customer ID: SPLIR
+Order Date: 2016-11-08
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+54
+Tourtière
+24
+5.9
+TotalPrice
+141.60000000000002
+Page 1
+ 
+ 

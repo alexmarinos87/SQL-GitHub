@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10398
+Customer ID: SAVEA
+Order Date: 2016-12-30
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+55
+Steeleye Stout
+Pâté chinois
+30
+120
+14.4
+19.2
+TotalPrice
+2736.0
+Page 1
+ 
+ 

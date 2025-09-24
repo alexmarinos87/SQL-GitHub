@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10656
+2017-09-04
+Howard Snyder
+Products
+Product ID:
+14
+44
+47
+Product:
+Tofu
+Gula Malacca
+Zaanse koeken
+Quantity:
+Unit Price:
+3
+28
+6
+23.25
+19.45
+9.5
+Page 1

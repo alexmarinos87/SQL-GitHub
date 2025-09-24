@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10833
+2018-01-15
+Henriette Pfalzheim
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+31
+53
+Uncle Bob's Organic Dried Pears
+Gorgonzola Telino
+Perth Pasties
+20
+9
+9
+30
+12.5
+32.8
+Page 1

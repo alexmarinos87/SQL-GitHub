@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10876
+2018-02-09
+Laurence Lebihan
+Products
+Product ID:
+46
+64
+Product:
+Spegesild
+Wimmers gute Semmelknödel
+Quantity:
+Unit Price:
+21
+20
+12
+33.25
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10643
+2017-08-25
+Maria Anders
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+39
+46
+Rössle Sauerkraut
+Chartreuse verte
+Spegesild
+15
+21
+2
+45.6
+18
+12
+Page 1

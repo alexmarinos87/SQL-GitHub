@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10705
+2017-10-15
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+32
+Gorgonzola Telino
+Mascarpone Fabioli
+20
+4
+12.5
+32
+Page 1

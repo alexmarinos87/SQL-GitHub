@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10820
+Customer ID: RATTC
+Order Date: 2018-01-07
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+Gnocchi di nonna Alice
+30
+38.0
+TotalPrice
+1140.0
+Page 1
+ 
+ 

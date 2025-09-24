@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10326
+Customer ID: BOLID
+Order Date: 2016-10-10
+Customer Details:
+Contact Name:
+Martín Sommer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Araquil, 67
+Madrid
+28023
+Spain
+(91) 555 22 82
+(91) 555 91 99
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+57
+75
+Chef Anton's Cajun Seasoning
+Ravioli Angelo
+Rhönbräu Klosterbier
+24
+16
+50
+17.6
+15.6
+6.2
+TotalPrice
+982.0
+Page 1
+ 
+ 

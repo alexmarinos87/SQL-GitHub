@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10806
+Customer ID: VICTE
+Order Date: 2017-12-31
+Customer Details:
+Contact Name:
+Mary Saveley
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2, rue du Commerce
+Lyon
+69004
+France
+78.32.54.86
+78.32.54.87
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+65
+74
+Chang
+Louisiana Fiery Hot Pepper Sauce
+Longlife Tofu
+20
+2
+15
+TotalPrice
+19.0
+21.05
+10.0
+572.1
+Page 1
+ 
+ 

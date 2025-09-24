@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10928
+2018-03-05
+Eduardo Saavedra
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+47
+76
+Zaanse koeken
+Lakkalikööri
+5
+5
+9.5
+18
+Page 1

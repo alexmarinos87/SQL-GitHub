@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10255
+2016-07-12
+Michael Holz
+Products
+Product ID:
+2
+16
+36
+59
+Product:
+Chang
+Pavlova
+Inlagd Sill
+Raclette Courdavault
+Quantity:
+Unit Price:
+20
+35
+25
+30
+15.2
+13.9
+15.2
+44
+Page 1

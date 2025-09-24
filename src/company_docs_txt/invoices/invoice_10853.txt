@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10853
+Customer ID: BLAUS
+Order Date: 2018-01-27
+Customer Details:
+Contact Name:
+Hanna Moos
+Address:
+City:
+Forsterstr. 57
+Mannheim
+Postal Code:
+68306
+Country:
+Phone:
+Fax:
+Germany
+0621-08460
+0621-08924
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+Carnarvon Tigers
+10
+TotalPrice
+62.5
+625.0
+Page 1
+ 
+ 

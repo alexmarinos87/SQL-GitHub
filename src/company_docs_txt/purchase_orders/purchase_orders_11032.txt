@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11032
+2018-04-17
+Karl Jablonski
+Products
+Product ID:
+36
+38
+59
+Product:
+Inlagd Sill
+Côte de Blaye
+Raclette Courdavault
+Quantity:
+Unit Price:
+35
+25
+30
+19
+263.5
+55
+Page 1

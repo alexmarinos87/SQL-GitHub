@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10540
+Customer ID: QUICK
+Order Date: 2017-05-19
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+3
+26
+38
+68
+Aniseed Syrup
+Gumb‰r Gummib‰rchen
+CÙte de Blaye
+Scottish Longbreads
+60
+40
+30
+35
+10.0
+31.23
+263.5
+12.5
+TotalPrice
+10191.7
+Page 1
+ 
+ 

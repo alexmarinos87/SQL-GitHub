@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10673
+2017-09-18
+Matti Karttunen
+Products
+Product ID:
+16
+42
+43
+Product:
+Pavlova
+Singaporean Hokkien Fried Mee
+Ipoh Coffee
+Quantity:
+Unit Price:
+3
+6
+6
+17.45
+14
+46
+Page 1

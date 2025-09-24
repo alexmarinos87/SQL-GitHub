@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10365
+2016-11-27
+Antonio Moreno
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+Queso Cabrales
+24
+16.8
+Page 1

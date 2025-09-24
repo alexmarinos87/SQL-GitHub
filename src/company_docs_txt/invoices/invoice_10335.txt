@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10335
+Customer ID: HUNGO
+Order Date: 2016-10-22
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+31
+32
+51
+Chang
+Gorgonzola Telino
+Mascarpone Fabioli
+Manjimup Dried Apples
+7
+25
+6
+48
+15.2
+10.0
+25.6
+42.4
+TotalPrice
+2545.2
+Page 1
+ 
+ 

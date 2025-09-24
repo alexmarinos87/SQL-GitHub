@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10567
+2017-06-12
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+51
+59
+Gorgonzola Telino
+Manjimup Dried Apples
+Raclette Courdavault
+60
+3
+40
+12.5
+53
+55
+Page 1

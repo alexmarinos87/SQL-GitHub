@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10950
+Customer ID: MAGAA
+Order Date: 2018-03-16
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+Chef Anton's Cajun Seasoning
+5
+TotalPrice
+22.0
+110.0
+Page 1
+ 
+ 

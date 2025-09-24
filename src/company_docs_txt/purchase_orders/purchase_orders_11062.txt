@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11062
+2018-04-30
+Maurizio Moroni
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+53
+70
+Perth Pasties
+Outback Lager
+10
+12
+32.8
+15
+Page 1

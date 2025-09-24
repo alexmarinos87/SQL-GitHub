@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10437
+Customer ID: WARTH
+Order Date: 2017-02-05
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+Perth Pasties
+15
+TotalPrice
+26.2
+393.0
+Page 1
+ 
+ 

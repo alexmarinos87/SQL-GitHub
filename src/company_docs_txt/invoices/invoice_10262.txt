@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10262
+Customer ID: RATTC
+Order Date: 2016-07-22
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+5
+7
+56
+Chef Anton's Gumbo Mix
+Uncle Bob's Organic Dried Pears
+Gnocchi di nonna Alice
+12
+15
+2
+17.0
+24.0
+30.4
+TotalPrice
+624.8
+Page 1
+ 
+ 

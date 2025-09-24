@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10342
+2016-10-30
+Peter Franken
+Products
+Product ID:
+2
+31
+36
+55
+Product:
+Chang
+Gorgonzola Telino
+Inlagd Sill
+Pâté chinois
+Quantity:
+Unit Price:
+24
+56
+40
+40
+15.2
+10
+15.2
+19.2
+Page 1

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10446
+2017-02-14
+Karin Josephs
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+24
+31
+52
+Teatime Chocolate Biscuits
+Guaraná Fantástica
+Gorgonzola Telino
+Filo Mix
+12
+20
+3
+15
+7.3
+3.6
+10
+5.6
+Page 1

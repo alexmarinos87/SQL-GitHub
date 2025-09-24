@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10640
+Customer ID: WANDK
+Order Date: 2017-08-21
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+69
+70
+Gudbrandsdalsost
+Outback Lager
+20
+15
+36.0
+15.0
+TotalPrice
+945.0
+Page 1
+ 
+ 

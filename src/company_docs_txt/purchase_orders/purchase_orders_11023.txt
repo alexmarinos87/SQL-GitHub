@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11023
+2018-04-14
+Victoria Ashworth
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+43
+Uncle Bob's Organic Dried Pears
+Ipoh Coffee
+4
+30
+30
+46
+Page 1

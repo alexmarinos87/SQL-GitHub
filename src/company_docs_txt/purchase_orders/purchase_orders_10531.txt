@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10531
+2017-05-08
+Yvonne Moncada
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+Raclette Courdavault
+2
+55
+Page 1

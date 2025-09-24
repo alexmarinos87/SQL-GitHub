@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10386
+2016-12-18
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+34
+Guaraná Fantástica
+Sasquatch Ale
+15
+10
+3.6
+11.2
+Page 1

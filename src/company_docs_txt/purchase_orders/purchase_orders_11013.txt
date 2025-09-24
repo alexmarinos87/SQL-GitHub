@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11013
+2018-04-09
+Alejandra Camino
+Products
+Product:
+Tunnbröd
+Singaporean Hokkien Fried Mee
+Rogede sild
+Scottish Longbreads
+Product ID:
+23
+42
+45
+68
+Quantity:
+Unit Price:
+10
+4
+20
+2
+9
+14
+9.5
+12.5
+Page 1

@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10612
+2017-07-28
+Jose Pavarotti
+Products
+Product ID:
+10
+36
+49
+60
+76
+Product:
+Ikura
+Inlagd Sill
+Maxilaku
+Camembert Pierrot
+Lakkalikööri
+Quantity:
+Unit Price:
+70
+55
+18
+40
+80
+31
+19
+20
+34
+18
+Page 1

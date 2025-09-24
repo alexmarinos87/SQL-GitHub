@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10604
+2017-07-18
+Lino Rodriguez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+48
+76
+Chocolade
+Lakkalikööri
+6
+10
+12.75
+18
+Page 1

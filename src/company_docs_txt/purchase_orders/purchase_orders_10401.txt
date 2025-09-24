@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10401
+2017-01-01
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+56
+65
+71
+Nord-Ost Matjeshering
+Gnocchi di nonna Alice
+Louisiana Fiery Hot Pepper Sauce
+Flotemysost
+18
+70
+20
+60
+20.7
+30.4
+16.8
+17.2
+Page 1

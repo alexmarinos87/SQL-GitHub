@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10749
+2017-11-20
+Helen Bennett
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+59
+76
+Gnocchi di nonna Alice
+Raclette Courdavault
+Lakkalikööri
+15
+6
+10
+38
+55
+18
+Page 1

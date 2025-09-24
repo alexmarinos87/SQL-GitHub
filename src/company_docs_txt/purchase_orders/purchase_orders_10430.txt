@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10430
+2017-01-30
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+21
+56
+59
+Alice Mutton
+Sir Rodney's Scones
+Gnocchi di nonna Alice
+Raclette Courdavault
+45
+50
+30
+70
+31.2
+8
+30.4
+44
+Page 1

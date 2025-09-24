@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10991
+Customer ID: QUICK
+Order Date: 2018-04-01
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraße 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+70
+76
+Chang
+Outback Lager
+Lakkalikööri
+50
+20
+90
+19.0
+15.0
+18.0
+TotalPrice
+2870.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10995
+Customer ID: PERIC
+Order Date: 2018-04-02
+Customer Details:
+Contact Name:
+Guillermo Fernández
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Calle Dr. Jorge Cash 321
+México D.F.
+05033
+Mexico
+(5) 552-3745
+(5) 545-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+51
+60
+Manjimup Dried Apples
+Camembert Pierrot
+20
+4
+53.0
+34.0
+TotalPrice
+1196.0
+Page 1
+ 
+ 

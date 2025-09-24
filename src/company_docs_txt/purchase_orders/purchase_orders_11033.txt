@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11033
+2018-04-17
+Michael Holz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+53
+69
+Perth Pasties
+Gudbrandsdalsost
+70
+36
+32.8
+36
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10580
+Customer ID: OTTIK
+Order Date: 2017-06-26
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+41
+65
+Tofu
+Jack's New England Clam Chowder
+Louisiana Fiery Hot Pepper Sauce
+15
+9
+30
+23.25
+9.65
+21.05
+TotalPrice
+1067.1
+Page 1
+ 
+ 

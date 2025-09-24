@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11073
+2018-05-05
+Guillermo Fernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+24
+Queso Cabrales
+Guaraná Fantástica
+10
+20
+21
+4.5
+Page 1

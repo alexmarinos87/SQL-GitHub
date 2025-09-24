@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10345
+2016-11-04
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+8
+19
+42
+Northwoods Cranberry Sauce
+Teatime Chocolate Biscuits
+Singaporean Hokkien Fried Mee
+70
+80
+9
+32
+7.3
+11.2
+Page 1

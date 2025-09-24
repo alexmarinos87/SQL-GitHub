@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10966
+Customer ID: CHOPS
+Order Date: 2018-03-20
+Customer Details:
+Contact Name:
+Yang Wang
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Hauptstr. 29
+Bern
+3012
+Switzerland
+0452-076545
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+37
+56
+62
+Gravad lax
+Gnocchi di nonna Alice
+Tarte au sucre
+8
+12
+12
+26.0
+38.0
+49.3
+TotalPrice
+1255.6
+Page 1
+ 
+ 

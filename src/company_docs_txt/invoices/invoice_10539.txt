@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10539
+Customer ID: BSBEV
+Order Date: 2017-05-16
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+21
+33
+49
+Konbu
+Sir Rodney's Scones
+Geitost
+Maxilaku
+8
+15
+15
+6
+6.0
+10.0
+2.5
+20.0
+TotalPrice
+355.5
+Page 1
+ 
+ 

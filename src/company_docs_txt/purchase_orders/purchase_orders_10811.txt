@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10811
+2018-01-02
+Felipe Izquierdo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+23
+40
+Teatime Chocolate Biscuits
+Tunnbröd
+Boston Crab Meat
+15
+18
+30
+9.2
+9
+18.4
+Page 1

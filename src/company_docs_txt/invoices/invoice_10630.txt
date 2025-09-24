@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10630
+Customer ID: KOENE
+Order Date: 2017-08-13
+Customer Details:
+Contact Name:
+Philip Cramer
+Address:
+City:
+Maubelstr. 90
+Brandenburg
+Postal Code:
+14776
+Country:
+Phone:
+Fax:
+Germany
+0555-09876
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+76
+Pâté chinois
+Lakkalikööri
+12
+35
+24.0
+18.0
+TotalPrice
+918.0
+Page 1
+ 
+ 

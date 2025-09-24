@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10359
+2016-11-21
+Hari Kumar
+Products
+Product ID:
+16
+31
+60
+Product:
+Pavlova
+Gorgonzola Telino
+Camembert Pierrot
+Quantity:
+Unit Price:
+56
+70
+80
+13.9
+10
+27.2
+Page 1

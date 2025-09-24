@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10943
+Customer ID: BSBEV
+Order Date: 2018-03-11
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+22
+46
+Konbu
+Gustaf's Knäckebröd
+Spegesild
+15
+21
+15
+6.0
+21.0
+12.0
+TotalPrice
+711.0
+Page 1
+ 
+ 

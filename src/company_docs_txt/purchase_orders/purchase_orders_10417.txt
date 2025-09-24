@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10417
+2017-01-16
+Jytte Petersen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+46
+68
+77
+Côte de Blaye
+Spegesild
+Scottish Longbreads
+Original Frankfurter grüne Soße
+50
+2
+36
+35
+210.8
+9.6
+10
+10.4
+Page 1

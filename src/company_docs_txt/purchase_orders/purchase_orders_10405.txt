@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10405
+2017-01-06
+Felipe Izquierdo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+Aniseed Syrup
+50
+8
+Page 1

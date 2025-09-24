@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10959
+Customer ID: GOURL
+Order Date: 2018-03-18
+Customer Details:
+Contact Name:
+André Fonseca
+Address:
+City:
+Av. Brasil, 442
+Campinas
+Postal Code:
+04876-786
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9482
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+75
+Rhönbräu Klosterbier
+20
+TotalPrice
+7.75
+155.0
+Page 1
+ 
+ 

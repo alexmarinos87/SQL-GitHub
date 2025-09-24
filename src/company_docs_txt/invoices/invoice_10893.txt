@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10893
+Customer ID: KOENE
+Order Date: 2018-02-18
+Customer Details:
+Contact Name:
+Philip Cramer
+Address:
+City:
+Maubelstr. 90
+Brandenburg
+Postal Code:
+14776
+Country:
+Phone:
+Fax:
+Germany
+0555-09876
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+24
+29
+30
+36
+Northwoods Cranberry Sauce
+Guaraná Fantástica
+Thüringer Rostbratwurst
+Nord-Ost Matjeshering
+Inlagd Sill
+30
+10
+24
+35
+20
+40.0
+4.5
+123.79
+25.89
+19.0
+TotalPrice
+5502.11
+Page 1
+ 
+ 

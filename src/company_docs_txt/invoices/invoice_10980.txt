@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10980
+Customer ID: FOLKO
+Order Date: 2018-03-27
+Customer Details:
+Contact Name:
+Maria Larsson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Åkergatan 24
+Bräcke
+S-844 67
+Sweden
+0695-34 67 21
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+75
+Rhönbräu Klosterbier
+40
+TotalPrice
+7.75
+310.0
+Page 1
+ 
+ 

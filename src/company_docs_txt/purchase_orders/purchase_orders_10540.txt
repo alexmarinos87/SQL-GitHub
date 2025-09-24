@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10540
+2017-05-19
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+26
+38
+68
+Aniseed Syrup
+Gumbär Gummibärchen
+Côte de Blaye
+Scottish Longbreads
+60
+40
+30
+35
+10
+31.23
+263.5
+12.5
+Page 1

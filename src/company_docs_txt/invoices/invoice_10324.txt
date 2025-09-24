@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10324
+Customer ID: SAVEA
+Order Date: 2016-10-08
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+35
+46
+59
+63
+Pavlova
+Steeleye Stout
+Spegesild
+Raclette Courdavault
+Vegie-spread
+21
+70
+30
+40
+80
+13.9
+14.4
+9.6
+44.0
+35.1
+TotalPrice
+6155.9
+Page 1
+ 
+ 

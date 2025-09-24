@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10714
+2017-10-22
+Jose Pavarotti
+Products
+Product:
+Chang
+Alice Mutton
+Zaanse koeken
+Gnocchi di nonna Alice
+Escargots de Bourgogne
+Product ID:
+2
+17
+47
+56
+58
+Quantity:
+Unit Price:
+30
+27
+50
+18
+12
+19
+39
+9.5
+38
+13.25
+Page 1

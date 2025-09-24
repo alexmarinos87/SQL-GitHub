@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10493
+Customer ID: LAMAI
+Order Date: 2017-04-02
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+65
+66
+69
+Louisiana Fiery Hot Pepper Sauce
+Louisiana Hot Spiced Okra
+Gudbrandsdalsost
+15
+10
+10
+16.8
+13.6
+28.8
+TotalPrice
+676.0
+Page 1
+ 
+ 

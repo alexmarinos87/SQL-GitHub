@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10596
+Customer ID: WHITC
+Order Date: 2017-07-11
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+63
+75
+Gnocchi di nonna Alice
+Vegie-spread
+Rhönbräu Klosterbier
+5
+24
+30
+38.0
+43.9
+7.75
+TotalPrice
+1476.1
+Page 1
+ 
+ 

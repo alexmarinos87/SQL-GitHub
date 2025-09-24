@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10495
+Customer ID: LAUGB
+Order Date: 2017-04-03
+Customer Details:
+Contact Name:
+Yoshi Tannamuri
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1900 Oak St.
+Vancouver
+V3F 2K1
+Canada
+(604) 555-3392
+(604) 555-7293
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+41
+77
+Tunnbröd
+Jack's New England Clam Chowder
+Original Frankfurter grüne Soße
+10
+20
+5
+TotalPrice
+7.2
+7.7
+10.4
+278.0
+Page 1
+ 
+ 

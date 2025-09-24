@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11004
+Customer ID: MAISD
+Order Date: 2018-04-07
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+76
+Gumbär Gummibärchen
+Lakkalikööri
+6
+6
+31.23
+18.0
+TotalPrice
+295.38
+Page 1
+ 
+ 

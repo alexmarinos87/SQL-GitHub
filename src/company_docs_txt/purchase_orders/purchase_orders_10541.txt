@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10541
+2017-05-19
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+38
+65
+71
+Guaraná Fantástica
+Côte de Blaye
+Louisiana Fiery Hot Pepper Sauce
+Flotemysost
+35
+4
+36
+9
+4.5
+263.5
+21.05
+21.5
+Page 1

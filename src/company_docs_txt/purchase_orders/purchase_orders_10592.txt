@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10592
+2017-07-08
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+26
+Genen Shouyu
+Gumbär Gummibärchen
+25
+5
+15.5
+31.23
+Page 1

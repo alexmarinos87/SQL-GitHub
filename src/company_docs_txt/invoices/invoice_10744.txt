@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10744
+Customer ID: VAFFE
+Order Date: 2017-11-17
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+Boston Crab Meat
+50
+18.4
+TotalPrice
+919.9999999999999
+Page 1
+ 
+ 

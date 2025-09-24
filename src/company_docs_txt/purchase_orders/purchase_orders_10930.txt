@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10930
+2018-03-06
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+27
+55
+58
+Sir Rodney's Scones
+Schoggi Schokolade
+Pâté chinois
+Escargots de Bourgogne
+36
+25
+25
+30
+10
+43.9
+24
+13.25
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10472
+2017-03-12
+Hari Kumar
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+51
+Guaraná Fantástica
+Manjimup Dried Apples
+80
+18
+3.6
+42.4
+Page 1

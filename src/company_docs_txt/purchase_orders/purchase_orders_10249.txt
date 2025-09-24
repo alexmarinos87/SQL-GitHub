@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10249
+2016-07-05
+Karin Josephs
+Products
+Product ID:
+14
+51
+Product:
+Tofu
+Manjimup Dried Apples
+Quantity:
+Unit Price:
+9
+40
+18.6
+42.4
+Page 1

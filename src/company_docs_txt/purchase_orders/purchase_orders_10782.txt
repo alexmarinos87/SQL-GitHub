@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10782
+2017-12-17
+Patricio Simpson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+Gorgonzola Telino
+1
+12.5
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10418
+Customer ID: QUICK
+Order Date: 2017-01-17
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+47
+61
+74
+Chang
+Zaanse koeken
+Sirop d'Èrable
+Longlife Tofu
+60
+55
+16
+15
+15.2
+7.6
+22.8
+8.0
+TotalPrice
+1814.8
+Page 1
+ 
+ 

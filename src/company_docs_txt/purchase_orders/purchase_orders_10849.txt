@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10849
+2018-01-23
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+26
+Aniseed Syrup
+Gumbär Gummibärchen
+49
+18
+10
+31.23
+Page 1

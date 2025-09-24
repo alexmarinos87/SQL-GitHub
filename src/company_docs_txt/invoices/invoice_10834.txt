@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10834
+Customer ID: TRADH
+Order Date: 2018-01-15
+Customer Details:
+Contact Name:
+Anabela Domingues
+Address:
+City:
+Av. Inês de Castro, 414
+Sao Paulo
+Postal Code:
+05634-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-2167
+(11) 555-2168
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+30
+Thüringer Rostbratwurst
+Nord-Ost Matjeshering
+8
+20
+123.79
+25.89
+TotalPrice
+1508.12
+Page 1
+ 
+ 

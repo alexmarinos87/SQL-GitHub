@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10338
+Customer ID: OLDWO
+Order Date: 2016-10-25
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+30
+Alice Mutton
+Nord-Ost Matjeshering
+20
+15
+31.2
+20.7
+TotalPrice
+934.5
+Page 1
+ 
+ 

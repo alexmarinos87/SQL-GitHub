@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10824
+2018-01-09
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+70
+Jack's New England Clam Chowder
+Outback Lager
+12
+9
+9.65
+15
+Page 1

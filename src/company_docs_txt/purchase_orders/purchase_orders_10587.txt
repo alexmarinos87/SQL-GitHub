@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10587
+2017-07-02
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+35
+77
+Gumbär Gummibärchen
+Steeleye Stout
+Original Frankfurter grüne Soße
+6
+20
+20
+31.23
+18
+13
+Page 1

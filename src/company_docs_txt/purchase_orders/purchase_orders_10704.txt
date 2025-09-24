@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10704
+2017-10-14
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+24
+48
+Chef Anton's Cajun Seasoning
+Guaraná Fantástica
+Chocolade
+6
+35
+24
+22
+4.5
+12.75
+Page 1

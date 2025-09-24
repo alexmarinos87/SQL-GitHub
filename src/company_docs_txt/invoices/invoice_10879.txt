@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10879
+Customer ID: WILMK
+Order Date: 2018-02-10
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+65
+76
+Boston Crab Meat
+Louisiana Fiery Hot Pepper Sauce
+Lakkalikööri
+12
+10
+10
+TotalPrice
+18.4
+21.05
+18.0
+611.3
+Page 1
+ 
+ 

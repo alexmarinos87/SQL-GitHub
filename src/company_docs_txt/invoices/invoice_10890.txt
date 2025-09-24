@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10890
+Customer ID: DUMON
+Order Date: 2018-02-16
+Customer Details:
+Contact Name:
+Janine Labrune
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, rue des Cinquante Otages
+Nantes
+44000
+France
+40.67.88.88
+40.67.89.89
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+34
+41
+Alice Mutton
+Sasquatch Ale
+Jack's New England Clam Chowder
+15
+10
+14
+39.0
+14.0
+9.65
+TotalPrice
+860.1
+Page 1
+ 
+ 

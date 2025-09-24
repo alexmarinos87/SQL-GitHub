@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10948
+2018-03-13
+José Pedro Freyre
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+50
+51
+55
+Valkoinen suklaa
+Manjimup Dried Apples
+Pâté chinois
+9
+40
+4
+16.25
+53
+24
+Page 1

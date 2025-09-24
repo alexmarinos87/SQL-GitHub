@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10361
+2016-11-22
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+60
+Chartreuse verte
+Camembert Pierrot
+54
+55
+14.4
+27.2
+Page 1

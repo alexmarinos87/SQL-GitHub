@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10970
+2018-03-24
+Martín Sommer
+Products
+Product ID:
+52
+Product:
+Filo Mix
+Quantity:
+Unit Price:
+40
+7
+Page 1

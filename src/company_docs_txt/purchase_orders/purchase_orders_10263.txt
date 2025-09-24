@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10263
+2016-07-23
+Roland Mendel
+Products
+Product ID:
+16
+24
+30
+74
+Product:
+Pavlova
+Guaraná Fantástica
+Nord-Ost Matjeshering
+Longlife Tofu
+Quantity:
+Unit Price:
+60
+28
+60
+36
+13.9
+3.6
+20.7
+8
+Page 1

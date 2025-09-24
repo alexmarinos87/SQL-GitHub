@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10623
+Customer ID: FRANK
+Order Date: 2017-08-07
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+19
+21
+24
+35
+Tofu
+Teatime Chocolate Biscuits
+Sir Rodney's Scones
+Guaraná Fantástica
+Steeleye Stout
+21
+15
+25
+3
+30
+23.25
+9.2
+10.0
+4.5
+18.0
+TotalPrice
+1429.75
+Page 1
+ 
+ 

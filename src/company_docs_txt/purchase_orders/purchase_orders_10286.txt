@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10286
+2016-08-21
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+62
+Steeleye Stout
+Tarte au sucre
+100
+40
+14.4
+39.4
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10320
+2016-10-03
+Pirkko Koskitalo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+71
+Flotemysost
+30
+17.2
+Page 1

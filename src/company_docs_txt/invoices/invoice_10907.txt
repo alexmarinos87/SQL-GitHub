@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10907
+Customer ID: SPECD
+Order Date: 2018-02-25
+Customer Details:
+Contact Name:
+Dominique Perrier
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+25, rue Lauriston
+Paris
+75016
+France
+(1) 47.55.60.10
+(1) 47.55.60.20
+Product ID
+Product Name
+Quantity
+Unit Price
+75
+Rhönbräu Klosterbier
+14
+TotalPrice
+7.75
+108.5
+Page 1
+ 
+ 

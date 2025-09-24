@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10933
+Customer ID: ISLAT
+Order Date: 2018-03-06
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+61
+Perth Pasties
+Sirop d'érable
+2
+30
+32.8
+28.5
+TotalPrice
+920.6
+Page 1
+ 
+ 

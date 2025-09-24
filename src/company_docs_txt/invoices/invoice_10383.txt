@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10383
+Customer ID: AROUT
+Order Date: 2016-12-16
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+50
+56
+Konbu
+Valkoinen suklaa
+Gnocchi di nonna Alice
+20
+15
+20
+4.8
+13.0
+30.4
+TotalPrice
+899.0
+Page 1
+ 
+ 

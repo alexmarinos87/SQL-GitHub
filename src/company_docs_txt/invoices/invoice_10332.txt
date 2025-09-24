@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10332
+Customer ID: MEREP
+Order Date: 2016-10-17
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+42
+47
+Carnarvon Tigers
+Singaporean Hokkien Fried Mee
+Zaanse koeken
+40
+10
+16
+50.0
+11.2
+7.6
+TotalPrice
+2233.6
+Page 1
+ 
+ 

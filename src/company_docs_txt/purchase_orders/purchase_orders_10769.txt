@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10769
+2017-12-08
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+52
+61
+62
+Jack's New England Clam Chowder
+Filo Mix
+Sirop d'érable
+Tarte au sucre
+30
+15
+20
+15
+9.65
+7
+28.5
+49.3
+Page 1

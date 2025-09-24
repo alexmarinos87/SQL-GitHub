@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10815
+2018-01-05
+Jose Pavarotti
+Products
+Product ID:
+33
+Product:
+Geitost
+Quantity:
+Unit Price:
+16
+2.5
+Page 1

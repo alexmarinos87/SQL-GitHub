@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10489
+2017-03-28
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+16
+Queso Cabrales
+Pavlova
+15
+18
+16.8
+13.9
+Page 1

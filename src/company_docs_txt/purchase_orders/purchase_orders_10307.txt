@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10307
+2016-09-17
+Fran Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+62
+68
+Tarte au sucre
+Scottish Longbreads
+10
+3
+39.4
+10
+Page 1

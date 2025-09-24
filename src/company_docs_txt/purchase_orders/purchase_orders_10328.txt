@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10328
+2016-10-14
+Lino Rodriguez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+65
+68
+Raclette Courdavault
+Louisiana Fiery Hot Pepper Sauce
+Scottish Longbreads
+9
+40
+10
+44
+16.8
+10
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10563
+Customer ID: RICAR
+Order Date: 2017-06-10
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+52
+Inlagd Sill
+Filo Mix
+25
+70
+19.0
+7.0
+TotalPrice
+965.0
+Page 1
+ 
+ 

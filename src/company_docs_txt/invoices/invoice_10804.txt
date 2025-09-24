@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10804
+Customer ID: SEVES
+Order Date: 2017-12-30
+Customer Details:
+Contact Name:
+Hari Kumar
+Address:
+City:
+90 Wadhurst Rd.
+London
+Postal Code:
+OX15 4NB
+Country:
+Phone:
+Fax:
+UK
+(171) 555-1717
+(171) 555-5646
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+28
+49
+Ikura
+Rössle Sauerkraut
+Maxilaku
+36
+24
+4
+31.0
+45.6
+20.0
+TotalPrice
+2290.4
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10502
+Customer ID: PERIC
+Order Date: 2017-04-10
+Customer Details:
+Contact Name:
+Guillermo Fernández
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Calle Dr. Jorge Cash 321
+México D.F.
+05033
+Mexico
+(5) 552-3745
+(5) 545-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+45
+53
+67
+Rogede sild
+Perth Pasties
+Laughing Lumberjack Lager
+21
+6
+30
+9.5
+32.8
+14.0
+TotalPrice
+816.3
+Page 1
+ 
+ 

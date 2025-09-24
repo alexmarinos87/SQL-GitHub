@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10254
+2016-07-11
+Yang Wang
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+55
+74
+Guaraná Fantástica
+Pâté chinois
+Longlife Tofu
+15
+21
+21
+3.6
+19.2
+8
+Page 1

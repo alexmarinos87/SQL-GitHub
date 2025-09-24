@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10758
+2017-11-28
+Michael Holz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+52
+70
+Gumbär Gummibärchen
+Filo Mix
+Outback Lager
+20
+60
+40
+31.23
+7
+15
+Page 1

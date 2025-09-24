@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10681
+2017-09-25
+Howard Snyder
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+21
+64
+Teatime Chocolate Biscuits
+Sir Rodney's Scones
+Wimmers gute Semmelknödel
+30
+12
+28
+9.2
+10
+33.25
+Page 1

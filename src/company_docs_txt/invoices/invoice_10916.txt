@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10916
+Customer ID: RANCH
+Order Date: 2018-02-27
+Customer Details:
+Contact Name:
+Sergio Gutiérrez
+Address:
+City:
+Av. del Libertador 900
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 123-5555
+(1) 123-5556
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+32
+57
+Pavlova
+Mascarpone Fabioli
+Ravioli Angelo
+6
+6
+20
+17.45
+32.0
+19.5
+TotalPrice
+686.7
+Page 1
+ 
+ 

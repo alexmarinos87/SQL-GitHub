@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10707
+Customer ID: AROUT
+Order Date: 2017-10-16
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+57
+70
+Pâté chinois
+Ravioli Angelo
+Outback Lager
+21
+40
+28
+24.0
+19.5
+15.0
+TotalPrice
+1704.0
+Page 1
+ 
+ 

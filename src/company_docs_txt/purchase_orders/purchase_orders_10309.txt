@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10309
+2016-09-19
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+6
+42
+43
+71
+Chef Anton's Cajun Seasoning
+Grandma's Boysenberry Spread
+Singaporean Hokkien Fried Mee
+Ipoh Coffee
+Flotemysost
+20
+30
+2
+20
+3
+17.6
+20
+11.2
+36.8
+17.2
+Page 1

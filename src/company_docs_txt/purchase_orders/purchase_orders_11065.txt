@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11065
+2018-05-01
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+54
+Nord-Ost Matjeshering
+Tourtière
+4
+20
+25.89
+7.45
+Page 1

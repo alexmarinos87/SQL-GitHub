@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10291
+2016-08-27
+Bernardo Batista
+Products
+Product ID:
+13
+44
+51
+Product:
+Konbu
+Gula Malacca
+Manjimup Dried Apples
+Quantity:
+Unit Price:
+20
+24
+2
+4.8
+15.5
+42.4
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10873
+Customer ID: WILMK
+Order Date: 2018-02-06
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+28
+Sir Rodney's Scones
+Rössle Sauerkraut
+20
+3
+10.0
+45.6
+TotalPrice
+336.8
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10964
+Customer ID: SPECD
+Order Date: 2018-03-20
+Customer Details:
+Contact Name:
+Dominique Perrier
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+25, rue Lauriston
+Paris
+75016
+France
+(1) 47.55.60.10
+(1) 47.55.60.20
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+38
+69
+Carnarvon Tigers
+Côte de Blaye
+Gudbrandsdalsost
+6
+5
+10
+62.5
+263.5
+36.0
+TotalPrice
+2052.5
+Page 1
+ 
+ 

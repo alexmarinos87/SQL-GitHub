@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10590
+2017-07-07
+Jean Fresnière
+Products
+Product ID:
+1
+77
+Product:
+Chai
+Original Frankfurter grüne Soße
+Quantity:
+Unit Price:
+20
+60
+18
+13
+Page 1

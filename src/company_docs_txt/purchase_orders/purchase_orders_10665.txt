@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10665
+2017-09-11
+Fran Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+51
+59
+76
+Manjimup Dried Apples
+Raclette Courdavault
+Lakkalikööri
+20
+1
+10
+53
+55
+18
+Page 1

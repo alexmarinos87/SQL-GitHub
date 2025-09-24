@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10267
+2016-07-29
+Peter Franken
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+59
+76
+Boston Crab Meat
+Raclette Courdavault
+Lakkalikööri
+50
+70
+15
+14.7
+44
+14.4
+Page 1

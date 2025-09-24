@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11010
+Customer ID: REGGC
+Order Date: 2018-04-09
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+24
+Uncle Bob's Organic Dried Pears
+Guaraná Fantástica
+20
+10
+30.0
+4.5
+TotalPrice
+645.0
+Page 1
+ 
+ 

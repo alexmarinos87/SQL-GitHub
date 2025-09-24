@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10848
+Customer ID: CONSH
+Order Date: 2018-01-23
+Customer Details:
+Contact Name:
+Elizabeth Brown
+Address:
+City:
+Berkeley Gardens 12  Brewery
+London
+Postal Code:
+WX1 6LT
+Country:
+Phone:
+Fax:
+UK
+(171) 555-2282
+(171) 555-9199
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+5
+9
+Chef Anton's Gumbo Mix
+Mishi Kobe Niku
+30
+3
+TotalPrice
+21.35
+97.0
+931.5
+Page 1
+ 
+ 

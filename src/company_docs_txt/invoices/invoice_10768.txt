@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10768
+Customer ID: AROUT
+Order Date: 2017-12-08
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+22
+31
+60
+71
+Gustaf's Knäckebröd
+Gorgonzola Telino
+Camembert Pierrot
+Flotemysost
+4
+50
+15
+12
+21.0
+12.5
+34.0
+21.5
+TotalPrice
+1477.0
+Page 1
+ 
+ 

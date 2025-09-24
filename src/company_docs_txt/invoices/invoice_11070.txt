@@ -1,0 +1,45 @@
+Invoice
+Order ID: 11070
+Customer ID: LEHMS
+Order Date: 2018-05-05
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+2
+16
+31
+Chai
+Chang
+Pavlova
+Gorgonzola Telino
+40
+20
+30
+20
+18.0
+19.0
+17.45
+12.5
+TotalPrice
+1873.5
+Page 1
+ 
+ 

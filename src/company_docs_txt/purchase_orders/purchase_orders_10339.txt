@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10339
+2016-10-28
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+17
+62
+Chef Anton's Cajun Seasoning
+Alice Mutton
+Tarte au sucre
+10
+70
+28
+17.6
+31.2
+39.4
+Page 1

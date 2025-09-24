@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10666
+Customer ID: RICSU
+Order Date: 2017-09-12
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+65
+Thüringer Rostbratwurst
+Louisiana Fiery Hot Pepper Sauce
+36
+10
+123.79
+21.05
+TotalPrice
+4666.9400000000005
+Page 1
+ 
+ 

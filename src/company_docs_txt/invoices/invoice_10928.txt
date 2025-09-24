@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10928
+Customer ID: GALED
+Order Date: 2018-03-05
+Customer Details:
+Contact Name:
+Eduardo Saavedra
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rambla de Cataluña, 23
+Barcelona
+08022
+Spain
+(93) 203 4560
+(93) 203 4561
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+76
+Zaanse koeken
+Lakkalikööri
+5
+5
+9.5
+18.0
+TotalPrice
+137.5
+Page 1
+ 
+ 

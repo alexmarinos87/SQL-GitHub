@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10927
+2018-03-05
+Daniel Tonini
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+52
+76
+Sir Rodney's Marmalade
+Filo Mix
+Lakkalikööri
+5
+5
+20
+81
+7
+18
+Page 1

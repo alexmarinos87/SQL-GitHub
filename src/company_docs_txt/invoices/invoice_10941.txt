@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10941
+Customer ID: SAVEA
+Order Date: 2018-03-11
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+62
+68
+72
+Gorgonzola Telino
+Tarte au sucre
+Scottish Longbreads
+Mozzarella di Giovanni
+44
+30
+80
+50
+12.5
+49.3
+12.5
+34.8
+TotalPrice
+4769.0
+Page 1
+ 
+ 

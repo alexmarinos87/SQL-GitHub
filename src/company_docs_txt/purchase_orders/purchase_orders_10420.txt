@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10420
+2017-01-21
+Paula Parente
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+9
+13
+70
+73
+Mishi Kobe Niku
+Konbu
+Outback Lager
+Röd Kaviar
+20
+2
+8
+20
+77.6
+4.8
+12
+12
+Page 1

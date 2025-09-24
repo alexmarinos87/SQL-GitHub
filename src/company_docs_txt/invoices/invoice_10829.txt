@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10829
+Customer ID: ISLAT
+Order Date: 2018-01-13
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+8
+13
+60
+Chang
+Northwoods Cranberry Sauce
+Konbu
+Camembert Pierrot
+10
+20
+10
+21
+19.0
+40.0
+6.0
+34.0
+TotalPrice
+1764.0
+Page 1
+ 
+ 

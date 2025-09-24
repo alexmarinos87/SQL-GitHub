@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10889
+2018-02-16
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+38
+Queso Cabrales
+Côte de Blaye
+40
+40
+21
+263.5
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10716
+2017-10-24
+Sergio Gutiérrez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+51
+61
+Sir Rodney's Scones
+Manjimup Dried Apples
+Sirop d'érable
+5
+7
+10
+10
+53
+28.5
+Page 1

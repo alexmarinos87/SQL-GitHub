@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10579
+Customer ID: LETSS
+Order Date: 2017-06-25
+Customer Details:
+Contact Name:
+Jaime Yorres
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+87 Polk St. Suite 5
+San Francisco
+94117
+USA
+(415) 555-5938
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+15
+75
+Genen Shouyu
+Rhönbräu Klosterbier
+10
+21
+15.5
+7.75
+TotalPrice
+317.75
+Page 1
+ 
+ 

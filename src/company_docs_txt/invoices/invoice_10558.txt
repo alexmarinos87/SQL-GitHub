@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10558
+Customer ID: AROUT
+Order Date: 2017-06-04
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+51
+52
+53
+73
+Zaanse koeken
+Manjimup Dried Apples
+Filo Mix
+Perth Pasties
+Röd Kaviar
+25
+20
+30
+18
+3
+9.5
+53.0
+7.0
+32.8
+15.0
+TotalPrice
+2142.9
+Page 1
+ 
+ 

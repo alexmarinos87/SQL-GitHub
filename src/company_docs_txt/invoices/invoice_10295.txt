@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10295
+Customer ID: VINET
+Order Date: 2016-09-02
+Customer Details:
+Contact Name:
+Paul Henriot
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+59 rue de l'Abbaye
+Reims
+51100
+France
+26.47.15.10
+26.47.15.11
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+Gnocchi di nonna Alice
+4
+TotalPrice
+30.4
+121.6
+Page 1
+ 
+ 

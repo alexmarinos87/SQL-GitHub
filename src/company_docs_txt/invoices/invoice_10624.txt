@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10624
+Customer ID: THECR
+Order Date: 2017-08-07
+Customer Details:
+Contact Name:
+Liu Wong
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+55 Grizzly Peak Rd.
+Butte
+59801
+USA
+(406) 555-5834
+(406) 555-8083
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+29
+44
+Rössle Sauerkraut
+Thüringer Rostbratwurst
+Gula Malacca
+10
+6
+10
+45.6
+123.79
+19.45
+TotalPrice
+1393.24
+Page 1
+ 
+ 

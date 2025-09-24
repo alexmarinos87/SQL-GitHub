@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10971
+2018-03-24
+Carine Schmitt
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+Thüringer Rostbratwurst
+14
+123.79
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10470
+Customer ID: BONAP
+Order Date: 2017-03-11
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+23
+64
+Carnarvon Tigers
+Tunnbröd
+Wimmers gute Semmelknödel
+30
+15
+8
+50.0
+7.2
+26.6
+TotalPrice
+1820.8
+Page 1
+ 
+ 

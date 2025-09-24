@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10625
+2017-08-08
+Ana Trujillo
+Products
+Product ID:
+14
+42
+60
+Product:
+Tofu
+Singaporean Hokkien Fried Mee
+Camembert Pierrot
+Quantity:
+Unit Price:
+3
+5
+10
+23.25
+14
+34
+Page 1

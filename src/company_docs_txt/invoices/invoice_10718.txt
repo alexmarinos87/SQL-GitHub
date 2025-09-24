@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10718
+Customer ID: KOENE
+Order Date: 2017-10-27
+Customer Details:
+Contact Name:
+Philip Cramer
+Address:
+City:
+Maubelstr. 90
+Brandenburg
+Postal Code:
+14776
+Country:
+Phone:
+Fax:
+Germany
+0555-09876
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+12
+16
+36
+62
+Queso Manchego La Pastora
+Pavlova
+Inlagd Sill
+Tarte au sucre
+36
+20
+40
+20
+38.0
+17.45
+19.0
+49.3
+TotalPrice
+3463.0
+Page 1
+ 
+ 

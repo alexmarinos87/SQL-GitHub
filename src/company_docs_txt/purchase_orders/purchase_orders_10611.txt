@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10611
+2017-07-25
+Zbyszek Piestrzeniewicz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+1
+2
+60
+Chai
+Chang
+Camembert Pierrot
+6
+10
+15
+18
+19
+34
+Page 1

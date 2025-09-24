@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10866
+2018-02-03
+Christina Berglund
+Products
+Product ID:
+2
+24
+30
+Product:
+Chang
+Guaraná Fantástica
+Nord-Ost Matjeshering
+Quantity:
+Unit Price:
+21
+6
+40
+19
+4.5
+25.89
+Page 1

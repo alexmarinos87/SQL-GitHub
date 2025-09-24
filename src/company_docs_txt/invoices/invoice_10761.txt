@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10761
+Customer ID: RATTC
+Order Date: 2017-12-02
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+25
+75
+NuNuCa Nuß-Nougat-Creme
+Rhönbräu Klosterbier
+35
+18
+14.0
+7.75
+TotalPrice
+629.5
+Page 1
+ 
+ 

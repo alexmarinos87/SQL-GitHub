@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10402
+2017-01-02
+Roland Mendel
+Products
+Product ID:
+23
+63
+Product:
+Tunnbröd
+Vegie-spread
+Quantity:
+Unit Price:
+60
+65
+7.2
+35.1
+Page 1

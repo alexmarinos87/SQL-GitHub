@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10549
+Customer ID: QUICK
+Order Date: 2017-05-27
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+45
+51
+Gorgonzola Telino
+Rogede sild
+Manjimup Dried Apples
+55
+100
+48
+12.5
+9.5
+53.0
+TotalPrice
+4181.5
+Page 1
+ 
+ 

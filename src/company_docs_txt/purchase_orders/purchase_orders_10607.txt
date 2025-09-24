@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10607
+2017-07-22
+Jose Pavarotti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+17
+33
+40
+72
+Uncle Bob's Organic Dried Pears
+Alice Mutton
+Geitost
+Boston Crab Meat
+Mozzarella di Giovanni
+45
+100
+14
+42
+12
+30
+39
+2.5
+18.4
+34.8
+Page 1

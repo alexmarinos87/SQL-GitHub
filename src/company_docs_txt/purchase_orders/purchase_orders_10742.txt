@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10742
+2017-11-14
+Elizabeth Lincoln
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+60
+72
+Aniseed Syrup
+Camembert Pierrot
+Mozzarella di Giovanni
+20
+50
+35
+10
+34
+34.8
+Page 1

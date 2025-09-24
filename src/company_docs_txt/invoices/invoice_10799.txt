@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10799
+Customer ID: KOENE
+Order Date: 2017-12-26
+Customer Details:
+Contact Name:
+Philip Cramer
+Address:
+City:
+Maubelstr. 90
+Brandenburg
+Postal Code:
+14776
+Country:
+Phone:
+Fax:
+Germany
+0555-09876
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+24
+59
+Konbu
+Guaraná Fantástica
+Raclette Courdavault
+20
+20
+25
+6.0
+4.5
+55.0
+TotalPrice
+1585.0
+Page 1
+ 
+ 

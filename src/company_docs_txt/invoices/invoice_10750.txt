@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10750
+Customer ID: WARTH
+Order Date: 2017-11-21
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+45
+59
+Tofu
+Rogede sild
+Raclette Courdavault
+5
+40
+25
+23.25
+9.5
+55.0
+TotalPrice
+1871.25
+Page 1
+ 
+ 

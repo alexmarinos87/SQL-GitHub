@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10500
+Customer ID: LAMAI
+Order Date: 2017-04-09
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+15
+28
+Genen Shouyu
+Rössle Sauerkraut
+12
+8
+15.5
+45.6
+TotalPrice
+550.8
+Page 1
+ 
+ 

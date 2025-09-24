@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10497
+Customer ID: LEHMS
+Order Date: 2017-04-04
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+72
+77
+Gnocchi di nonna Alice
+Mozzarella di Giovanni
+Original Frankfurter grüne Soße
+14
+25
+25
+30.4
+27.8
+10.4
+TotalPrice
+1380.6
+Page 1
+ 
+ 

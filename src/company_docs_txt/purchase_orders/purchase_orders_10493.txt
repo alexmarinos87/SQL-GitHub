@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10493
+2017-04-02
+Annette Roulet
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+65
+66
+69
+Louisiana Fiery Hot Pepper Sauce
+Louisiana Hot Spiced Okra
+Gudbrandsdalsost
+15
+10
+10
+16.8
+13.6
+28.8
+Page 1

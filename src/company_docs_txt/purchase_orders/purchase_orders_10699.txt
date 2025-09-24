@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10699
+2017-10-09
+Alexander Feuer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+47
+Zaanse koeken
+12
+9.5
+Page 1

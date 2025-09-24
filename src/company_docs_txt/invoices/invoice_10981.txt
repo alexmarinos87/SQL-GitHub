@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10981
+Customer ID: HANAR
+Order Date: 2018-03-27
+Customer Details:
+Contact Name:
+Mario Pontes
+Address:
+City:
+Rua do Paço, 67
+Rio de Janeiro
+Postal Code:
+05454-876
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-0091
+(21) 555-8765
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+38
+Côte de Blaye
+60
+263.5
+TotalPrice
+15810.0
+Page 1
+ 
+ 

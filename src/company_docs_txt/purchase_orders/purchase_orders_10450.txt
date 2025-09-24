@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10450
+2017-02-19
+Mary Saveley
+Products
+Product ID:
+10
+54
+Product:
+Ikura
+Tourtière
+Quantity:
+Unit Price:
+20
+6
+24.8
+5.9
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10921
+2018-03-03
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+63
+Steeleye Stout
+Vegie-spread
+10
+40
+18
+43.9
+Page 1

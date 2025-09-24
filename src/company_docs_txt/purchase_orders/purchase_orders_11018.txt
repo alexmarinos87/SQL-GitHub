@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11018
+2018-04-13
+Fran Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+12
+18
+56
+Queso Manchego La Pastora
+Carnarvon Tigers
+Gnocchi di nonna Alice
+20
+10
+5
+38
+62.5
+38
+Page 1

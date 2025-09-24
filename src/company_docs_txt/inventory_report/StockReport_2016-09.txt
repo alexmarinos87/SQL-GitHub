@@ -1,0 +1,181 @@
+Stock Report for 2016-09
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Chartreuse verte
+Ipoh Coffee
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Condiments
+Chef Anton's Cajun..
+Condiments
+Grandma's Boysenberry..
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Louisiana Hot Spiced..
+Confections
+Confections
+Maxilaku
+Pavlova
+Confections
+Scottish Longbreads
+20
+40
+90
+56
+55
+10
+14
+20
+30
+30
+30
+30
+40
+38
+Confections
+Tarte au sucre
+125
+Confections
+Teatime Chocolate..
+Dairy Products
+Flotemysost
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Queso Cabrales
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Singaporean Hokkien..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Rössle Sauerkraut
+Boston Crab Meat
+Carnarvon Tigers
+Escargots de Bourgogne
+Inlagd Sill
+Jack's New England..
+Nord-Ost Matjeshering
+15
+5
+23
+40
+20
+12
+40
+24
+8
+40
+30
+25
+5
+32
+50
+25
+30
+52
+10
+10
+39
+17
+69
+17
+15
+125
+111
+53
+120
+76
+4
+10
+29
+6
+17
+25
+26
+26
+9
+14
+22
+79
+21
+26
+0
+0
+0
+21
+26
+123
+42
+62
+112
+85
+10
+18
+19
+18
+46
+15
+7.75
+14
+22
+25
+21.05
+17
+20
+17.45
+12.5
+49.3
+9.2
+21.5
+36
+32
+34.8
+21
+55
+38
+14
+39
+32.8
+123.79
+7.45
+45.6
+18.4
+62.5
+13.25
+19
+9.65
+25.89

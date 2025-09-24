@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10913
+2018-02-26
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+33
+58
+Chef Anton's Cajun Seasoning
+Geitost
+Escargots de Bourgogne
+30
+40
+15
+22
+2.5
+13.25
+Page 1

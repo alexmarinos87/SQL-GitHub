@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10886
+2018-02-13
+Mario Pontes
+Products
+Product ID:
+10
+31
+77
+Product:
+Ikura
+Gorgonzola Telino
+Original Frankfurter grüne Soße
+Quantity:
+Unit Price:
+70
+35
+40
+31
+12.5
+13
+Page 1

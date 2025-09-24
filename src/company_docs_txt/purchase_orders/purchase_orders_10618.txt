@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10618
+2017-08-01
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+56
+68
+Grandma's Boysenberry Spread
+Gnocchi di nonna Alice
+Scottish Longbreads
+70
+20
+15
+25
+38
+12.5
+Page 1

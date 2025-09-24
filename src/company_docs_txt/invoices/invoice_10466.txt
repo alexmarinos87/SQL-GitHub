@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10466
+Customer ID: COMMI
+Order Date: 2017-03-06
+Customer Details:
+Contact Name:
+Pedro Afonso
+Address:
+City:
+Av. dos Lusíadas, 23
+Sao Paulo
+Postal Code:
+05432-043
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-7647
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+46
+Queso Cabrales
+Spegesild
+10
+5
+16.8
+9.6
+TotalPrice
+216.0
+Page 1
+ 
+ 

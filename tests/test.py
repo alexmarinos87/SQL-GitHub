@@ -1,190 +1,39 @@
-def main():
-
-    from pathlib import Path
-
-    from pdfminer.pdfparser import PDFParser
-    from pdfminer.pdfdocument import PDFDocument
-    from pdfminer.pdfpage import PDFPage
-    from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-    from pdfminer.pdfdevice import PDFDevice
-    from pdfminer.layout import LAParams, LTTextBox, LTTextLine
-    from pdfminer.converter import PDFPageAggregator
-
-    for path in Path("pdfs").glob("*.pdf"):
-        with path.open("rb") as file:
-            parser = PDFParser(file)
-            document = PDFDocument(parser, "")
-            if not document.is_extractable:
-                continue
-
-            manager = PDFResourceManager()
-            params = LAParams()
-
-            device = PDFPageAggregator(manager, laparams=params)
-            interpreter = PDFPageInterpreter(manager, device)
-
-            text = ""
-
-            for page in PDFPage.create_pages(document):
-                interpreter.process_page(page)
-                for obj in device.get_result():
-                    if isinstance(obj, LTTextBox) or isinstance(obj, LTTextLine):
-                        text += obj.get_text()
-        with open("txts/{}.txt".format(path.stem), "w") as file:
-            file.write(text)
-    return 0
-
-
-if __name__ == "__main__":
-    import sys
-    sys.exit(main())
-
-"""import os
-# Using os.walk()
-for dirpath, dirs, files in os.walk('src/CompanyDocuments/invoices'): 
-  for filename in files:
-    fname = os.path.join(dirpath,filename)
-    if fname.endswith('.pdf'):
-      print(fname)"""
-
-
-
-"""import  tkinter
-import tkinter.ttk 
-
-class Gui:
-
-    def __init__(self):
-        self.root = tkinter.Tk()
-
-        # Set up the Combobox
-        self.selections = tkinter.Combobox(self.root)
-        self.selections['values'] = ['invoices', 'inventory_report', 'purchase_orders', 'shipping_orders']
-        self.selections.pack()
-
-        # The Entry to be shown if "Custom" is selected
-        self.custom_field = Entry(self.root)
-        self.show_custom_field = False
-
-        # Check the selection in 100 ms
-        self.root.after(100, self.check_for_selection)
-
-    def check_for_selection(self):
-        '''Checks if the value of the Combobox equals "Custom".'''
-
-
-        # Get the value of the Combobox
-        value = self.selections.get()
-
-        # If the value is equal to "Custom" and show_field is set to False
-        if value == 'Custom' and not self.show_custom_field:
-
-            # Set show_field to True and pack() the custom entry field
-            self.show_custom_field = True
-            self.custom_field.pack()
-
-
-        # If the value DOESNT equal "Custom"
-        elif value != 'Custom':
-
-            # Set show_field to False
-            self.show_custom_field = False
-
-            # Destroy the custom input
-            self.custom_field.destroy()
-
-            # Set up a new Entry object to pack() if we need it later.
-            # Without this line, tkinter was raising an error for me.
-            # This fixed it, but I don't promise that this is the
-            # most efficient method to do this.
-            self.custom_field = Entry(self.root)
-
-        # If the value IS "Custom" and we're showing the custom_feild
-        elif value == 'Custom' and self.show_custom_field:
-            pass
-
-
-        # Call this method again to keep checking the selection box
-        self.root.after(100, self.check_for_selection)
-
-
-app = Gui()
-app.root.mainloop()"""
-
-
-"""import tkinter as tk
-
-def fahrenheit_to_celsius():
-    """#onvert the value for Fahrenheit to Celsius and insert the
-   # result into lbl_result.
-    """
-    fahrenheit = ent_temperature.get()
-    celsius = (5 / 9) * (float(fahrenheit) - 32)
-    lbl_result["text"] = f"{round(celsius, 2)} \N{DEGREE CELSIUS}"
-
-# Set up the window
-window = tk.Tk()
-window.title("Temperature Converter")
-window.resizable(width=False, height=False)
-
-# Create the Fahrenheit entry frame with an Entry
-# widget and label in it
-frm_entry = tk.Frame(master=window)
-ent_temperature = tk.Entry(master=frm_entry, width=10)
-lbl_temp = tk.Label(master=frm_entry, text="\N{DEGREE FAHRENHEIT}")
-
-# Layout the temperature Entry and Label in frm_entry
-# using the .grid() geometry manager
-ent_temperature.grid(row=0, column=0, sticky="e")
-lbl_temp.grid(row=0, column=1, sticky="w")
-
-# Create the conversion Button and result display Label
-btn_convert = tk.Button(
-    master=window,
-    text="\N{RIGHTWARDS BLACK ARROW}",
-    command=fahrenheit_to_celsius
-)
-lbl_result = tk.Label(master=window, text="\N{DEGREE CELSIUS}")
-
-# Set up the layout using the .grid() geometry manager
-frm_entry.grid(row=0, column=0, padx=10)
-btn_convert.grid(row=0, column=1, pady=10)
-lbl_result.grid(row=0, column=2, padx=10)
-
-# Run the application
-window.mainloop()
-
-
-
-import tkinter as tk
+import tkinter
 from tkinter import ttk
 
-root = tk.Tk()
-root.title('Great Britain Basketball')
+root = tkinter.Tk()
+root.title('Select folder to convert pdfs to txt for reconcilliation and analysis.')
 root.geometry('800x449+300+130')
-root.configure(bg='#072462')
+root.configure(bg ='#072462')
 
-#def variable and store based on selection
+# def variable and store based on selection
 def comboclick(event):
-    global select_sheet # Setting select_sheet to global, so it can be modified
-    select_sheet = cb.get()
+    global select_folder # Setting select _folder to global, so it can be modified
+    select_folder = cb.get()
 
-# I am setting here the same value of cb.current(), so if the user doesn't change it, you still get an output.
-select_sheet = 'Mon'
+# I am setting here the same value of cb.currrent(), so if the user doesnt change it, you still get an output
+select_folder = 'inventory_report'
 
-#create combobox
-cb = ttk.Combobox(root, value=('Mon', 'Tues', 'Wed', 'Thurs'))
-cb.current(0)
-cb.bind('<<ComboboxSelected>>', comboclick)
+# create combobox
+cb = ttk.Combobox(root, value=('inventory_report', 'invoices', 'purchase_orders', 'shipping_orders'))
+cb. current(0)
+cb.bind('<<ComboboxSelected>>' , comboclick)
 cb.pack()
 
-#set close window button
-button_close = tk.Button(root, width=35, text='Close Programme', command=root.quit, 
-                      fg='#C51E42', bg='#B4B5B4', borderwidth=1).pack()
-
+# set close window button
+button_close = tkinter.Button(root, width = 35, text = 'Close Programme', command=root.quit, fg='#C51E42', bg='#B4B5B4', borderwidth =1).pack()
 root.mainloop()
 
-print(select_sheet)"""
+print(select_folder)
+
+    # set directory path from user combobox selection
+if select_folder == 'inventory_report':
+    directory = "src/company_docs_pdf/" + select_folder +"/monthly/monthly"
+else: directory = "src/company_docs_pdf/" + select_folder
+
+if select_folder == 'inventory_report':
+    dest_directory = "src/company_docs_txt/" + select_folder 
+else: dest_directory = "src/company_docs_txt/" + select_folder
 
 def main():
 
@@ -198,13 +47,13 @@ def main():
     from pdfminer.layout import LAParams, LTTextBox, LTTextLine
     from pdfminer.converter import PDFPageAggregator
 
-    for path in Path("pdfs").glob("*.pdf"):
-        with path.open("rb") as file:
+    for path in Path(directory).glob('*.pdf'):
+        with path.open('rb') as file:
             parser = PDFParser(file)
             document = PDFDocument(parser, "")
             if not document.is_extractable:
                 continue
-
+            
             manager = PDFResourceManager()
             params = LAParams()
 
@@ -212,16 +61,14 @@ def main():
             interpreter = PDFPageInterpreter(manager, device)
 
             text = ""
-
             for page in PDFPage.create_pages(document):
                 interpreter.process_page(page)
                 for obj in device.get_result():
                     if isinstance(obj, LTTextBox) or isinstance(obj, LTTextLine):
                         text += obj.get_text()
-        with open("txts/{}.txt".format(path.stem), "w") as file:
+        with open(dest_directory +'/{}.txt'.format(path.stem), 'w') as file:
             file.write(text)
     return 0
-
 
 if __name__ == "__main__":
     import sys

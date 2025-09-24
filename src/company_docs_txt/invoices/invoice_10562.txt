@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10562
+Customer ID: REGGC
+Order Date: 2017-06-09
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+62
+Geitost
+Tarte au sucre
+20
+10
+2.5
+49.3
+TotalPrice
+543.0
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11046
+Customer ID: WANDK
+Order Date: 2018-04-23
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+12
+32
+35
+Queso Manchego La Pastora
+Mascarpone Fabioli
+Steeleye Stout
+20
+15
+18
+38.0
+32.0
+18.0
+TotalPrice
+1564.0
+Page 1
+ 
+ 

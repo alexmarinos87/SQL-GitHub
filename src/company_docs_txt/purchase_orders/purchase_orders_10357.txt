@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10357
+2016-11-19
+Carlos González
+Products
+Product ID:
+10
+26
+60
+Product:
+Ikura
+Gumbär Gummibärchen
+Camembert Pierrot
+Quantity:
+Unit Price:
+30
+16
+8
+24.8
+24.9
+27.2
+Page 1

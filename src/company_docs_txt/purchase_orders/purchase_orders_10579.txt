@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10579
+2017-06-25
+Jaime Yorres
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+75
+Genen Shouyu
+Rhönbräu Klosterbier
+10
+21
+15.5
+7.75
+Page 1

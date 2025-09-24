@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10269
+2016-07-31
+Karl Jablonski
+Products
+Product ID:
+33
+72
+Product:
+Geitost
+Mozzarella di Giovanni
+Quantity:
+Unit Price:
+60
+20
+2
+27.8
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10563
+2017-06-10
+Janete Limeira
+Products
+Product ID:
+36
+52
+Product:
+Inlagd Sill
+Filo Mix
+Quantity:
+Unit Price:
+25
+70
+19
+7
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10298
+Customer ID: HUNGO
+Order Date: 2016-09-05
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+36
+59
+62
+Chang
+Inlagd Sill
+Raclette Courdavault
+Tarte au sucre
+40
+40
+30
+15
+15.2
+15.2
+44.0
+39.4
+TotalPrice
+3127.0
+Page 1
+ 
+ 

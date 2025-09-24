@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10671
+Customer ID: FRANR
+Order Date: 2017-09-17
+Customer Details:
+Contact Name:
+Carine Schmitt
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+54, rue Royale
+Nantes
+44000
+France
+40.32.21.21
+40.32.21.20
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+62
+65
+Pavlova
+Tarte au sucre
+Louisiana Fiery Hot Pepper Sauce
+10
+10
+12
+TotalPrice
+17.45
+49.3
+21.05
+920.1
+Page 1
+ 
+ 

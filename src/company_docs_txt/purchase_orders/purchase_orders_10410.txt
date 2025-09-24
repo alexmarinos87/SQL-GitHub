@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10410
+2017-01-10
+Elizabeth Lincoln
+Products
+Product ID:
+33
+59
+Product:
+Geitost
+Raclette Courdavault
+Quantity:
+Unit Price:
+49
+16
+2
+44
+Page 1

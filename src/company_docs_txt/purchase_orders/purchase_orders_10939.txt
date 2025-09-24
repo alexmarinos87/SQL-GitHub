@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10939
+2018-03-10
+Giovanni Rovelli
+Products
+Product ID:
+2
+67
+Product:
+Chang
+Laughing Lumberjack Lager
+Quantity:
+Unit Price:
+10
+40
+19
+14
+Page 1

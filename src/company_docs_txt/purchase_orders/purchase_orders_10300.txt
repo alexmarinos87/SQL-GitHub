@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10300
+2016-09-09
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+66
+68
+Louisiana Hot Spiced Okra
+Scottish Longbreads
+30
+20
+13.6
+10
+Page 1

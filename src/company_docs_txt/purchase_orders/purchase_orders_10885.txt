@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10885
+2018-02-12
+Pascale Cartrain
+Products
+Product:
+Chang
+Guaraná Fantástica
+Outback Lager
+Original Frankfurter grüne Soße
+Product ID:
+2
+24
+70
+77
+Quantity:
+Unit Price:
+20
+12
+30
+25
+19
+4.5
+15
+13
+Page 1

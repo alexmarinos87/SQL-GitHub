@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10882
+2018-02-11
+Jose Pavarotti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+42
+49
+54
+Singaporean Hokkien Fried Mee
+Maxilaku
+Tourtière
+25
+20
+32
+14
+20
+7.45
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10848
+2018-01-23
+Elizabeth Brown
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+5
+9
+Chef Anton's Gumbo Mix
+Mishi Kobe Niku
+30
+3
+21.35
+97
+Page 1

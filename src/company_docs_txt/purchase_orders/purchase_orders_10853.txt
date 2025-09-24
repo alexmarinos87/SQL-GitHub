@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10853
+2018-01-27
+Hanna Moos
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+Carnarvon Tigers
+10
+62.5
+Page 1

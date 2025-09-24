@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10895
+2018-02-18
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+39
+40
+60
+Guaraná Fantástica
+Chartreuse verte
+Boston Crab Meat
+Camembert Pierrot
+110
+45
+91
+100
+4.5
+18
+18.4
+34
+Page 1

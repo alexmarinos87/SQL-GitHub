@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10411
+Customer ID: BOTTM
+Order Date: 2017-01-10
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+44
+59
+Jack's New England Clam Chowder
+Gula Malacca
+Raclette Courdavault
+25
+40
+9
+7.7
+15.5
+44.0
+TotalPrice
+1208.5
+Page 1
+ 
+ 

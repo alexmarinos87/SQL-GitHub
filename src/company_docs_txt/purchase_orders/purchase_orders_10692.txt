@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10692
+2017-10-03
+Maria Anders
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+63
+Vegie-spread
+20
+43.9
+Page 1

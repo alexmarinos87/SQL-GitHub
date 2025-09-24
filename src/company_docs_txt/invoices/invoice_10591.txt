@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10591
+Customer ID: VAFFE
+Order Date: 2017-07-07
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+3
+7
+54
+Aniseed Syrup
+Uncle Bob's Organic Dried Pears
+Tourtière
+14
+10
+50
+10.0
+30.0
+7.45
+TotalPrice
+812.5
+Page 1
+ 
+ 

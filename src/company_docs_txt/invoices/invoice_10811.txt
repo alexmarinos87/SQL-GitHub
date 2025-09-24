@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10811
+Customer ID: LINOD
+Order Date: 2018-01-02
+Customer Details:
+Contact Name:
+Felipe Izquierdo
+Address:
+City:
+Ave. 5 de Mayo Porlamar
+I. de Margarita
+Postal Code:
+4980
+Country:
+Phone:
+Fax:
+Venezuela
+(8) 34-56-12
+(8) 34-93-93
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+23
+40
+Teatime Chocolate Biscuits
+Tunnbröd
+Boston Crab Meat
+15
+18
+30
+TotalPrice
+9.2
+9.0
+18.4
+852.0
+Page 1
+ 
+ 

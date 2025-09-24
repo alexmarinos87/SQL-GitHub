@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10961
+Customer ID: QUEEN
+Order Date: 2018-03-19
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+52
+76
+Filo Mix
+Lakkalikööri
+6
+60
+7.0
+18.0
+TotalPrice
+1122.0
+Page 1
+ 
+ 

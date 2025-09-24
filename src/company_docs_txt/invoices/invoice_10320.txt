@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10320
+Customer ID: WARTH
+Order Date: 2016-10-03
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+71
+Flotemysost
+30
+TotalPrice
+17.2
+516.0
+Page 1
+ 
+ 

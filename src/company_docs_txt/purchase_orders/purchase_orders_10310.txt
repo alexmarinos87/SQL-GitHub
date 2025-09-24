@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10310
+2016-09-20
+Liz Nixon
+Products
+Product ID:
+16
+62
+Product:
+Pavlova
+Tarte au sucre
+Quantity:
+Unit Price:
+10
+5
+13.9
+39.4
+Page 1

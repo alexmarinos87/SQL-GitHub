@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10724
+2017-10-30
+Jean Fresnière
+Products
+Product ID:
+10
+61
+Product:
+Ikura
+Sirop d'érable
+Quantity:
+Unit Price:
+16
+5
+31
+28.5
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10424
+2017-01-23
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+38
+68
+Steeleye Stout
+Côte de Blaye
+Scottish Longbreads
+60
+49
+30
+14.4
+210.8
+10
+Page 1

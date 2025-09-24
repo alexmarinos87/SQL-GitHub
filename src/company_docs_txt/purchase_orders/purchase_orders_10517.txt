@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10517
+2017-04-24
+Simon Crowther
+Products
+Product ID:
+52
+59
+70
+Product:
+Filo Mix
+Raclette Courdavault
+Outback Lager
+Quantity:
+Unit Price:
+6
+4
+6
+7
+55
+15
+Page 1

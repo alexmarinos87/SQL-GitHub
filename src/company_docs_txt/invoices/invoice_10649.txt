@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10649
+Customer ID: MAISD
+Order Date: 2017-08-28
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+72
+Rössle Sauerkraut
+Mozzarella di Giovanni
+20
+15
+45.6
+34.8
+TotalPrice
+1434.0
+Page 1
+ 
+ 

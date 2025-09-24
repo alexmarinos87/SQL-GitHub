@@ -1,0 +1,205 @@
+Stock Report for 2018-05
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Chartreuse verte
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Rhönbräu Klosterbier
+Sasquatch Ale
+Condiments
+Aniseed Syrup
+Condiments
+Chef Anton's Cajun..
+40
+62
+22
+20
+36
+2
+4
+35
+4
+1
+Condiments
+Grandma's Boysenberry..
+21
+Condiments
+Louisiana Hot Spiced..
+Condiments
+Northwoods Cranberry..
+Condiments
+Original Frankfurter..
+Confections
+Pavlova
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Teatime Chocolate..
+Confections
+Valkoinen suklaa
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+Grains/Cereals
+Filo Mix
+Grains/Cereals
+Tunnbröd
+1
+2
+30
+49
+55
+1
+52
+22
+2
+20
+1
+10
+2
+2
+2
+Grains/Cereals Wimmers gute..
+132
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Rössle Sauerkraut
+Tofu
+Uncle Bob's Organic..
+Ikura
+Konbu
+Jack's New England..
+Nord-Ost Matjeshering
+Röd Kaviar
+Spegesild
+77
+25
+6
+20
+8
+21
+16
+1
+64
+14
+4
+2
+33
+39
+17
+69
+20
+17
+57
+125
+111
+13
+53
+120
+4
+6
+32
+29
+6
+40
+25
+65
+19
+0
+9
+22
+86
+38
+61
+22
+0
+0
+115
+21
+26
+35
+15
+31
+85
+24
+10
+101
+95
+18
+19
+18
+4.5
+46
+18
+7.75
+14
+10
+22
+25
+17
+40
+13
+17.45
+12.5
+81
+9.2
+16.25
+34
+12.5
+32
+21
+38
+7
+9
+33.25
+39
+32.8
+24
+7.45
+45.6
+23.25
+30
+31
+9.65
+6
+25.89
+15
+12

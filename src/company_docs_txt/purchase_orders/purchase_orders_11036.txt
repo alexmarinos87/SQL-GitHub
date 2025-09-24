@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11036
+2018-04-20
+Sven Ottlieb
+Products
+Product ID:
+13
+59
+Product:
+Konbu
+Raclette Courdavault
+Quantity:
+Unit Price:
+7
+30
+6
+55
+Page 1

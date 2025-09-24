@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10479
+2017-03-19
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+53
+59
+64
+Côte de Blaye
+Perth Pasties
+Raclette Courdavault
+Wimmers gute Semmelknödel
+30
+28
+60
+30
+210.8
+26.2
+44
+26.6
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10837
+Customer ID: BERGS
+Order Date: 2018-01-16
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+40
+47
+76
+Konbu
+Boston Crab Meat
+Zaanse koeken
+Lakkalikööri
+6
+25
+40
+21
+6.0
+18.4
+9.5
+18.0
+TotalPrice
+1254.0
+Page 1
+ 
+ 

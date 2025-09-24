@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10906
+2018-02-25
+Zbyszek Piestrzeniewicz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+61
+Sirop d'érable
+15
+28.5
+Page 1

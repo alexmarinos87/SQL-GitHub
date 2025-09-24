@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10375
+2016-12-06
+Yoshi Latimer
+Products
+Product ID:
+14
+54
+Product:
+Tofu
+Tourtière
+Quantity:
+Unit Price:
+15
+10
+18.6
+5.9
+Page 1

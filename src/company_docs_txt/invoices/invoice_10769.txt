@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10769
+Customer ID: VAFFE
+Order Date: 2017-12-08
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+52
+61
+62
+Jack's New England Clam Chowder
+Filo Mix
+Sirop d'érable
+Tarte au sucre
+30
+15
+20
+15
+9.65
+7.0
+28.5
+49.3
+TotalPrice
+1704.0
+Page 1
+ 
+ 

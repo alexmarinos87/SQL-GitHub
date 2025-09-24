@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10799
+2017-12-26
+Philip Cramer
+Products
+Product ID:
+13
+24
+59
+Product:
+Konbu
+Guaraná Fantástica
+Raclette Courdavault
+Quantity:
+Unit Price:
+20
+20
+25
+6
+4.5
+55
+Page 1

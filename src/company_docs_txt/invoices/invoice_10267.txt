@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10267
+Customer ID: FRANK
+Order Date: 2016-07-29
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+59
+76
+Boston Crab Meat
+Raclette Courdavault
+Lakkalikööri
+50
+70
+15
+14.7
+44.0
+14.4
+TotalPrice
+4031.0
+Page 1
+ 
+ 

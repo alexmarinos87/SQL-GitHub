@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10512
+2017-04-21
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+46
+47
+60
+Guaraná Fantástica
+Spegesild
+Zaanse koeken
+Camembert Pierrot
+10
+9
+6
+12
+4.5
+12
+9.5
+34
+Page 1

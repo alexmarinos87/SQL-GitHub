@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10489
+Customer ID: PICCO
+Order Date: 2017-03-28
+Customer Details:
+Contact Name:
+Georg Pipps
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Geislweg 14
+Salzburg
+5020
+Austria
+6562-9722
+6562-9723
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+16
+Queso Cabrales
+Pavlova
+15
+18
+16.8
+13.9
+TotalPrice
+502.20000000000005
+Page 1
+ 
+ 

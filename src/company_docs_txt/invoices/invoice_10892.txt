@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10892
+Customer ID: MAISD
+Order Date: 2018-02-17
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+Raclette Courdavault
+40
+55.0
+TotalPrice
+2200.0
+Page 1
+ 
+ 

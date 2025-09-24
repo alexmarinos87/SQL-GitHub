@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10845
+Customer ID: QUICK
+Order Date: 2018-01-21
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraße 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+35
+42
+58
+64
+Tunnbröd
+Steeleye Stout
+Singaporean Hokkien Fried Mee
+Escargots de Bourgogne
+Wimmers gute Semmelknödel
+70
+25
+42
+60
+48
+9.0
+18.0
+14.0
+13.25
+33.25
+TotalPrice
+4059.0
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10409
+2017-01-09
+Yvonne Moncada
+Products
+Product ID:
+14
+21
+Product:
+Tofu
+Sir Rodney's Scones
+Quantity:
+Unit Price:
+12
+12
+18.6
+8
+Page 1

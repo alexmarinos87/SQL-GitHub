@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10997
+Customer ID: LILAS
+Order Date: 2018-04-03
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+32
+46
+52
+Mascarpone Fabioli
+Spegesild
+Filo Mix
+50
+20
+20
+32.0
+12.0
+7.0
+TotalPrice
+1980.0
+Page 1
+ 
+ 

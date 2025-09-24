@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10512
+Customer ID: FAMIA
+Order Date: 2017-04-21
+Customer Details:
+Contact Name:
+Aria Cruz
+Address:
+City:
+Rua Orós, 92
+Sao Paulo
+Postal Code:
+05442-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9857
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+46
+47
+60
+Guaraná Fantástica
+Spegesild
+Zaanse koeken
+Camembert Pierrot
+10
+9
+6
+12
+4.5
+12.0
+9.5
+34.0
+TotalPrice
+618.0
+Page 1
+ 
+ 

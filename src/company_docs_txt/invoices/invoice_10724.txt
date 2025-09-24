@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10724
+Customer ID: MEREP
+Order Date: 2017-10-30
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+61
+Ikura
+Sirop d'érable
+16
+5
+31.0
+28.5
+TotalPrice
+638.5
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10852
+Customer ID: RATTC
+Order Date: 2018-01-26
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+17
+62
+Chang
+Alice Mutton
+Tarte au sucre
+15
+6
+50
+19.0
+39.0
+49.3
+TotalPrice
+2984.0
+Page 1
+ 
+ 

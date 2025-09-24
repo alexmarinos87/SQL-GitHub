@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10318
+Customer ID: ISLAT
+Order Date: 2016-10-01
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+76
+Jack's New England Clam Chowder
+Lakkalikööri
+20
+6
+7.7
+14.4
+TotalPrice
+240.4
+Page 1
+ 
+ 

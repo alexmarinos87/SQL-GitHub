@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10413
+2017-01-14
+Annette Roulet
+Products
+Product ID:
+1
+62
+76
+Product:
+Chai
+Tarte au sucre
+Lakkalikööri
+Quantity:
+Unit Price:
+24
+40
+14
+14.4
+39.4
+14.4
+Page 1

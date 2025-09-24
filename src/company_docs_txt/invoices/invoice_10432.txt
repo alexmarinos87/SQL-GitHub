@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10432
+Customer ID: SPLIR
+Order Date: 2017-01-31
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+54
+Gumbär Gummibärchen
+Tourtière
+10
+40
+24.9
+5.9
+TotalPrice
+485.0
+Page 1
+ 
+ 

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10998
+2018-04-03
+Zbyszek Piestrzeniewicz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+61
+74
+75
+Guaraná Fantástica
+Sirop d'érable
+Longlife Tofu
+Rhönbräu Klosterbier
+12
+7
+20
+30
+4.5
+28.5
+10
+7.75
+Page 1

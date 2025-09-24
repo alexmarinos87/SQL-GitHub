@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10344
+2016-11-01
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+8
+Chef Anton's Cajun Seasoning
+Northwoods Cranberry Sauce
+35
+70
+17.6
+32
+Page 1

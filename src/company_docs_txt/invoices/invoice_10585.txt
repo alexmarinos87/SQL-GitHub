@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10585
+Customer ID: WELLI
+Order Date: 2017-07-01
+Customer Details:
+Contact Name:
+Paula Parente
+Address:
+City:
+Rua do Mercado, 12
+Resende
+Postal Code:
+08737-363
+Country:
+Phone:
+Fax:
+Brazil
+(14) 555-8122
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+Zaanse koeken
+15
+TotalPrice
+9.5
+142.5
+Page 1
+ 
+ 

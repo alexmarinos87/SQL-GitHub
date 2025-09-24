@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10772
+2017-12-10
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+59
+Thüringer Rostbratwurst
+Raclette Courdavault
+18
+25
+123.79
+55
+Page 1

@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10670
+Customer ID: FRANK
+Order Date: 2017-09-16
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+46
+67
+73
+75
+Tunnbröd
+Spegesild
+Laughing Lumberjack Lager
+Röd Kaviar
+Rhönbräu Klosterbier
+32
+60
+25
+50
+25
+9.0
+12.0
+14.0
+15.0
+7.75
+TotalPrice
+2301.75
+Page 1
+ 
+ 

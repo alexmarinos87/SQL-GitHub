@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10362
+2016-11-25
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+51
+54
+NuNuCa Nuß-Nougat-Creme
+Manjimup Dried Apples
+Tourtière
+50
+20
+24
+11.2
+42.4
+5.9
+Page 1

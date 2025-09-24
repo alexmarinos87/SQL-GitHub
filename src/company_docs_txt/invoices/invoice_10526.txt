@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10526
+Customer ID: WARTH
+Order Date: 2017-05-05
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+13
+56
+Chai
+Konbu
+Gnocchi di nonna Alice
+8
+10
+30
+18.0
+6.0
+38.0
+TotalPrice
+1344.0
+Page 1
+ 
+ 

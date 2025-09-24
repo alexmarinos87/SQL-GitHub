@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10797
+Customer ID: DRACD
+Order Date: 2017-12-25
+Customer Details:
+Contact Name:
+Sven Ottlieb
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Walserweg 21
+Aachen
+52066
+Germany
+0241-039123
+0241-059428
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+Queso Cabrales
+20
+TotalPrice
+21.0
+420.0
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10302
+2016-09-10
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+28
+43
+Alice Mutton
+Rössle Sauerkraut
+Ipoh Coffee
+40
+28
+12
+31.2
+36.4
+36.8
+Page 1

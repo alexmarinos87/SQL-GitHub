@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10651
+Customer ID: WANDK
+Order Date: 2017-09-01
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+22
+Teatime Chocolate Biscuits
+Gustaf's Knäckebröd
+12
+20
+9.2
+21.0
+TotalPrice
+530.4
+Page 1
+ 
+ 

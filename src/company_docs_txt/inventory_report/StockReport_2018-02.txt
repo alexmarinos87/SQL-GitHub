@@ -1,0 +1,304 @@
+Stock Report for 2018-02
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Chartreuse verte
+Côte de Blaye
+Guaraná Fantástica
+Lakkalikööri
+Laughing Lumberjack..
+Outback Lager
+90
+61
+133
+100
+146
+10
+30
+83
+Rhönbräu Klosterbier
+134
+Sasquatch Ale
+Steeleye Stout
+10
+37
+30
+50
+64
+30
+65
+50
+20
+87
+Condiments
+Chef Anton's Cajun..
+Condiments
+Grandma's Boysenberry..
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Northwoods Cranberry..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Confections
+Gumbär Gummibärchen
+Confections
+Maxilaku
+Confections
+NuNuCa Nuß-Nougat-Creme5
+Confections
+Pavlova
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Confections
+Zaanse koeken
+63
+58
+20
+60
+61
+37
+21
+Dairy Products
+Camembert Pierrot
+100
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Queso Cabrales
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Filo Mix
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals
+Singaporean Hokkien..
+Grains/Cereals
+Tunnbröd
+Grains/Cereals Wimmers gute..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+55
+70
+35
+50
+6
+90
+40
+14
+37
+20
+25
+80
+35
+53
+3
+40
+164
+42
+2
+3
+32
+103
+25
+42
+80
+20
+49
+73
+15
+10
+21
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Manjimup Dried Apples
+Rössle Sauerkraut
+Uncle Bob's Organic..
+Boston Crab Meat
+Carnarvon Tigers
+Escargots de Bourgogne
+Jack's New England..
+Nord-Ost Matjeshering
+126
+Ikura
+Inlagd Sill
+Konbu
+Rogede sild
+Röd Kaviar
+Spegesild
+39
+17
+69
+17
+20
+57
+52
+15
+125
+111
+20
+53
+120
+76
+6
+32
+113
+15
+10
+76
+29
+6
+40
+3
+17
+25
+36
+19
+26
+112
+115
+0
+26
+9
+22
+79
+38
+21
+36
+26
+61
+22
+0
+0
+0
+21
+20
+26
+15
+42
+62
+31
+85
+24
+10
+5
+123
+112
+101
+95
+18
+19
+18
+263.5
+4.5
+18
+14
+15
+7.75
+14
+18
+22
+25
+21.05
+40
+13
+28.5
+31.23
+20
+14
+17.45
+12.5
+81
+10
+49.3
+9.2
+9.5
+34
+21.5
+2.5
+12.5
+36
+32
+21
+55
+7
+38
+14
+9
+19.5
+33.25
+39
+32.8
+24
+123.79
+7.45
+53
+45.6
+30
+18.4
+62.5
+13.25
+31
+19
+9.65
+6
+25.89
+9.5
+15
+12

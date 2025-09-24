@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10960
+2018-03-19
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+41
+Guaraná Fantástica
+Jack's New England Clam Chowder
+10
+24
+4.5
+9.65
+Page 1

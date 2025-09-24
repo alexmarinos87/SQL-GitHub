@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10699
+Customer ID: MORGK
+Order Date: 2017-10-09
+Customer Details:
+Contact Name:
+Alexander Feuer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Heerstr. 22
+Leipzig
+04179
+Germany
+0342-023176
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+Zaanse koeken
+12
+TotalPrice
+9.5
+114.0
+Page 1
+ 
+ 

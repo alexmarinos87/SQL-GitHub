@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10777
+2017-12-15
+André Fonseca
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+42
+Singaporean Hokkien Fried Mee
+20
+14
+Page 1

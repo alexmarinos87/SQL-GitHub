@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10321
+2016-10-03
+Helen Bennett
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+Steeleye Stout
+10
+14.4
+Page 1

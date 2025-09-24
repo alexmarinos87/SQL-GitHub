@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10496
+Customer ID: TRADH
+Order Date: 2017-04-04
+Customer Details:
+Contact Name:
+Anabela Domingues
+Address:
+City:
+Av. Inês de Castro, 414
+Sao Paulo
+Postal Code:
+05634-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-2167
+(11) 555-2168
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+Gorgonzola Telino
+20
+TotalPrice
+10.0
+200.0
+Page 1
+ 
+ 

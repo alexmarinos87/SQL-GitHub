@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10812
+Customer ID: REGGC
+Order Date: 2018-01-02
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+72
+77
+Gorgonzola Telino
+Mozzarella di Giovanni
+Original Frankfurter grüne Soße
+16
+40
+20
+12.5
+34.8
+13.0
+TotalPrice
+1852.0
+Page 1
+ 
+ 

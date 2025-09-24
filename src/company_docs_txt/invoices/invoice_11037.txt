@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11037
+Customer ID: GODOS
+Order Date: 2018-04-21
+Customer Details:
+Contact Name:
+José Pedro Freyre
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Romero, 33
+Sevilla
+41101
+Spain
+(95) 555 82 82
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+70
+Outback Lager
+4
+TotalPrice
+15.0
+60.0
+Page 1
+ 
+ 

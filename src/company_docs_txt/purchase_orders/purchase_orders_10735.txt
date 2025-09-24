@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10735
+2017-11-10
+Jaime Yorres
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+61
+77
+Sirop d'érable
+Original Frankfurter grüne Soße
+20
+2
+28.5
+13
+Page 1

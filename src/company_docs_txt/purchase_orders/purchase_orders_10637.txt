@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10637
+2017-08-19
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+50
+56
+Queso Cabrales
+Valkoinen suklaa
+Gnocchi di nonna Alice
+10
+25
+60
+21
+16.25
+38
+Page 1

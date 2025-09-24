@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10582
+2017-06-27
+Hanna Moos
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+57
+76
+Ravioli Angelo
+Lakkalikööri
+4
+14
+19.5
+18
+Page 1

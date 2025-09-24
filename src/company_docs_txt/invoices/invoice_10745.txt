@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10745
+Customer ID: QUICK
+Order Date: 2017-11-18
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+44
+59
+72
+Carnarvon Tigers
+Gula Malacca
+Raclette Courdavault
+Mozzarella di Giovanni
+24
+16
+45
+7
+62.5
+19.45
+55.0
+34.8
+TotalPrice
+4529.8
+Page 1
+ 
+ 

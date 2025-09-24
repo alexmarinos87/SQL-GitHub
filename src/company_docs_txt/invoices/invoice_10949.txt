@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10949
+Customer ID: BOTTM
+Order Date: 2018-03-13
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+6
+10
+17
+62
+Grandma's Boysenberry Spread
+Ikura
+Alice Mutton
+Tarte au sucre
+12
+30
+6
+60
+25.0
+31.0
+39.0
+49.3
+TotalPrice
+4422.0
+Page 1
+ 
+ 

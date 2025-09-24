@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10707
+2017-10-16
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+57
+70
+Pâté chinois
+Ravioli Angelo
+Outback Lager
+21
+40
+28
+24
+19.5
+15
+Page 1

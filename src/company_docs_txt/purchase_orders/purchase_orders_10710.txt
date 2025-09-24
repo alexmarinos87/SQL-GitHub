@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10710
+2017-10-20
+Paolo Accorti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+47
+Teatime Chocolate Biscuits
+Zaanse koeken
+5
+5
+9.2
+9.5
+Page 1

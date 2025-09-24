@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11019
+2018-04-13
+Sergio Gutiérrez
+Products
+Product ID:
+46
+49
+Product:
+Spegesild
+Maxilaku
+Quantity:
+Unit Price:
+3
+2
+12
+20
+Page 1

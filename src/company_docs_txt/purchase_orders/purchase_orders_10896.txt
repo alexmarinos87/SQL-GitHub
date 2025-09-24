@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10896
+2018-02-19
+Catherine Dewey
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+45
+56
+Rogede sild
+Gnocchi di nonna Alice
+15
+16
+9.5
+38
+Page 1

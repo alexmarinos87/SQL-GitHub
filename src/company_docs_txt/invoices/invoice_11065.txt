@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11065
+Customer ID: LILAS
+Order Date: 2018-05-01
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+54
+Nord-Ost Matjeshering
+Tourtière
+4
+20
+25.89
+7.45
+TotalPrice
+252.56
+Page 1
+ 
+ 

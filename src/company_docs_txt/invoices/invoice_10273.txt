@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10273
+Customer ID: QUICK
+Order Date: 2016-08-05
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraße 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+31
+33
+40
+76
+Ikura
+Gorgonzola Telino
+Geitost
+Boston Crab Meat
+Lakkalikööri
+24
+15
+20
+60
+33
+24.8
+10.0
+2.0
+14.7
+14.4
+TotalPrice
+2142.4
+Page 1
+ 
+ 

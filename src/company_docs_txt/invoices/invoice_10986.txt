@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10986
+Customer ID: OCEAN
+Order Date: 2018-03-30
+Customer Details:
+Contact Name:
+Yvonne Moncada
+Address:
+City:
+Ing. Gustavo Moncada 8585 Piso 20-A
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5333
+(1) 135-5535
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+20
+76
+77
+Queso Cabrales
+Sir Rodney's Marmalade
+Lakkalikööri
+Original Frankfurter grüne Soße
+30
+15
+10
+15
+21.0
+81.0
+18.0
+13.0
+TotalPrice
+2220.0
+Page 1
+ 
+ 

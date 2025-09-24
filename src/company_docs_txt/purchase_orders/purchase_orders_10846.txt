@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10846
+2018-01-22
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+70
+74
+Chef Anton's Cajun Seasoning
+Outback Lager
+Longlife Tofu
+21
+30
+20
+22
+15
+10
+Page 1

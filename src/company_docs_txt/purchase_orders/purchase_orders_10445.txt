@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10445
+2017-02-13
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+54
+Chartreuse verte
+Tourtière
+6
+15
+14.4
+5.9
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10270
+2016-08-01
+Pirkko Koskitalo
+Products
+Product ID:
+36
+43
+Product:
+Inlagd Sill
+Ipoh Coffee
+Quantity:
+Unit Price:
+30
+25
+15.2
+36.8
+Page 1

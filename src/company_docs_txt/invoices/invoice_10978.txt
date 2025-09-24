@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10978
+Customer ID: MAISD
+Order Date: 2018-03-26
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+21
+40
+44
+Northwoods Cranberry Sauce
+Sir Rodney's Scones
+Boston Crab Meat
+Gula Malacca
+20
+40
+10
+6
+40.0
+10.0
+18.4
+19.45
+TotalPrice
+1500.7
+Page 1
+ 
+ 

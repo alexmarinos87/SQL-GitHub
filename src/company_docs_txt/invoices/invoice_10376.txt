@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10376
+Customer ID: MEREP
+Order Date: 2016-12-09
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+Gorgonzola Telino
+42
+TotalPrice
+10.0
+420.0
+Page 1
+ 
+ 

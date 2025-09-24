@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10739
+Customer ID: VINET
+Order Date: 2017-11-12
+Customer Details:
+Contact Name:
+Paul Henriot
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+59 rue de l'Abbaye
+Reims
+51100
+France
+26.47.15.10
+26.47.15.11
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+52
+Inlagd Sill
+Filo Mix
+6
+18
+19.0
+7.0
+TotalPrice
+240.0
+Page 1
+ 
+ 

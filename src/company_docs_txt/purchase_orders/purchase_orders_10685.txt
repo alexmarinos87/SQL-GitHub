@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10685
+2017-09-29
+André Fonseca
+Products
+Product ID:
+10
+41
+47
+Product:
+Ikura
+Jack's New England Clam Chowder
+Zaanse koeken
+Quantity:
+Unit Price:
+20
+4
+15
+31
+9.65
+9.5
+Page 1

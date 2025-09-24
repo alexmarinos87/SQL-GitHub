@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10372
+2016-12-04
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+38
+60
+72
+Sir Rodney's Marmalade
+Côte de Blaye
+Camembert Pierrot
+Mozzarella di Giovanni
+12
+40
+70
+42
+64.8
+210.8
+27.2
+27.8
+Page 1

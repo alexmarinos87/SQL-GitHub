@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10909
+2018-02-26
+Jonas Bergulfsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+16
+41
+Uncle Bob's Organic Dried Pears
+Pavlova
+Jack's New England Clam Chowder
+12
+15
+5
+30
+17.45
+9.65
+Page 1

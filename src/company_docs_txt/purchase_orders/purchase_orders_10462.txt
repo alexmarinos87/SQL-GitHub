@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10462
+2017-03-03
+Elizabeth Brown
+Products
+Product ID:
+13
+23
+Product:
+Konbu
+Tunnbröd
+Quantity:
+Unit Price:
+1
+21
+4.8
+7.2
+Page 1

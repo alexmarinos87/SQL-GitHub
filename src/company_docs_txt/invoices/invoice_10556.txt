@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10556
+Customer ID: SIMOB
+Order Date: 2017-06-03
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+72
+Mozzarella di Giovanni
+24
+34.8
+TotalPrice
+835.1999999999999
+Page 1
+ 
+ 

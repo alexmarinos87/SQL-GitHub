@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10504
+2017-04-11
+Karl Jablonski
+Products
+Product ID:
+2
+21
+53
+61
+Product:
+Chang
+Sir Rodney's Scones
+Perth Pasties
+Sirop d'érable
+Quantity:
+Unit Price:
+12
+12
+10
+25
+19
+10
+32.8
+28.5
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10904
+2018-02-24
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+58
+62
+Escargots de Bourgogne
+Tarte au sucre
+15
+35
+13.25
+49.3
+Page 1

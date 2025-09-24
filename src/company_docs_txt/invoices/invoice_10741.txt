@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10741
+Customer ID: AROUT
+Order Date: 2017-11-14
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+Chang
+15
+TotalPrice
+19.0
+285.0
+Page 1
+ 
+ 

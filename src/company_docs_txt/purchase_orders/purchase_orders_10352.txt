@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10352
+2016-11-12
+Lino Rodriguez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+54
+Guaraná Fantástica
+Tourtière
+10
+20
+3.6
+5.9
+Page 1

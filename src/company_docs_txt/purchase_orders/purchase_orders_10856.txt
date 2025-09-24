@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10856
+2018-01-28
+Antonio Moreno
+Products
+Product ID:
+2
+42
+Product:
+Chang
+Singaporean Hokkien Fried Mee
+Quantity:
+Unit Price:
+20
+20
+19
+14
+Page 1

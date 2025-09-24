@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10931
+Customer ID: RICSU
+Order Date: 2018-03-06
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+57
+Konbu
+Ravioli Angelo
+42
+30
+6.0
+19.5
+TotalPrice
+837.0
+Page 1
+ 
+ 

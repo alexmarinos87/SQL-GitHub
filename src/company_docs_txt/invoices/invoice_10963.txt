@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10963
+Customer ID: FURIB
+Order Date: 2018-03-19
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+60
+Camembert Pierrot
+2
+TotalPrice
+34.0
+68.0
+Page 1
+ 
+ 

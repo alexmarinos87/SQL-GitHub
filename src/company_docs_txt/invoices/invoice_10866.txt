@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10866
+Customer ID: BERGS
+Order Date: 2018-02-03
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+24
+30
+Chang
+Guaraná Fantástica
+Nord-Ost Matjeshering
+21
+6
+40
+19.0
+4.5
+25.89
+TotalPrice
+1461.6
+Page 1
+ 
+ 

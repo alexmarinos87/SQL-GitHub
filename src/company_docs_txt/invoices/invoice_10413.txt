@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10413
+Customer ID: LAMAI
+Order Date: 2017-01-14
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+62
+76
+Chai
+Tarte au sucre
+Lakkalikööri
+24
+40
+14
+14.4
+39.4
+14.4
+TotalPrice
+2123.2
+Page 1
+ 
+ 

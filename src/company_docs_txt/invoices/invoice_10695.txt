@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10695
+Customer ID: WILMK
+Order Date: 2017-10-07
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+12
+24
+Northwoods Cranberry Sauce
+Queso Manchego La Pastora
+Guaraná Fantástica
+10
+4
+20
+40.0
+38.0
+4.5
+TotalPrice
+642.0
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10991
+2018-04-01
+Horst Kloss
+Products
+Product ID:
+2
+70
+76
+Product:
+Chang
+Outback Lager
+Lakkalikööri
+Quantity:
+Unit Price:
+50
+20
+90
+19
+15
+18
+Page 1

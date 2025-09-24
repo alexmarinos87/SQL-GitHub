@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10860
+2018-01-29
+Carine Schmitt
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+51
+76
+Manjimup Dried Apples
+Lakkalikööri
+3
+20
+53
+18
+Page 1

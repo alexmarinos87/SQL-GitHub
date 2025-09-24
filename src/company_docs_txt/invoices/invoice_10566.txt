@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10566
+Customer ID: BLONP
+Order Date: 2017-06-12
+Customer Details:
+Contact Name:
+Frédérique Citeaux
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+24, place Kléber
+Strasbourg
+67000
+France
+88.60.15.31
+88.60.15.32
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+18
+76
+Queso Cabrales
+Carnarvon Tigers
+Lakkalikööri
+35
+18
+10
+21.0
+62.5
+18.0
+TotalPrice
+2040.0
+Page 1
+ 
+ 

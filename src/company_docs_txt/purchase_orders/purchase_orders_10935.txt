@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10935
+2018-03-09
+Paula Parente
+Products
+Product ID:
+1
+18
+23
+Product:
+Chai
+Carnarvon Tigers
+Tunnbröd
+Quantity:
+Unit Price:
+21
+4
+8
+18
+62.5
+9
+Page 1

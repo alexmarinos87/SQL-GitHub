@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10545
+2017-05-22
+John Steel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+Queso Cabrales
+10
+21
+Page 1

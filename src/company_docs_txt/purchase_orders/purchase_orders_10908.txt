@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10908
+2018-02-26
+Maurizio Moroni
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+52
+Uncle Bob's Organic Dried Pears
+Filo Mix
+20
+14
+30
+7
+Page 1

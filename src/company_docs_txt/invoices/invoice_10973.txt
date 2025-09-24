@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10973
+Customer ID: LACOR
+Order Date: 2018-03-24
+Customer Details:
+Contact Name:
+Daniel Tonini
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, avenue de l'Europe
+Versailles
+78000
+France
+30.59.84.10
+30.59.85.11
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+41
+75
+Gumbär Gummibärchen
+Jack's New England Clam Chowder
+Rhönbräu Klosterbier
+5
+6
+10
+31.23
+9.65
+7.75
+TotalPrice
+291.55
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11063
+Customer ID: HUNGO
+Order Date: 2018-04-30
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+34
+40
+41
+Sasquatch Ale
+Boston Crab Meat
+Jack's New England Clam Chowder
+30
+40
+30
+14.0
+18.4
+9.65
+TotalPrice
+1445.5
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10710
+Customer ID: FRANS
+Order Date: 2017-10-20
+Customer Details:
+Contact Name:
+Paolo Accorti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Monte Bianco 34
+Torino
+10100
+Italy
+011-4988260
+011-4988261
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+47
+Teatime Chocolate Biscuits
+Zaanse koeken
+5
+5
+TotalPrice
+9.2
+9.5
+93.5
+Page 1
+ 
+ 

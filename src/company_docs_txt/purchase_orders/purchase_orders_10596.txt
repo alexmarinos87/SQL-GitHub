@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10596
+2017-07-11
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+63
+75
+Gnocchi di nonna Alice
+Vegie-spread
+Rhönbräu Klosterbier
+5
+24
+30
+38
+43.9
+7.75
+Page 1

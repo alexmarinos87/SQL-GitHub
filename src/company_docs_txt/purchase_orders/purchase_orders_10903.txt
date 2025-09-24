@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10903
+2018-02-24
+Mario Pontes
+Products
+Product ID:
+13
+65
+68
+Product:
+Konbu
+Louisiana Fiery Hot Pepper Sauce
+Scottish Longbreads
+Quantity:
+Unit Price:
+40
+21
+20
+6
+21.05
+12.5
+Page 1

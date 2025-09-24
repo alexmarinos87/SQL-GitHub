@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10872
+Customer ID: GODOS
+Order Date: 2018-02-05
+Customer Details:
+Contact Name:
+José Pedro Freyre
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Romero, 33
+Sevilla
+41101
+Spain
+(95) 555 82 82
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+62
+64
+65
+Pâté chinois
+Tarte au sucre
+Wimmers gute Semmelknödel
+Louisiana Fiery Hot Pepper Sauce
+10
+20
+15
+21
+24.0
+49.3
+33.25
+21.05
+TotalPrice
+2166.8
+Page 1
+ 
+ 

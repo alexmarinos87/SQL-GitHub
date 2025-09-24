@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10842
+2018-01-20
+Miguel Angel Paolino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+43
+68
+70
+Queso Cabrales
+Ipoh Coffee
+Scottish Longbreads
+Outback Lager
+15
+5
+20
+12
+21
+46
+12.5
+15
+Page 1

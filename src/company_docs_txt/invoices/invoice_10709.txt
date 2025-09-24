@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10709
+Customer ID: GOURL
+Order Date: 2017-10-17
+Customer Details:
+Contact Name:
+André Fonseca
+Address:
+City:
+Av. Brasil, 442
+Campinas
+Postal Code:
+04876-786
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9482
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+51
+60
+Northwoods Cranberry Sauce
+Manjimup Dried Apples
+Camembert Pierrot
+40
+28
+10
+40.0
+53.0
+34.0
+TotalPrice
+3424.0
+Page 1
+ 
+ 

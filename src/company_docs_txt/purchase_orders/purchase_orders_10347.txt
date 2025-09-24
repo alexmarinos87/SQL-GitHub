@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10347
+2016-11-06
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+39
+40
+75
+NuNuCa Nuß-Nougat-Creme
+Chartreuse verte
+Boston Crab Meat
+Rhönbräu Klosterbier
+10
+50
+4
+6
+11.2
+14.4
+14.7
+6.2
+Page 1

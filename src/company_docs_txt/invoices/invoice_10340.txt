@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10340
+Customer ID: BONAP
+Order Date: 2016-10-29
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+41
+43
+Carnarvon Tigers
+Jack's New England Clam Chowder
+Ipoh Coffee
+20
+12
+40
+50.0
+7.7
+36.8
+TotalPrice
+2564.4
+Page 1
+ 
+ 

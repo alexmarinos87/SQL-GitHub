@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11073
+Customer ID: PERIC
+Order Date: 2018-05-05
+Customer Details:
+Contact Name:
+Guillermo Fernández
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Calle Dr. Jorge Cash 321
+México D.F.
+05033
+Mexico
+(5) 552-3745
+(5) 545-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+24
+Queso Cabrales
+Guaraná Fantástica
+10
+20
+21.0
+4.5
+TotalPrice
+300.0
+Page 1
+ 
+ 

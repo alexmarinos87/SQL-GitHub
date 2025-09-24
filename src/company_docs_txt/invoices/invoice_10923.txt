@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10923
+Customer ID: LAMAI
+Order Date: 2018-03-03
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+42
+43
+67
+Singaporean Hokkien Fried Mee
+Ipoh Coffee
+Laughing Lumberjack Lager
+10
+10
+24
+14.0
+46.0
+14.0
+TotalPrice
+936.0
+Page 1
+ 
+ 

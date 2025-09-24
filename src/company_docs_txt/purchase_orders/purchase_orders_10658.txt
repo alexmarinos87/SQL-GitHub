@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10658
+2017-09-05
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+40
+60
+77
+Sir Rodney's Scones
+Boston Crab Meat
+Camembert Pierrot
+Original Frankfurter grüne Soße
+60
+70
+55
+70
+10
+18.4
+34
+13
+Page 1

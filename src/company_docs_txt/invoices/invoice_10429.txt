@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10429
+Customer ID: HUNGO
+Order Date: 2017-01-29
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+50
+63
+Valkoinen suklaa
+Vegie-spread
+40
+35
+13.0
+35.1
+TotalPrice
+1748.5
+Page 1
+ 
+ 

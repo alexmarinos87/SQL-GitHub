@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11003
+2018-04-06
+Liu Wong
+Products
+Product ID:
+1
+40
+52
+Product:
+Chai
+Boston Crab Meat
+Filo Mix
+Quantity:
+Unit Price:
+4
+10
+10
+18
+18.4
+7
+Page 1

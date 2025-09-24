@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10858
+Customer ID: LACOR
+Order Date: 2018-01-29
+Customer Details:
+Contact Name:
+Daniel Tonini
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, avenue de l'Europe
+Versailles
+78000
+France
+30.59.84.10
+30.59.85.11
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+27
+70
+Uncle Bob's Organic Dried Pears
+Schoggi Schokolade
+Outback Lager
+5
+10
+4
+30.0
+43.9
+15.0
+TotalPrice
+649.0
+Page 1
+ 
+ 

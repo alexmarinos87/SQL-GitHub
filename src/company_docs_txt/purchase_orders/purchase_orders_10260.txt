@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10260
+2016-07-19
+Henriette Pfalzheim
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+57
+62
+70
+Jack's New England Clam Chowder
+Ravioli Angelo
+Tarte au sucre
+Outback Lager
+16
+50
+15
+21
+7.7
+15.6
+39.4
+12
+Page 1

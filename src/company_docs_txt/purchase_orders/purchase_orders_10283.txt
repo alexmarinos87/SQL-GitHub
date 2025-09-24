@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10283
+2016-08-16
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+19
+60
+72
+Genen Shouyu
+Teatime Chocolate Biscuits
+Camembert Pierrot
+Mozzarella di Giovanni
+20
+18
+35
+3
+12.4
+7.3
+27.2
+27.8
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10414
+2017-01-14
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+33
+Teatime Chocolate Biscuits
+Geitost
+18
+50
+7.3
+2
+Page 1

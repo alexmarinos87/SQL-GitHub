@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10252
+Customer ID: SUPRD
+Order Date: 2016-07-09
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+33
+60
+Sir Rodney's Marmalade
+Geitost
+Camembert Pierrot
+40
+25
+40
+64.8
+2.0
+27.2
+TotalPrice
+3730.0
+Page 1
+ 
+ 

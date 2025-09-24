@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11053
+Customer ID: PICCO
+Order Date: 2018-04-27
+Customer Details:
+Contact Name:
+Georg Pipps
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Geislweg 14
+Salzburg
+5020
+Austria
+6562-9722
+6562-9723
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+32
+64
+Carnarvon Tigers
+Mascarpone Fabioli
+Wimmers gute Semmelknödel
+35
+20
+25
+62.5
+32.0
+33.25
+TotalPrice
+3658.75
+Page 1
+ 
+ 

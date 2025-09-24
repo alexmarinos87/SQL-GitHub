@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10735
+Customer ID: LETSS
+Order Date: 2017-11-10
+Customer Details:
+Contact Name:
+Jaime Yorres
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+87 Polk St. Suite 5
+San Francisco
+94117
+USA
+(415) 555-5938
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+61
+77
+Sirop d'érable
+Original Frankfurter grüne Soße
+20
+2
+28.5
+13.0
+TotalPrice
+596.0
+Page 1
+ 
+ 

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 11035
+Customer ID: SUPRD
+Order Date: 2018-04-20
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+35
+42
+54
+Chai
+Steeleye Stout
+Singaporean Hokkien Fried Mee
+Tourtière
+10
+60
+30
+10
+18.0
+18.0
+14.0
+7.45
+TotalPrice
+1754.5
+Page 1
+ 
+ 

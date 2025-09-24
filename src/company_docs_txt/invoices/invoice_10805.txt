@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10805
+Customer ID: THEBI
+Order Date: 2017-12-30
+Customer Details:
+Contact Name:
+Liz Nixon
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Jefferson Way Suite 2
+Portland
+97201
+USA
+(503) 555-3612
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+34
+38
+Sasquatch Ale
+Côte de Blaye
+10
+10
+14.0
+263.5
+TotalPrice
+2775.0
+Page 1
+ 
+ 

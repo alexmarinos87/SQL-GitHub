@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10502
+2017-04-10
+Guillermo Fernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+45
+53
+67
+Rogede sild
+Perth Pasties
+Laughing Lumberjack Lager
+21
+6
+30
+9.5
+32.8
+14
+Page 1

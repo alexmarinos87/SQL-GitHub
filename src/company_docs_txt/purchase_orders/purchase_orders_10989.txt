@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10989
+2018-03-31
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+11
+41
+Grandma's Boysenberry Spread
+Queso Cabrales
+Jack's New England Clam Chowder
+40
+15
+4
+25
+21
+9.65
+Page 1

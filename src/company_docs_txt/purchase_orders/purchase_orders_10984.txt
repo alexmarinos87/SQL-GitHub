@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10984
+2018-03-30
+Jose Pavarotti
+Products
+Product ID:
+16
+24
+36
+Product:
+Pavlova
+Guaraná Fantástica
+Inlagd Sill
+Quantity:
+Unit Price:
+55
+20
+40
+17.45
+4.5
+19
+Page 1

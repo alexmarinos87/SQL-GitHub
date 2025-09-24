@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10488
+2017-03-27
+Peter Franken
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+73
+Raclette Courdavault
+Röd Kaviar
+30
+20
+44
+12
+Page 1

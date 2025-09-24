@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10395
+Customer ID: HILAA
+Order Date: 2016-12-26
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+46
+53
+69
+Spegesild
+Perth Pasties
+Gudbrandsdalsost
+28
+70
+8
+9.6
+26.2
+28.8
+TotalPrice
+2333.2
+Page 1
+ 
+ 

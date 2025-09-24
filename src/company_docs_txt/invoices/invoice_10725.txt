@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10725
+Customer ID: FAMIA
+Order Date: 2017-10-31
+Customer Details:
+Contact Name:
+Aria Cruz
+Address:
+City:
+Rua Orós, 92
+Sao Paulo
+Postal Code:
+05442-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9857
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+52
+55
+Jack's New England Clam Chowder
+12
+Filo Mix
+Pâté chinois
+4
+6
+9.65
+7.0
+24.0
+TotalPrice
+287.8
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10773
+2017-12-11
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+31
+75
+Alice Mutton
+Gorgonzola Telino
+Rhönbräu Klosterbier
+33
+70
+7
+39
+12.5
+7.75
+Page 1

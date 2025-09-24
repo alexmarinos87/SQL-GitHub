@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10438
+2017-02-06
+Karin Josephs
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+34
+57
+Teatime Chocolate Biscuits
+Sasquatch Ale
+Ravioli Angelo
+15
+20
+15
+7.3
+11.2
+15.6
+Page 1

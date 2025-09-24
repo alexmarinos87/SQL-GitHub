@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10943
+2018-03-11
+Victoria Ashworth
+Products
+Product ID:
+13
+22
+46
+Product:
+Konbu
+Gustaf's Knäckebröd
+Spegesild
+Quantity:
+Unit Price:
+15
+21
+15
+6
+21
+12
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10875
+Customer ID: BERGS
+Order Date: 2018-02-06
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+47
+49
+Teatime Chocolate Biscuits
+Zaanse koeken
+Maxilaku
+25
+21
+15
+TotalPrice
+9.2
+9.5
+20.0
+729.5
+Page 1
+ 
+ 

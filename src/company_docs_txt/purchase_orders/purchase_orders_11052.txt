@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11052
+2018-04-27
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+43
+61
+Ipoh Coffee
+Sirop d'érable
+30
+10
+46
+28.5
+Page 1

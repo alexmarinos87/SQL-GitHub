@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10527
+Customer ID: QUICK
+Order Date: 2017-05-05
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+36
+Chef Anton's Cajun Seasoning
+Inlagd Sill
+50
+30
+22.0
+19.0
+TotalPrice
+1670.0
+Page 1
+ 
+ 

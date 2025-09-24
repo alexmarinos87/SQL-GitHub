@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10469
+2017-03-10
+Karl Jablonski
+Products
+Product ID:
+2
+16
+44
+Product:
+Chang
+Pavlova
+Gula Malacca
+Quantity:
+Unit Price:
+40
+35
+2
+15.2
+13.9
+15.5
+Page 1

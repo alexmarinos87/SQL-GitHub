@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10265
+Customer ID: BLONP
+Order Date: 2016-07-25
+Customer Details:
+Contact Name:
+Frédérique Citeaux
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+24, place Kléber
+Strasbourg
+67000
+France
+88.60.15.31
+88.60.15.32
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+70
+Alice Mutton
+Outback Lager
+30
+20
+31.2
+12.0
+TotalPrice
+1176.0
+Page 1
+ 
+ 

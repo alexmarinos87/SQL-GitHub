@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10838
+Customer ID: LINOD
+Order Date: 2018-01-19
+Customer Details:
+Contact Name:
+Felipe Izquierdo
+Address:
+City:
+Ave. 5 de Mayo Porlamar
+I. de Margarita
+Postal Code:
+4980
+Country:
+Phone:
+Fax:
+Venezuela
+(8) 34-56-12
+(8) 34-93-93
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+18
+36
+Chai
+Carnarvon Tigers
+Inlagd Sill
+4
+25
+50
+18.0
+62.5
+19.0
+TotalPrice
+2584.5
+Page 1
+ 
+ 

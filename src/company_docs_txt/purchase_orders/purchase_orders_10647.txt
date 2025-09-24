@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10647
+2017-08-27
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+39
+Teatime Chocolate Biscuits
+Chartreuse verte
+30
+20
+9.2
+18
+Page 1

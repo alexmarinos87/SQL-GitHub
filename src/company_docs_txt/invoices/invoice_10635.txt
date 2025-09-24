@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10635
+Customer ID: MAGAA
+Order Date: 2017-08-18
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+5
+22
+Chef Anton's Cajun Seasoning
+Chef Anton's Gumbo Mix
+Gustaf's Knäckebröd
+10
+15
+40
+22.0
+21.35
+21.0
+TotalPrice
+1380.25
+Page 1
+ 
+ 

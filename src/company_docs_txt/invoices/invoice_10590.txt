@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10590
+Customer ID: MEREP
+Order Date: 2017-07-07
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+77
+Chai
+Original Frankfurter grüne Soße
+20
+60
+18.0
+13.0
+TotalPrice
+1140.0
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10816
+2018-01-06
+Howard Snyder
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+62
+Côte de Blaye
+Tarte au sucre
+30
+20
+263.5
+49.3
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10677
+2017-09-22
+Antonio Moreno
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+33
+Gumbär Gummibärchen
+Geitost
+30
+8
+31.23
+2.5
+Page 1

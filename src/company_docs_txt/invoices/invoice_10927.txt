@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10927
+Customer ID: LACOR
+Order Date: 2018-03-05
+Customer Details:
+Contact Name:
+Daniel Tonini
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, avenue de l'Europe
+Versailles
+78000
+France
+30.59.84.10
+30.59.85.11
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+52
+76
+Sir Rodney's Marmalade
+Filo Mix
+Lakkalikööri
+5
+5
+20
+81.0
+7.0
+18.0
+TotalPrice
+800.0
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10302
+Customer ID: SUPRD
+Order Date: 2016-09-10
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+28
+43
+Alice Mutton
+Rössle Sauerkraut
+Ipoh Coffee
+40
+28
+12
+31.2
+36.4
+36.8
+TotalPrice
+2708.7999999999997
+Page 1
+ 
+ 

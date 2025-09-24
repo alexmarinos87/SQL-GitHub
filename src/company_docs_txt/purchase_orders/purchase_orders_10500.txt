@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10500
+2017-04-09
+Annette Roulet
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+28
+Genen Shouyu
+Rössle Sauerkraut
+12
+8
+15.5
+45.6
+Page 1

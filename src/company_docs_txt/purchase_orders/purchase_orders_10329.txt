@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10329
+2016-10-15
+Art Braunschweiger
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+30
+38
+56
+Teatime Chocolate Biscuits
+Nord-Ost Matjeshering
+Côte de Blaye
+Gnocchi di nonna Alice
+10
+8
+20
+12
+7.3
+20.7
+210.8
+30.4
+Page 1

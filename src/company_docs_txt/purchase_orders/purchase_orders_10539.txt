@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10539
+2017-05-16
+Victoria Ashworth
+Products
+Product ID:
+13
+21
+33
+49
+Product:
+Konbu
+Sir Rodney's Scones
+Geitost
+Maxilaku
+Quantity:
+Unit Price:
+8
+15
+15
+6
+6
+10
+2.5
+20
+Page 1

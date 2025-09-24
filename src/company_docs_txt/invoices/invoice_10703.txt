@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10703
+Customer ID: FOLKO
+Order Date: 2017-10-14
+Customer Details:
+Contact Name:
+Maria Larsson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Åkergatan 24
+Bräcke
+S-844 67
+Sweden
+0695-34 67 21
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+59
+73
+Chang
+Raclette Courdavault
+Röd Kaviar
+5
+35
+35
+19.0
+55.0
+15.0
+TotalPrice
+2545.0
+Page 1
+ 
+ 

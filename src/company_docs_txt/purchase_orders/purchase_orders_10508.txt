@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10508
+2017-04-16
+Henriette Pfalzheim
+Products
+Product ID:
+13
+39
+Product:
+Konbu
+Chartreuse verte
+Quantity:
+Unit Price:
+10
+10
+6
+18
+Page 1

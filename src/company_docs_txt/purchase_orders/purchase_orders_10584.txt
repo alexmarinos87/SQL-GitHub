@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10584
+2017-06-30
+Frédérique Citeaux
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+Gorgonzola Telino
+50
+12.5
+Page 1

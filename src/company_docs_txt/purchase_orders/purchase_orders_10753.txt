@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10753
+2017-11-25
+Paolo Accorti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+45
+74
+Rogede sild
+Longlife Tofu
+4
+5
+9.5
+10
+Page 1

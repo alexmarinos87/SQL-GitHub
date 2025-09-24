@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10511
+2017-04-18
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+7
+8
+Chef Anton's Cajun Seasoning
+Uncle Bob's Organic Dried Pears
+Northwoods Cranberry Sauce
+50
+50
+10
+22
+30
+40
+Page 1

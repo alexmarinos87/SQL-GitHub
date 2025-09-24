@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10857
+Customer ID: BERGS
+Order Date: 2018-01-28
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+3
+26
+29
+Aniseed Syrup
+Gumbär Gummibärchen
+Thüringer Rostbratwurst
+30
+35
+10
+10.0
+31.23
+123.79
+TotalPrice
+2630.95
+Page 1
+ 
+ 

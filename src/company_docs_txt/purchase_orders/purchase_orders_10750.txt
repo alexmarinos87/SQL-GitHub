@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10750
+2017-11-21
+Pirkko Koskitalo
+Products
+Product ID:
+14
+45
+59
+Product:
+Tofu
+Rogede sild
+Raclette Courdavault
+Quantity:
+Unit Price:
+5
+40
+25
+23.25
+9.5
+55
+Page 1

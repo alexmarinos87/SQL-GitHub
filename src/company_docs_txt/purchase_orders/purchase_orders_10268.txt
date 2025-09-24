@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10268
+2016-07-30
+Manuel Pereira
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+72
+Thüringer Rostbratwurst
+Mozzarella di Giovanni
+10
+4
+99
+27.8
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10885
+Customer ID: SUPRD
+Order Date: 2018-02-12
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+24
+70
+77
+Chang
+Guaraná Fantástica
+Outback Lager
+Original Frankfurter grüne Soße
+20
+12
+30
+25
+19.0
+4.5
+15.0
+13.0
+TotalPrice
+1209.0
+Page 1
+ 
+ 

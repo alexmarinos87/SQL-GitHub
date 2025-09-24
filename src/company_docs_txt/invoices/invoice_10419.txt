@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10419
+Customer ID: RICSU
+Order Date: 2017-01-20
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+60
+69
+Camembert Pierrot
+Gudbrandsdalsost
+60
+20
+27.2
+28.8
+TotalPrice
+2208.0
+Page 1
+ 
+ 

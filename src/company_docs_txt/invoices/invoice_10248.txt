@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10248
+Customer ID: VINET
+Order Date: 2016-07-04
+Customer Details:
+Contact Name:
+Paul Henriot
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+59 rue de l'Abbaye
+Reims
+51100
+France
+26.47.15.10
+26.47.15.11
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+42
+72
+Queso Cabrales
+Singaporean Hokkien Fried Mee
+Mozzarella di Giovanni
+12
+10
+5
+14.0
+9.8
+34.8
+TotalPrice
+440.0
+Page 1
+ 
+ 

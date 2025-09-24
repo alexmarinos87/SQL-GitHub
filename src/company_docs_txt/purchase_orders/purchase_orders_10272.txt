@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10272
+2016-08-02
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+31
+72
+Sir Rodney's Marmalade
+Gorgonzola Telino
+Mozzarella di Giovanni
+6
+40
+24
+64.8
+10
+27.8
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10922
+2018-03-03
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+24
+Alice Mutton
+Guaraná Fantástica
+15
+35
+39
+4.5
+Page 1

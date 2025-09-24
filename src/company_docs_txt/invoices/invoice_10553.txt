@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10553
+Customer ID: WARTH
+Order Date: 2017-05-30
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+16
+22
+31
+35
+Queso Cabrales
+Pavlova
+Gustaf's Knäckebröd
+Gorgonzola Telino
+Steeleye Stout
+15
+14
+24
+30
+6
+21.0
+17.45
+21.0
+12.5
+18.0
+TotalPrice
+1546.3
+Page 1
+ 
+ 

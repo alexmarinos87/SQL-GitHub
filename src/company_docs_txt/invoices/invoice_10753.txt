@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10753
+Customer ID: FRANS
+Order Date: 2017-11-25
+Customer Details:
+Contact Name:
+Paolo Accorti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Monte Bianco 34
+Torino
+10100
+Italy
+011-4988260
+011-4988261
+Product ID
+Product Name
+Quantity
+Unit Price
+45
+74
+Rogede sild
+Longlife Tofu
+4
+5
+TotalPrice
+9.5
+10.0
+88.0
+Page 1
+ 
+ 

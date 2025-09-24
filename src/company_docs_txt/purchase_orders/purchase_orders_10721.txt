@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10721
+2017-10-29
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+44
+Gula Malacca
+50
+19.45
+Page 1

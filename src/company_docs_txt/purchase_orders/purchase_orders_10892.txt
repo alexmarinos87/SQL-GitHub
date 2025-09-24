@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10892
+2018-02-17
+Catherine Dewey
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+Raclette Courdavault
+40
+55
+Page 1

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10751
+2017-11-24
+Michael Holz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+30
+50
+73
+Gumbär Gummibärchen
+Nord-Ost Matjeshering
+Valkoinen suklaa
+Röd Kaviar
+12
+30
+20
+15
+31.23
+25.89
+16.25
+15
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10998
+Customer ID: WOLZA
+Order Date: 2018-04-03
+Customer Details:
+Contact Name:
+Zbyszek Piestrzeniewicz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+ul. Filtrowa 68
+Warszawa
+01-012
+Poland
+(26) 642-7012
+(26) 642-7012
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+61
+74
+75
+Guaraná Fantástica
+Sirop d'érable
+Longlife Tofu
+Rhönbräu Klosterbier
+12
+7
+20
+30
+4.5
+28.5
+10.0
+7.75
+TotalPrice
+686.0
+Page 1
+ 
+ 

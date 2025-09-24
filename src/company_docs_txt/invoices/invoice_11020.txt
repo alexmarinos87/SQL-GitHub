@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11020
+Customer ID: OTTIK
+Order Date: 2018-04-14
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+Ikura
+24
+TotalPrice
+31.0
+744.0
+Page 1
+ 
+ 

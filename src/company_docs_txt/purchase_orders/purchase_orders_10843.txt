@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10843
+2018-01-21
+Mary Saveley
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+51
+Manjimup Dried Apples
+4
+53
+Page 1

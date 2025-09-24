@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10893
+2018-02-18
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+8
+24
+29
+30
+36
+Northwoods Cranberry Sauce
+Guaraná Fantástica
+Thüringer Rostbratwurst
+Nord-Ost Matjeshering
+Inlagd Sill
+30
+10
+24
+35
+20
+40
+4.5
+123.79
+25.89
+19
+Page 1

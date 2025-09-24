@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10477
+2017-03-17
+Isabel de Castro
+Products
+Product ID:
+1
+21
+39
+Product:
+Chai
+Sir Rodney's Scones
+Chartreuse verte
+Quantity:
+Unit Price:
+15
+21
+20
+14.4
+8
+14.4
+Page 1

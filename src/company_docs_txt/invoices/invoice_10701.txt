@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10701
+Customer ID: HUNGO
+Order Date: 2017-10-13
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+71
+76
+Raclette Courdavault
+Flotemysost
+Lakkalikööri
+42
+20
+35
+55.0
+21.5
+18.0
+TotalPrice
+3370.0
+Page 1
+ 
+ 

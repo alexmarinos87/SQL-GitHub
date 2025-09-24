@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10766
+Customer ID: OTTIK
+Order Date: 2017-12-05
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+7
+68
+Chang
+Uncle Bob's Organic Dried Pears
+Scottish Longbreads
+40
+35
+40
+19.0
+30.0
+12.5
+TotalPrice
+2310.0
+Page 1
+ 
+ 

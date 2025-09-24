@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10682
+Customer ID: ANTON
+Order Date: 2017-09-25
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+66
+75
+Geitost
+Louisiana Hot Spiced Okra
+Rhönbräu Klosterbier
+30
+4
+30
+2.5
+17.0
+7.75
+TotalPrice
+375.5
+Page 1
+ 
+ 

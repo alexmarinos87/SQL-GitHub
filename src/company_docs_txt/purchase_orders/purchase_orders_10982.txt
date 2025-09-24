@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10982
+2018-03-27
+Elizabeth Lincoln
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+43
+Uncle Bob's Organic Dried Pears
+Ipoh Coffee
+20
+9
+30
+46
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10609
+Customer ID: DUMON
+Order Date: 2017-07-24
+Customer Details:
+Contact Name:
+Janine Labrune
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, rue des Cinquante Otages
+Nantes
+44000
+France
+40.67.88.88
+40.67.89.89
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+10
+21
+Chai
+Ikura
+Sir Rodney's Scones
+3
+10
+6
+18.0
+31.0
+10.0
+TotalPrice
+424.0
+Page 1
+ 
+ 

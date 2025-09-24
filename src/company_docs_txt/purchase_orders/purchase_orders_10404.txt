@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10404
+2017-01-03
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+42
+49
+Gumbär Gummibärchen
+Singaporean Hokkien Fried Mee
+Maxilaku
+30
+40
+30
+24.9
+11.2
+16
+Page 1

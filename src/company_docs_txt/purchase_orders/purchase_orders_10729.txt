@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10729
+2017-11-04
+Felipe Izquierdo
+Products
+Product ID:
+1
+21
+50
+Product:
+Chai
+Sir Rodney's Scones
+Valkoinen suklaa
+Quantity:
+Unit Price:
+50
+30
+40
+18
+10
+16.25
+Page 1

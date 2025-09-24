@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10872
+2018-02-05
+José Pedro Freyre
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+62
+64
+65
+Pâté chinois
+Tarte au sucre
+Wimmers gute Semmelknödel
+Louisiana Fiery Hot Pepper Sauce
+10
+20
+15
+21
+24
+49.3
+33.25
+21.05
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10278
+Customer ID: BERGS
+Order Date: 2016-08-12
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+44
+59
+63
+73
+Gula Malacca
+Raclette Courdavault
+Vegie-spread
+Röd Kaviar
+16
+15
+8
+25
+15.5
+44.0
+35.1
+12.0
+TotalPrice
+1488.8
+Page 1
+ 
+ 

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10932
+2018-03-06
+Laurence Lebihan
+Products
+Product ID:
+16
+62
+72
+75
+Product:
+Pavlova
+Tarte au sucre
+Mozzarella di Giovanni
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+30
+14
+16
+20
+17.45
+49.3
+34.8
+7.75
+Page 1

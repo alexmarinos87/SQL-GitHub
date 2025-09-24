@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10713
+2017-10-22
+Jose Pavarotti
+Products
+Product ID:
+10
+26
+45
+46
+Product:
+Ikura
+Gumbär Gummibärchen
+Rogede sild
+Spegesild
+Quantity:
+Unit Price:
+18
+30
+110
+24
+31
+31.23
+9.5
+12
+Page 1

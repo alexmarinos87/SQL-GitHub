@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10653
+Customer ID: FRANK
+Order Date: 2017-09-02
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+60
+Pavlova
+Camembert Pierrot
+30
+20
+17.45
+34.0
+TotalPrice
+1203.5
+Page 1
+ 
+ 

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10295
+2016-09-02
+Paul Henriot
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+Gnocchi di nonna Alice
+4
+30.4
+Page 1

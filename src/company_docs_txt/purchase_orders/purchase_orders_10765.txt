@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10765
+2017-12-04
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+65
+Louisiana Fiery Hot Pepper Sauce
+80
+21.05
+Page 1

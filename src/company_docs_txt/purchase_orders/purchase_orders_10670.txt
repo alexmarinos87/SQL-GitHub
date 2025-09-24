@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10670
+2017-09-16
+Peter Franken
+Products
+Product:
+Tunnbröd
+Spegesild
+Laughing Lumberjack Lager
+Röd Kaviar
+Rhönbräu Klosterbier
+Product ID:
+23
+46
+67
+73
+75
+Quantity:
+Unit Price:
+32
+60
+25
+50
+25
+9
+12
+14
+15
+7.75
+Page 1

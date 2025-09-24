@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10337
+2016-10-24
+Peter Franken
+Products
+Product:
+Tunnbröd
+Gumbär Gummibärchen
+Inlagd Sill
+Gravad lax
+Mozzarella di Giovanni
+Product ID:
+23
+26
+36
+37
+72
+Quantity:
+Unit Price:
+40
+24
+20
+28
+25
+7.2
+24.9
+15.2
+20.8
+27.8
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10743
+2017-11-17
+Thomas Hardy
+Products
+Product ID:
+46
+Product:
+Spegesild
+Quantity:
+Unit Price:
+28
+12
+Page 1

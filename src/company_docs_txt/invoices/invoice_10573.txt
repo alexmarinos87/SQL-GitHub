@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10573
+Customer ID: ANTON
+Order Date: 2017-06-19
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+34
+53
+Alice Mutton
+Sasquatch Ale
+Perth Pasties
+18
+40
+25
+39.0
+14.0
+32.8
+TotalPrice
+2082.0
+Page 1
+ 
+ 

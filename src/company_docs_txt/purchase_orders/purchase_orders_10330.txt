@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10330
+2016-10-16
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+72
+Gumbär Gummibärchen
+Mozzarella di Giovanni
+50
+25
+24.9
+27.8
+Page 1

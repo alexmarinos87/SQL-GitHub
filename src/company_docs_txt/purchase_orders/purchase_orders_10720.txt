@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10720
+2017-10-28
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+71
+Steeleye Stout
+Flotemysost
+21
+8
+18
+21.5
+Page 1

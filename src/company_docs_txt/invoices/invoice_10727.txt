@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10727
+Customer ID: REGGC
+Order Date: 2017-11-03
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+56
+59
+Alice Mutton
+Gnocchi di nonna Alice
+Raclette Courdavault
+20
+10
+10
+39.0
+38.0
+55.0
+TotalPrice
+1710.0
+Page 1
+ 
+ 

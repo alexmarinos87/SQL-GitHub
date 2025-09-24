@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10523
+Customer ID: SEVES
+Order Date: 2017-05-01
+Customer Details:
+Contact Name:
+Hari Kumar
+Address:
+City:
+90 Wadhurst Rd.
+London
+Postal Code:
+OX15 4NB
+Country:
+Phone:
+Fax:
+UK
+(171) 555-1717
+(171) 555-5646
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+20
+37
+41
+Alice Mutton
+Sir Rodney's Marmalade
+Gravad lax
+Jack's New England Clam Chowder
+25
+15
+18
+6
+39.0
+81.0
+26.0
+9.65
+TotalPrice
+2715.9
+Page 1
+ 
+ 

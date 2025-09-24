@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10256
+Customer ID: WELLI
+Order Date: 2016-07-15
+Customer Details:
+Contact Name:
+Paula Parente
+Address:
+City:
+Rua do Mercado, 12
+Resende
+Postal Code:
+08737-363
+Country:
+Phone:
+Fax:
+Brazil
+(14) 555-8122
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+77
+Perth Pasties
+Original Frankfurter grüne Soße
+15
+12
+26.2
+10.4
+TotalPrice
+517.8
+Page 1
+ 
+ 

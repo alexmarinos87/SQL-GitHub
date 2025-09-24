@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10865
+2018-02-02
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+39
+Côte de Blaye
+Chartreuse verte
+60
+80
+263.5
+18
+Page 1

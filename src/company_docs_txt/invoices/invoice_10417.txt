@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10417
+Customer ID: SIMOB
+Order Date: 2017-01-16
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+38
+46
+68
+77
+Côte de Blaye
+Spegesild
+Scottish Longbreads
+Original Frankfurter grüne Soße
+50
+2
+36
+35
+210.8
+9.6
+10.0
+10.4
+TotalPrice
+11283.2
+Page 1
+ 
+ 

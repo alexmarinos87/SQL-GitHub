@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10620
+Customer ID: LAUGB
+Order Date: 2017-08-05
+Customer Details:
+Contact Name:
+Yoshi Tannamuri
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1900 Oak St.
+Vancouver
+V3F 2K1
+Canada
+(604) 555-3392
+(604) 555-7293
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+52
+Guaraná Fantástica
+Filo Mix
+5
+5
+TotalPrice
+4.5
+7.0
+57.5
+Page 1
+ 
+ 

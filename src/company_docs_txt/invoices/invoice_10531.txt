@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10531
+Customer ID: OCEAN
+Order Date: 2017-05-08
+Customer Details:
+Contact Name:
+Yvonne Moncada
+Address:
+City:
+Ing. Gustavo Moncada 8585 Piso 20-A
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5333
+(1) 135-5535
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+Raclette Courdavault
+2
+TotalPrice
+55.0
+110.0
+Page 1
+ 
+ 

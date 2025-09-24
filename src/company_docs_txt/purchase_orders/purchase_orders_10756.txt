@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10756
+2017-11-27
+Art Braunschweiger
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+36
+68
+69
+Carnarvon Tigers
+Inlagd Sill
+Scottish Longbreads
+Gudbrandsdalsost
+21
+20
+6
+20
+62.5
+19
+12.5
+36
+Page 1

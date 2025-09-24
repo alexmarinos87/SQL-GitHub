@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10725
+2017-10-31
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+52
+55
+Jack's New England Clam Chowder
+Filo Mix
+Pâté chinois
+12
+4
+6
+9.65
+7
+24
+Page 1

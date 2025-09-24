@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10639
+Customer ID: SANTG
+Order Date: 2017-08-20
+Customer Details:
+Contact Name:
+Jonas Bergulfsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Erling Skakkes gate 78
+Stavern
+4110
+Norway
+07-98 92 35
+07-98 92 47
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+Carnarvon Tigers
+8
+TotalPrice
+62.5
+500.0
+Page 1
+ 
+ 

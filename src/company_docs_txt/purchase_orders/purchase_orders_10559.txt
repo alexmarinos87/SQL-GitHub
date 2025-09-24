@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10559
+2017-06-05
+Frédérique Citeaux
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+55
+Jack's New England Clam Chowder
+Pâté chinois
+12
+18
+9.65
+24
+Page 1

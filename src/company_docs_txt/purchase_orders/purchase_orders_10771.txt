@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10771
+2017-12-10
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+71
+Flotemysost
+16
+21.5
+Page 1

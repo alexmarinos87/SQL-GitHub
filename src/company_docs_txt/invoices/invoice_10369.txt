@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10369
+Customer ID: SPLIR
+Order Date: 2016-12-02
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+56
+Thüringer Rostbratwurst
+Gnocchi di nonna Alice
+20
+18
+99.0
+30.4
+TotalPrice
+2527.2
+Page 1
+ 
+ 

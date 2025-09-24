@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10333
+Customer ID: WARTH
+Order Date: 2016-10-18
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+21
+71
+Tofu
+Sir Rodney's Scones
+Flotemysost
+10
+10
+40
+18.6
+8.0
+17.2
+TotalPrice
+954.0
+Page 1
+ 
+ 

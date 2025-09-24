@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10672
+2017-09-17
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+71
+Côte de Blaye
+Flotemysost
+15
+12
+263.5
+21.5
+Page 1

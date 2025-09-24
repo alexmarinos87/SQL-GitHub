@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10494
+2017-04-02
+Pedro Afonso
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+Gnocchi di nonna Alice
+30
+30.4
+Page 1

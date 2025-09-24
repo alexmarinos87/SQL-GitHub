@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10642
+Customer ID: SIMOB
+Order Date: 2017-08-22
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+61
+Sir Rodney's Scones
+Sirop d'érable
+30
+20
+10.0
+28.5
+TotalPrice
+870.0
+Page 1
+ 
+ 

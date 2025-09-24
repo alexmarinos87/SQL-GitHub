@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10545
+Customer ID: LAZYK
+Order Date: 2017-05-22
+Customer Details:
+Contact Name:
+John Steel
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12 Orchestra Terrace
+Walla Walla
+99362
+USA
+(509) 555-7969
+(509) 555-6221
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+Queso Cabrales
+10
+TotalPrice
+21.0
+210.0
+Page 1
+ 
+ 

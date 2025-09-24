@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10342
+Customer ID: FRANK
+Order Date: 2016-10-30
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+31
+36
+55
+Chang
+Gorgonzola Telino
+Inlagd Sill
+Pâté chinois
+24
+56
+40
+40
+15.2
+10.0
+15.2
+19.2
+TotalPrice
+2300.8
+Page 1
+ 
+ 

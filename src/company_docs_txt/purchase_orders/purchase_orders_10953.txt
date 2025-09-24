@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10953
+2018-03-16
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+31
+Sir Rodney's Marmalade
+Gorgonzola Telino
+50
+50
+81
+12.5
+Page 1

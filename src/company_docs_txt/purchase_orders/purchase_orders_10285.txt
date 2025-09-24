@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10285
+2016-08-20
+Horst Kloss
+Products
+Product ID:
+1
+40
+53
+Product:
+Chai
+Boston Crab Meat
+Perth Pasties
+Quantity:
+Unit Price:
+45
+40
+36
+14.4
+14.7
+26.2
+Page 1

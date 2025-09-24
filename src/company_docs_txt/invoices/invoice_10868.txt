@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10868
+Customer ID: QUEEN
+Order Date: 2018-02-04
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+35
+49
+Gumbär Gummibärchen
+Steeleye Stout
+Maxilaku
+20
+30
+42
+31.23
+18.0
+20.0
+TotalPrice
+2004.6
+Page 1
+ 
+ 

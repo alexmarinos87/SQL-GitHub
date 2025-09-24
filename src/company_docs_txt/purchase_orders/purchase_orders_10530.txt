@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10530
+2017-05-08
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+43
+61
+76
+Alice Mutton
+Ipoh Coffee
+Sirop d'érable
+Lakkalikööri
+40
+25
+20
+50
+39
+46
+28.5
+18
+Page 1

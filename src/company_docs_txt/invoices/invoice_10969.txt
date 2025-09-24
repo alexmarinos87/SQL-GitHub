@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10969
+Customer ID: COMMI
+Order Date: 2018-03-23
+Customer Details:
+Contact Name:
+Pedro Afonso
+Address:
+City:
+Av. dos Lusíadas, 23
+Sao Paulo
+Postal Code:
+05432-043
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-7647
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+46
+Spegesild
+9
+TotalPrice
+12.0
+108.0
+Page 1
+ 
+ 

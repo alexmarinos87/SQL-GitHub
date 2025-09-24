@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10345
+Customer ID: QUICK
+Order Date: 2016-11-04
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+19
+42
+Northwoods Cranberry Sauce
+Teatime Chocolate Biscuits
+Singaporean Hokkien Fried Mee
+70
+80
+9
+32.0
+7.3
+11.2
+TotalPrice
+2924.8
+Page 1
+ 
+ 

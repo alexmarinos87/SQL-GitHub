@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10823
+Customer ID: LILAS
+Order Date: 2018-01-09
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+57
+59
+77
+Queso Cabrales
+Ravioli Angelo
+Raclette Courdavault
+Original Frankfurter grüne Soße
+20
+15
+40
+15
+21.0
+19.5
+55.0
+13.0
+TotalPrice
+3107.5
+Page 1
+ 
+ 

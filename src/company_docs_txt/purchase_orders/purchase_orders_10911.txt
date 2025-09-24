@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10911
+2018-02-26
+José Pedro Freyre
+Products
+Product:
+Chai
+Alice Mutton
+Laughing Lumberjack Lager
+Product ID:
+1
+17
+67
+Quantity:
+Unit Price:
+10
+12
+15
+18
+39
+14
+Page 1

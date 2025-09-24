@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10664
+Customer ID: FURIB
+Order Date: 2017-09-10
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+56
+65
+Ikura
+Gnocchi di nonna Alice
+Louisiana Fiery Hot Pepper Sauce
+24
+12
+15
+31.0
+38.0
+21.05
+TotalPrice
+1515.75
+Page 1
+ 
+ 

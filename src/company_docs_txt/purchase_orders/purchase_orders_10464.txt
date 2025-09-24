@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10464
+2017-03-04
+Lino Rodriguez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+43
+56
+60
+Chef Anton's Cajun Seasoning
+Ipoh Coffee
+Gnocchi di nonna Alice
+Camembert Pierrot
+16
+3
+30
+20
+17.6
+36.8
+30.4
+27.2
+Page 1

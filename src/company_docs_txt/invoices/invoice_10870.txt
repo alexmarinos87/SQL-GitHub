@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10870
+Customer ID: WOLZA
+Order Date: 2018-02-04
+Customer Details:
+Contact Name:
+Zbyszek Piestrzeniewicz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+ul. Filtrowa 68
+Warszawa
+01-012
+Poland
+(26) 642-7012
+(26) 642-7012
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+51
+Steeleye Stout
+Manjimup Dried Apples
+3
+2
+18.0
+53.0
+TotalPrice
+160.0
+Page 1
+ 
+ 

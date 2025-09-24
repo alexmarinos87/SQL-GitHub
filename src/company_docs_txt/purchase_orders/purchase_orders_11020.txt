@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11020
+2018-04-14
+Henriette Pfalzheim
+Products
+Product ID:
+10
+Product:
+Ikura
+Quantity:
+Unit Price:
+24
+31
+Page 1

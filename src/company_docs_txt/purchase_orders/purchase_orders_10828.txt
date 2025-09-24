@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10828
+2018-01-13
+Sergio Gutiérrez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+38
+Sir Rodney's Marmalade
+Côte de Blaye
+5
+2
+81
+263.5
+Page 1

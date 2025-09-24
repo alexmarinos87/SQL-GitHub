@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11018
+Customer ID: LONEP
+Order Date: 2018-04-13
+Customer Details:
+Contact Name:
+Fran Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Chiaroscuro Rd.
+Portland
+97219
+USA
+(503) 555-9573
+(503) 555-9646
+Product ID
+Product Name
+Quantity
+Unit Price
+12
+18
+56
+Queso Manchego La Pastora
+Carnarvon Tigers
+Gnocchi di nonna Alice
+20
+10
+5
+38.0
+62.5
+38.0
+TotalPrice
+1575.0
+Page 1
+ 
+ 

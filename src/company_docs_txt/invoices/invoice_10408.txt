@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10408
+Customer ID: FOLIG
+Order Date: 2017-01-08
+Customer Details:
+Contact Name:
+Martine Rancé
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+184, chaussée de Tournai
+Lille
+59000
+France
+20.16.10.16
+20.16.10.17
+Product ID
+Product Name
+Quantity
+Unit Price
+37
+54
+62
+Gravad lax
+Tourtière
+Tarte au sucre
+10
+6
+35
+20.8
+5.9
+39.4
+TotalPrice
+1622.4
+Page 1
+ 
+ 

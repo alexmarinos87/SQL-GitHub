@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10675
+2017-09-19
+Peter Franken
+Products
+Product ID:
+14
+53
+58
+Product:
+Tofu
+Perth Pasties
+Escargots de Bourgogne
+Quantity:
+Unit Price:
+30
+10
+30
+23.25
+32.8
+13.25
+Page 1

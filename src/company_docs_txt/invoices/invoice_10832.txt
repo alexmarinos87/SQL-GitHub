@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10832
+Customer ID: LAMAI
+Order Date: 2018-01-14
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+25
+44
+64
+Konbu
+NuNuCa Nuß-Nougat-Creme
+Gula Malacca
+Wimmers gute Semmelknödel
+3
+10
+16
+3
+6.0
+14.0
+19.45
+33.25
+TotalPrice
+568.95
+Page 1
+ 
+ 

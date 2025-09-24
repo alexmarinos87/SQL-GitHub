@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10802
+Customer ID: SIMOB
+Order Date: 2017-12-29
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+51
+55
+62
+Nord-Ost Matjeshering
+Manjimup Dried Apples
+Pâté chinois
+Tarte au sucre
+25
+30
+60
+5
+25.89
+53.0
+24.0
+49.3
+TotalPrice
+3923.75
+Page 1
+ 
+ 

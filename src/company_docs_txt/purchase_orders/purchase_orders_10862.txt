@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10862
+2018-01-30
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+52
+Queso Cabrales
+Filo Mix
+25
+8
+21
+7
+Page 1

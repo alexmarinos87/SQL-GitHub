@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10371
+Customer ID: LAMAI
+Order Date: 2016-12-03
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+Inlagd Sill
+6
+15.2
+TotalPrice
+91.19999999999999
+Page 1
+ 
+ 

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10399
+2016-12-31
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+68
+71
+76
+77
+Scottish Longbreads
+Flotemysost
+Lakkalikööri
+Original Frankfurter grüne Soße
+60
+30
+35
+14
+10
+17.2
+14.4
+10.4
+Page 1

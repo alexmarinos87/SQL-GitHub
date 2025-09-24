@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10593
+2017-07-09
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+69
+76
+Sir Rodney's Marmalade
+Gudbrandsdalsost
+Lakkalikööri
+21
+20
+4
+81
+36
+18
+Page 1

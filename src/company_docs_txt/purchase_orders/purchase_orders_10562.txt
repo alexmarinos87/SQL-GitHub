@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10562
+2017-06-09
+Maurizio Moroni
+Products
+Product ID:
+33
+62
+Product:
+Geitost
+Tarte au sucre
+Quantity:
+Unit Price:
+20
+10
+2.5
+49.3
+Page 1

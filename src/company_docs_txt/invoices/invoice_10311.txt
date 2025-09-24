@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10311
+Customer ID: DUMON
+Order Date: 2016-09-20
+Customer Details:
+Contact Name:
+Janine Labrune
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, rue des Cinquante Otages
+Nantes
+44000
+France
+40.67.88.88
+40.67.89.89
+Product ID
+Product Name
+Quantity
+Unit Price
+42
+69
+Singaporean Hokkien Fried Mee
+Gudbrandsdalsost
+6
+7
+11.2
+28.8
+TotalPrice
+268.79999999999995
+Page 1
+ 
+ 

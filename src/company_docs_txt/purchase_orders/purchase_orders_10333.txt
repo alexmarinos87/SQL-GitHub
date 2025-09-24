@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10333
+2016-10-18
+Pirkko Koskitalo
+Products
+Product ID:
+14
+21
+71
+Product:
+Tofu
+Sir Rodney's Scones
+Flotemysost
+Quantity:
+Unit Price:
+10
+10
+40
+18.6
+8
+17.2
+Page 1

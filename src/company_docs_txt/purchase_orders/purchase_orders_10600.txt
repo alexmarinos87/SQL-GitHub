@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10600
+2017-07-16
+Yoshi Latimer
+Products
+Product ID:
+54
+73
+Product:
+Tourtière
+Röd Kaviar
+Quantity:
+Unit Price:
+4
+30
+7.45
+15
+Page 1

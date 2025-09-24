@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11042
+Customer ID: COMMI
+Order Date: 2018-04-22
+Customer Details:
+Contact Name:
+Pedro Afonso
+Address:
+City:
+Av. dos Lusíadas, 23
+Sao Paulo
+Postal Code:
+05432-043
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-7647
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+44
+61
+Gula Malacca
+Sirop d'érable
+15
+4
+19.45
+28.5
+TotalPrice
+405.75
+Page 1
+ 
+ 

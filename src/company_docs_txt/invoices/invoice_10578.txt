@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10578
+Customer ID: BSBEV
+Order Date: 2017-06-24
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+57
+Steeleye Stout
+Ravioli Angelo
+20
+6
+18.0
+19.5
+TotalPrice
+477.0
+Page 1
+ 
+ 

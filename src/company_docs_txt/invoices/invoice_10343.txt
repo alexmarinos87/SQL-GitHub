@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10343
+Customer ID: LEHMS
+Order Date: 2016-10-31
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+64
+68
+76
+Wimmers gute Semmelknödel
+Scottish Longbreads
+Lakkalikööri
+50
+4
+15
+26.6
+10.0
+14.4
+TotalPrice
+1586.0
+Page 1
+ 
+ 

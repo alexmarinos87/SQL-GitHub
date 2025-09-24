@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10385
+Customer ID: SPLIR
+Order Date: 2016-12-17
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+60
+68
+Uncle Bob's Organic Dried Pears
+Camembert Pierrot
+Scottish Longbreads
+10
+20
+8
+24.0
+27.2
+10.0
+TotalPrice
+864.0
+Page 1
+ 
+ 

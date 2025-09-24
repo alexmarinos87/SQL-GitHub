@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10796
+Customer ID: HILAA
+Order Date: 2017-12-25
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+44
+64
+69
+Gumbär Gummibärchen
+Gula Malacca
+Wimmers gute Semmelknödel
+Gudbrandsdalsost
+21
+10
+35
+24
+31.23
+19.45
+33.25
+36.0
+TotalPrice
+2878.08
+Page 1
+ 
+ 

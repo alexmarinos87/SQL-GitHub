@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10775
+Customer ID: THECR
+Order Date: 2017-12-12
+Customer Details:
+Contact Name:
+Liu Wong
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+55 Grizzly Peak Rd.
+Butte
+59801
+USA
+(406) 555-5834
+(406) 555-8083
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+67
+Ikura
+Laughing Lumberjack Lager
+6
+3
+31.0
+14.0
+TotalPrice
+228.0
+Page 1
+ 
+ 

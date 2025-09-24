@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10700
+Customer ID: SAVEA
+Order Date: 2017-10-10
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+34
+68
+71
+Chai
+Sasquatch Ale
+Scottish Longbreads
+Flotemysost
+5
+12
+40
+60
+18.0
+14.0
+12.5
+21.5
+TotalPrice
+2048.0
+Page 1
+ 
+ 

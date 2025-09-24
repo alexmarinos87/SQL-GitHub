@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10258
+Customer ID: ERNSH
+Order Date: 2016-07-17
+Customer Details:
+Contact Name:
+Roland Mendel
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Kirchgasse 6
+Graz
+8010
+Austria
+7675-3425
+7675-3426
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+5
+32
+Chang
+Chef Anton's Gumbo Mix
+Mascarpone Fabioli
+50
+65
+6
+15.2
+17.0
+25.6
+TotalPrice
+2018.6
+Page 1
+ 
+ 

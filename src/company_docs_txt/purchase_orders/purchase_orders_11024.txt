@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11024
+2018-04-15
+Ann Devon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+33
+65
+71
+Gumbär Gummibärchen
+Geitost
+Louisiana Fiery Hot Pepper Sauce
+Flotemysost
+12
+30
+21
+50
+31.23
+2.5
+21.05
+21.5
+Page 1

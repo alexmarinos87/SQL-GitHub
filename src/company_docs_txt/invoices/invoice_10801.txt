@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10801
+Customer ID: BOLID
+Order Date: 2017-12-29
+Customer Details:
+Contact Name:
+Martín Sommer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Araquil, 67
+Madrid
+28023
+Spain
+(91) 555 22 82
+(91) 555 91 99
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+29
+Alice Mutton
+Thüringer Rostbratwurst
+40
+20
+TotalPrice
+39.0
+123.79
+4035.8
+Page 1
+ 
+ 

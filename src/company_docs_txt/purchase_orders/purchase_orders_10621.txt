@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10621
+2017-08-05
+Helen Bennett
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+23
+70
+71
+Teatime Chocolate Biscuits
+Tunnbröd
+Outback Lager
+Flotemysost
+5
+10
+20
+15
+9.2
+9
+15
+21.5
+Page 1

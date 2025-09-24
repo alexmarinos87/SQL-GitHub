@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10951
+Customer ID: RICSU
+Order Date: 2018-03-16
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+41
+75
+Geitost
+Jack's New England Clam Chowder
+Rhönbräu Klosterbier
+15
+6
+50
+2.5
+9.65
+7.75
+TotalPrice
+482.9
+Page 1
+ 
+ 

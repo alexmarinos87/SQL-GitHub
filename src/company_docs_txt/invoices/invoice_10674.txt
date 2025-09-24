@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10674
+Customer ID: ISLAT
+Order Date: 2017-09-18
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+Tunnbröd
+5
+TotalPrice
+9.0
+45.0
+Page 1
+ 
+ 

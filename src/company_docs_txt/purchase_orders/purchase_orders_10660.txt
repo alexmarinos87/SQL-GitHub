@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10660
+2017-09-08
+Yoshi Latimer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+Sir Rodney's Marmalade
+21
+81
+Page 1

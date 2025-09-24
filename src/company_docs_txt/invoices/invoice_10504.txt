@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10504
+Customer ID: WHITC
+Order Date: 2017-04-11
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+21
+53
+61
+Chang
+Sir Rodney's Scones
+Perth Pasties
+Sirop d'érable
+12
+12
+10
+25
+19.0
+10.0
+32.8
+28.5
+TotalPrice
+1388.5
+Page 1
+ 
+ 

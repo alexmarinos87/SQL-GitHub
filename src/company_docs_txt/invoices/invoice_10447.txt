@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10447
+Customer ID: RICAR
+Order Date: 2017-02-14
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+65
+71
+Teatime Chocolate Biscuits
+Louisiana Fiery Hot Pepper Sauce
+Flotemysost
+40
+35
+2
+7.3
+16.8
+17.2
+TotalPrice
+914.4
+Page 1
+ 
+ 

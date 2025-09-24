@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10396
+2016-12-27
+Peter Franken
+Products
+Product ID:
+23
+71
+72
+Product:
+Tunnbröd
+Flotemysost
+Mozzarella di Giovanni
+Quantity:
+Unit Price:
+40
+60
+21
+7.2
+17.2
+27.8
+Page 1

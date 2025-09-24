@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10427
+2017-01-27
+Georg Pipps
+Products
+Product ID:
+14
+Product:
+Tofu
+Quantity:
+Unit Price:
+35
+18.6
+Page 1

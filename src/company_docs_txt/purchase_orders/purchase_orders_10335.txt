@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10335
+2016-10-22
+Patricia McKenna
+Products
+Product ID:
+2
+31
+32
+51
+Product:
+Chang
+Gorgonzola Telino
+Mascarpone Fabioli
+Manjimup Dried Apples
+Quantity:
+Unit Price:
+7
+25
+6
+48
+15.2
+10
+25.6
+42.4
+Page 1

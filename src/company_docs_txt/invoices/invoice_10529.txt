@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10529
+Customer ID: MAISD
+Order Date: 2017-05-07
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+68
+69
+Pâté chinois
+Scottish Longbreads
+Gudbrandsdalsost
+14
+20
+10
+24.0
+12.5
+36.0
+TotalPrice
+946.0
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10469
+Customer ID: WHITC
+Order Date: 2017-03-10
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+16
+44
+Chang
+Pavlova
+Gula Malacca
+40
+35
+2
+15.2
+13.9
+15.5
+TotalPrice
+1125.5
+Page 1
+ 
+ 

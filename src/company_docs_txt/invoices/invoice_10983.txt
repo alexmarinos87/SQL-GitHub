@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10983
+Customer ID: SAVEA
+Order Date: 2018-03-27
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+57
+Konbu
+Ravioli Angelo
+84
+15
+6.0
+19.5
+TotalPrice
+796.5
+Page 1
+ 
+ 

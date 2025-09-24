@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10736
+2017-11-11
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+65
+75
+Louisiana Fiery Hot Pepper Sauce
+Rhönbräu Klosterbier
+40
+20
+21.05
+7.75
+Page 1

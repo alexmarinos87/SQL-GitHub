@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10674
+2017-09-18
+Helen Bennett
+Products
+Product ID:
+23
+Product:
+Tunnbröd
+Quantity:
+Unit Price:
+5
+9
+Page 1

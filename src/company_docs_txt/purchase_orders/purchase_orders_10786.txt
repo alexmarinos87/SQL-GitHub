@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10786
+2017-12-19
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+8
+30
+75
+Northwoods Cranberry Sauce
+Nord-Ost Matjeshering
+Rhönbräu Klosterbier
+30
+15
+42
+40
+25.89
+7.75
+Page 1

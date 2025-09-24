@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10408
+2017-01-08
+Martine Rancé
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+37
+54
+62
+Gravad lax
+Tourtière
+Tarte au sucre
+10
+6
+35
+20.8
+5.9
+39.4
+Page 1

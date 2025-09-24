@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10376
+2016-12-09
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+Gorgonzola Telino
+42
+10
+Page 1

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10974
+Customer ID: SPLIR
+Order Date: 2018-03-25
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+63
+Vegie-spread
+10
+TotalPrice
+43.9
+439.0
+Page 1
+ 
+ 

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10971
+Customer ID: FRANR
+Order Date: 2018-03-24
+Customer Details:
+Contact Name:
+Carine Schmitt
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+54, rue Royale
+Nantes
+44000
+France
+40.32.21.21
+40.32.21.20
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+Thüringer Rostbratwurst
+14
+123.79
+TotalPrice
+1733.0600000000002
+Page 1
+ 
+ 

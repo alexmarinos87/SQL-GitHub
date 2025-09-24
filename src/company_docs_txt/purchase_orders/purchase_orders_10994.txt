@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10994
+2018-04-02
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+Raclette Courdavault
+18
+55
+Page 1

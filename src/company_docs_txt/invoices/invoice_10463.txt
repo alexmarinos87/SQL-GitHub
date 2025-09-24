@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10463
+Customer ID: SUPRD
+Order Date: 2017-03-04
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+42
+Teatime Chocolate Biscuits
+Singaporean Hokkien Fried Mee
+21
+50
+7.3
+11.2
+TotalPrice
+713.3
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10429
+2017-01-29
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+50
+63
+Valkoinen suklaa
+Vegie-spread
+40
+35
+13
+35.1
+Page 1

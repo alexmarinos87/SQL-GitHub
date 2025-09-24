@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10516
+2017-04-24
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+41
+42
+Carnarvon Tigers
+Jack's New England Clam Chowder
+Singaporean Hokkien Fried Mee
+25
+80
+20
+62.5
+9.65
+14
+Page 1

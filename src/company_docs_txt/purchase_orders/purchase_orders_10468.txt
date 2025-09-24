@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10468
+2017-03-07
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+43
+Nord-Ost Matjeshering
+Ipoh Coffee
+8
+15
+20.7
+36.8
+Page 1

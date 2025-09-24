@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10420
+Customer ID: WELLI
+Order Date: 2017-01-21
+Customer Details:
+Contact Name:
+Paula Parente
+Address:
+City:
+Rua do Mercado, 12
+Resende
+Postal Code:
+08737-363
+Country:
+Phone:
+Fax:
+Brazil
+(14) 555-8122
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+9
+13
+70
+73
+Mishi Kobe Niku
+Konbu
+Outback Lager
+Röd Kaviar
+20
+2
+8
+20
+77.6
+4.8
+12.0
+12.0
+TotalPrice
+1897.6
+Page 1
+ 
+ 

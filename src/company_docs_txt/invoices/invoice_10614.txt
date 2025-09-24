@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10614
+Customer ID: BLAUS
+Order Date: 2017-07-29
+Customer Details:
+Contact Name:
+Hanna Moos
+Address:
+City:
+Forsterstr. 57
+Mannheim
+Postal Code:
+68306
+Country:
+Phone:
+Fax:
+Germany
+0621-08460
+0621-08924
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+21
+39
+Queso Cabrales
+Sir Rodney's Scones
+Chartreuse verte
+14
+8
+5
+21.0
+10.0
+18.0
+TotalPrice
+464.0
+Page 1
+ 
+ 

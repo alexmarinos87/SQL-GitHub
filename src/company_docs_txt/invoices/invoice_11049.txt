@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11049
+Customer ID: GOURL
+Order Date: 2018-04-24
+Customer Details:
+Contact Name:
+André Fonseca
+Address:
+City:
+Av. Brasil, 442
+Campinas
+Postal Code:
+04876-786
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9482
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+12
+Chang
+Queso Manchego La Pastora
+10
+4
+19.0
+38.0
+TotalPrice
+342.0
+Page 1
+ 
+ 

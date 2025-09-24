@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10606
+2017-07-22
+Anabela Domingues
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+55
+62
+Chef Anton's Cajun Seasoning
+Pâté chinois
+Tarte au sucre
+20
+20
+10
+22
+24
+49.3
+Page 1

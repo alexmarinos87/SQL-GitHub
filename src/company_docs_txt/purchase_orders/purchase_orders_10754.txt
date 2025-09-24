@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10754
+2017-11-25
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+Boston Crab Meat
+3
+18.4
+Page 1

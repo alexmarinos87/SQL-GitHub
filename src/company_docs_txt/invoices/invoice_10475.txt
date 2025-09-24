@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10475
+Customer ID: SUPRD
+Order Date: 2017-03-14
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+66
+76
+Gorgonzola Telino
+Louisiana Hot Spiced Okra
+Lakkalikööri
+35
+60
+42
+10.0
+13.6
+14.4
+TotalPrice
+1770.8000000000002
+Page 1
+ 
+ 

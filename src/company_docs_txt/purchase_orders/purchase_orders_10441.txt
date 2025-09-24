@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10441
+2017-02-10
+Rene Phillips
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+27
+Schoggi Schokolade
+50
+35.1
+Page 1

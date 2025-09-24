@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10756
+Customer ID: SPLIR
+Order Date: 2017-11-27
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+36
+68
+69
+Carnarvon Tigers
+Inlagd Sill
+Scottish Longbreads
+Gudbrandsdalsost
+21
+20
+6
+20
+62.5
+19.0
+12.5
+36.0
+TotalPrice
+2487.5
+Page 1
+ 
+ 

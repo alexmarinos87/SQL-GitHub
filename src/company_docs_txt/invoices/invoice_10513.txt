@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10513
+Customer ID: WANDK
+Order Date: 2017-04-22
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+32
+61
+Sir Rodney's Scones
+Mascarpone Fabioli
+Sirop d'érable
+40
+50
+15
+10.0
+32.0
+28.5
+TotalPrice
+2427.5
+Page 1
+ 
+ 

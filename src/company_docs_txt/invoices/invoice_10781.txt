@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10781
+Customer ID: WARTH
+Order Date: 2017-12-17
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+54
+56
+74
+Tourtière
+Gnocchi di nonna Alice
+Longlife Tofu
+3
+20
+35
+7.45
+38.0
+10.0
+TotalPrice
+1132.35
+Page 1
+ 
+ 

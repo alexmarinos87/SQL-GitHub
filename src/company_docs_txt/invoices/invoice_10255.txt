@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10255
+Customer ID: RICSU
+Order Date: 2016-07-12
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+16
+36
+59
+Chang
+Pavlova
+Inlagd Sill
+Raclette Courdavault
+20
+35
+25
+30
+15.2
+13.9
+15.2
+44.0
+TotalPrice
+2490.5
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10619
+Customer ID: MEREP
+Order Date: 2017-08-04
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+22
+Sir Rodney's Scones
+Gustaf's Knäckebröd
+42
+40
+10.0
+21.0
+TotalPrice
+1260.0
+Page 1
+ 
+ 

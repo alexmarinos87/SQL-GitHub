@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11003
+Customer ID: THECR
+Order Date: 2018-04-06
+Customer Details:
+Contact Name:
+Liu Wong
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+55 Grizzly Peak Rd.
+Butte
+59801
+USA
+(406) 555-5834
+(406) 555-8083
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+40
+52
+Chai
+Boston Crab Meat
+Filo Mix
+4
+10
+10
+18.0
+18.4
+7.0
+TotalPrice
+326.0
+Page 1
+ 
+ 

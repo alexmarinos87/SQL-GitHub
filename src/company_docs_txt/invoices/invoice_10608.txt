@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10608
+Customer ID: TOMSP
+Order Date: 2017-07-23
+Customer Details:
+Contact Name:
+Karin Josephs
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Luisenstr. 48
+Münster
+44087
+Germany
+0251-031259
+0251-035695
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+Gnocchi di nonna Alice
+28
+38.0
+TotalPrice
+1064.0
+Page 1
+ 
+ 

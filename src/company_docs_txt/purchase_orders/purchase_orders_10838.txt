@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10838
+2018-01-19
+Felipe Izquierdo
+Products
+Product ID:
+1
+18
+36
+Product:
+Chai
+Carnarvon Tigers
+Inlagd Sill
+Quantity:
+Unit Price:
+4
+25
+50
+18
+62.5
+19
+Page 1

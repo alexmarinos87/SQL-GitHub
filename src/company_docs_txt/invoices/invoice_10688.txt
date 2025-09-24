@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10688
+Customer ID: VAFFE
+Order Date: 2017-10-01
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+28
+34
+Ikura
+Rössle Sauerkraut
+Sasquatch Ale
+18
+60
+14
+31.0
+45.6
+14.0
+TotalPrice
+3490.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10819
+Customer ID: CACTU
+Order Date: 2018-01-07
+Customer Details:
+Contact Name:
+Patricio Simpson
+Address:
+City:
+Cerrito 333
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5555
+(1) 135-4892
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+43
+75
+Ipoh Coffee
+Rhönbräu Klosterbier
+7
+20
+46.0
+7.75
+TotalPrice
+477.0
+Page 1
+ 
+ 

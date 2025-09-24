@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10698
+2017-10-09
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+17
+29
+65
+70
+Queso Cabrales
+Alice Mutton
+Thüringer Rostbratwurst
+Louisiana Fiery Hot Pepper Sauce
+Outback Lager
+15
+8
+12
+65
+8
+21
+39
+123.79
+21.05
+15
+Page 1

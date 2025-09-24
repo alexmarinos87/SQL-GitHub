@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10389
+2016-12-20
+Elizabeth Lincoln
+Products
+Product ID:
+10
+55
+62
+70
+Product:
+Ikura
+Pâté chinois
+Tarte au sucre
+Outback Lager
+Quantity:
+Unit Price:
+16
+15
+20
+30
+24.8
+19.2
+39.4
+12
+Page 1

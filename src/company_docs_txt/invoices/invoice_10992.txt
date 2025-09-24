@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10992
+Customer ID: THEBI
+Order Date: 2018-04-01
+Customer Details:
+Contact Name:
+Liz Nixon
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Jefferson Way Suite 2
+Portland
+97201
+USA
+(503) 555-3612
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+72
+Mozzarella di Giovanni
+2
+TotalPrice
+34.8
+69.6
+Page 1
+ 
+ 

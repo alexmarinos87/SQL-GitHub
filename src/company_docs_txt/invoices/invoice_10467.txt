@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10467
+Customer ID: MAGAA
+Order Date: 2017-03-06
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+25
+Guaran· Fant·stica
+NuNuCa Nuﬂ-Nougat-Creme
+28
+12
+3.6
+11.2
+TotalPrice
+235.2
+Page 1
+ 
+ 

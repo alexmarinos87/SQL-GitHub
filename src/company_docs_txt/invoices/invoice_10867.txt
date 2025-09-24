@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10867
+Customer ID: LONEP
+Order Date: 2018-02-03
+Customer Details:
+Contact Name:
+Fran Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Chiaroscuro Rd.
+Portland
+97219
+USA
+(503) 555-9573
+(503) 555-9646
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+Perth Pasties
+3
+32.8
+TotalPrice
+98.39999999999999
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10613
+Customer ID: HILAA
+Order Date: 2017-07-29
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+75
+Konbu
+Rhönbräu Klosterbier
+8
+40
+6.0
+7.75
+TotalPrice
+358.0
+Page 1
+ 
+ 

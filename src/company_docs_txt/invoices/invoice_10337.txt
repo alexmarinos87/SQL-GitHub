@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10337
+Customer ID: FRANK
+Order Date: 2016-10-24
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+26
+36
+37
+72
+Tunnbröd
+Gumbär Gummibärchen
+Inlagd Sill
+Gravad lax
+Mozzarella di Giovanni
+40
+24
+20
+28
+25
+7.2
+24.9
+15.2
+20.8
+27.8
+TotalPrice
+2467.0
+Page 1
+ 
+ 

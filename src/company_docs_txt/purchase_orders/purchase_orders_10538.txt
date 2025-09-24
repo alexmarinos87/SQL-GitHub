@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10538
+2017-05-15
+Victoria Ashworth
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+70
+72
+Outback Lager
+Mozzarella di Giovanni
+7
+1
+15
+34.8
+Page 1

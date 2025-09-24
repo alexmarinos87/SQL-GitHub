@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10379
+Customer ID: QUEDE
+Order Date: 2016-12-11
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+63
+65
+Jack's New England Clam Chowder
+Vegie-spread
+Louisiana Fiery Hot Pepper Sauce
+8
+16
+20
+7.7
+35.1
+16.8
+TotalPrice
+959.2
+Page 1
+ 
+ 

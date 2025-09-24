@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10919
+Customer ID: LINOD
+Order Date: 2018-03-02
+Customer Details:
+Contact Name:
+Felipe Izquierdo
+Address:
+City:
+Ave. 5 de Mayo Porlamar
+I. de Margarita
+Postal Code:
+4980
+Country:
+Phone:
+Fax:
+Venezuela
+(8) 34-56-12
+(8) 34-93-93
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+25
+40
+Pavlova
+NuNuCa Nuﬂ-Nougat-Creme
+Boston Crab Meat
+24
+24
+20
+17.45
+14.0
+18.4
+TotalPrice
+1122.8
+Page 1
+ 
+ 

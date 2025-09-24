@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10981
+2018-03-27
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+Côte de Blaye
+60
+263.5
+Page 1

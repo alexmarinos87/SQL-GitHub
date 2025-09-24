@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11057
+2018-04-29
+Simon Crowther
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+70
+Outback Lager
+3
+15
+Page 1

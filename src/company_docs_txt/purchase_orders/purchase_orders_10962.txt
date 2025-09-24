@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10962
+2018-03-19
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+13
+53
+69
+76
+Uncle Bob's Organic Dried Pears
+Konbu
+Perth Pasties
+Gudbrandsdalsost
+Lakkalikööri
+45
+77
+20
+9
+44
+30
+6
+32.8
+36
+18
+Page 1

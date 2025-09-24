@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10913
+Customer ID: QUEEN
+Order Date: 2018-02-26
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+33
+58
+Chef Anton's Cajun Seasoning
+Geitost
+Escargots de Bourgogne
+30
+40
+15
+22.0
+2.5
+13.25
+TotalPrice
+958.75
+Page 1
+ 
+ 

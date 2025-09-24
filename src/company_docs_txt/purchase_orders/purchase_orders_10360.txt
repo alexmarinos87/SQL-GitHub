@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10360
+2016-11-22
+Frédérique Citeaux
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+29
+38
+49
+54
+Rössle Sauerkraut
+Thüringer Rostbratwurst
+Côte de Blaye
+Maxilaku
+Tourtière
+30
+35
+10
+35
+28
+36.4
+99
+210.8
+16
+5.9
+Page 1

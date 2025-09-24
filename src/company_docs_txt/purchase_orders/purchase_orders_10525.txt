@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10525
+2017-05-02
+Laurence Lebihan
+Products
+Product ID:
+36
+40
+Product:
+Inlagd Sill
+Boston Crab Meat
+Quantity:
+Unit Price:
+30
+15
+19
+18.4
+Page 1

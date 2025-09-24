@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10476
+2017-03-17
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+70
+Pâté chinois
+Outback Lager
+2
+12
+19.2
+12
+Page 1

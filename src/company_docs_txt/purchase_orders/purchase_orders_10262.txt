@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10262
+2016-07-22
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+5
+7
+56
+Chef Anton's Gumbo Mix
+Uncle Bob's Organic Dried Pears
+Gnocchi di nonna Alice
+12
+15
+2
+17
+24
+30.4
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10534
+Customer ID: LEHMS
+Order Date: 2017-05-12
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+40
+54
+Nord-Ost Matjeshering
+Boston Crab Meat
+Tourtière
+10
+10
+10
+25.89
+18.4
+7.45
+TotalPrice
+517.4
+Page 1
+ 
+ 

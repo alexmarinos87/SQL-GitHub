@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10487
+Customer ID: QUEEN
+Order Date: 2017-03-26
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+26
+54
+Teatime Chocolate Biscuits
+Gumbär Gummibärchen
+Tourtière
+5
+30
+24
+7.3
+24.9
+5.9
+TotalPrice
+925.1
+Page 1
+ 
+ 

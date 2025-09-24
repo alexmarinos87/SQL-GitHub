@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10480
+2017-03-20
+Martine Rancé
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+47
+59
+Zaanse koeken
+Raclette Courdavault
+30
+12
+7.6
+44
+Page 1

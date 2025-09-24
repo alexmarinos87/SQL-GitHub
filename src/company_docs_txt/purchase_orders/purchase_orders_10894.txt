@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10894
+2018-02-18
+Jose Pavarotti
+Products
+Product ID:
+13
+69
+75
+Product:
+Konbu
+Gudbrandsdalsost
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+28
+50
+120
+6
+36
+7.75
+Page 1

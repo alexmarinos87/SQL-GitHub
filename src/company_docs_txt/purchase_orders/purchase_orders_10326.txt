@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10326
+2016-10-10
+Martín Sommer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+57
+75
+Chef Anton's Cajun Seasoning
+Ravioli Angelo
+Rhönbräu Klosterbier
+24
+16
+50
+17.6
+15.6
+6.2
+Page 1

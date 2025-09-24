@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10288
+2016-08-23
+Maurizio Moroni
+Products
+Product ID:
+54
+68
+Product:
+Tourtière
+Scottish Longbreads
+Quantity:
+Unit Price:
+10
+3
+5.9
+10
+Page 1

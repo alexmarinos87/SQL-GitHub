@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10856
+Customer ID: ANTON
+Order Date: 2018-01-28
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+42
+Chang
+Singaporean Hokkien Fried Mee
+20
+20
+19.0
+14.0
+TotalPrice
+660.0
+Page 1
+ 
+ 

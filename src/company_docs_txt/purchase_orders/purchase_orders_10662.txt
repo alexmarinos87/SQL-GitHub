@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10662
+2017-09-09
+Fran Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+68
+Scottish Longbreads
+10
+12.5
+Page 1

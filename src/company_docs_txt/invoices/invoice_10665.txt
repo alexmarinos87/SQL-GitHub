@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10665
+Customer ID: LONEP
+Order Date: 2017-09-11
+Customer Details:
+Contact Name:
+Fran Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Chiaroscuro Rd.
+Portland
+97219
+USA
+(503) 555-9573
+(503) 555-9646
+Product ID
+Product Name
+Quantity
+Unit Price
+51
+59
+76
+Manjimup Dried Apples
+Raclette Courdavault
+Lakkalikööri
+20
+1
+10
+53.0
+55.0
+18.0
+TotalPrice
+1295.0
+Page 1
+ 
+ 

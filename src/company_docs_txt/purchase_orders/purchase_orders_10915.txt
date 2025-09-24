@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10915
+2018-02-27
+Miguel Angel Paolino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+33
+54
+Alice Mutton
+Geitost
+Tourtière
+10
+30
+10
+39
+2.5
+7.45
+Page 1

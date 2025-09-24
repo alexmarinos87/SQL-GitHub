@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11045
+Customer ID: BOTTM
+Order Date: 2018-04-23
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+51
+Geitost
+Manjimup Dried Apples
+15
+24
+2.5
+53.0
+TotalPrice
+1309.5
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10632
+Customer ID: WANDK
+Order Date: 2017-08-14
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+33
+Chang
+Geitost
+30
+20
+19.0
+2.5
+TotalPrice
+620.0
+Page 1
+ 
+ 

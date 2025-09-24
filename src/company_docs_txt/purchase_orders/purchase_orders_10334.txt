@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10334
+2016-10-21
+Mary Saveley
+Products
+Product ID:
+52
+68
+Product:
+Filo Mix
+Scottish Longbreads
+Quantity:
+Unit Price:
+8
+10
+5.6
+10
+Page 1

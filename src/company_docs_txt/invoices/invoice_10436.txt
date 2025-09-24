@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10436
+Customer ID: BLONP
+Order Date: 2017-02-05
+Customer Details:
+Contact Name:
+Frédérique Citeaux
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+24, place Kléber
+Strasbourg
+67000
+France
+88.60.15.31
+88.60.15.32
+Product ID
+Product Name
+Quantity
+Unit Price
+46
+56
+64
+75
+Spegesild
+Gnocchi di nonna Alice
+Wimmers gute Semmelknödel
+Rhönbräu Klosterbier
+5
+40
+30
+24
+9.6
+30.4
+26.6
+6.2
+TotalPrice
+2210.8
+Page 1
+ 
+ 

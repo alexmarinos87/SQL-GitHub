@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10909
+Customer ID: SANTG
+Order Date: 2018-02-26
+Customer Details:
+Contact Name:
+Jonas Bergulfsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Erling Skakkes gate 78
+Stavern
+4110
+Norway
+07-98 92 35
+07-98 92 47
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+16
+41
+Uncle Bob's Organic Dried Pears
+Pavlova
+Jack's New England Clam Chowder
+12
+15
+5
+TotalPrice
+30.0
+17.45
+9.65
+670.0
+Page 1
+ 
+ 

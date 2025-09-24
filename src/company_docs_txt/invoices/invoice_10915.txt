@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10915
+Customer ID: TORTU
+Order Date: 2018-02-27
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+33
+54
+Alice Mutton
+Geitost
+Tourtière
+10
+30
+10
+39.0
+2.5
+7.45
+TotalPrice
+539.5
+Page 1
+ 
+ 

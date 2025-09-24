@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10604
+Customer ID: FURIB
+Order Date: 2017-07-18
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+48
+76
+Chocolade
+Lakkalikööri
+6
+10
+TotalPrice
+12.75
+18.0
+256.5
+Page 1
+ 
+ 

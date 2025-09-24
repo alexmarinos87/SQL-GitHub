@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10682
+2017-09-25
+Antonio Moreno
+Products
+Product ID:
+33
+66
+75
+Product:
+Geitost
+Louisiana Hot Spiced Okra
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+30
+4
+30
+2.5
+17
+7.75
+Page 1

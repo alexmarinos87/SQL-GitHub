@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10588
+2017-07-03
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+42
+Carnarvon Tigers
+Singaporean Hokkien Fried Mee
+40
+100
+62.5
+14
+Page 1

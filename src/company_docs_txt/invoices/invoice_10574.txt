@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10574
+Customer ID: TRAIH
+Order Date: 2017-06-19
+Customer Details:
+Contact Name:
+Helvetius Nagy
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+722 DaVinci Blvd.
+Kirkland
+98034
+USA
+(206) 555-8257
+(206) 555-2174
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+40
+62
+64
+Geitost
+Boston Crab Meat
+Tarte au sucre
+Wimmers gute Semmelknödel
+14
+2
+10
+6
+TotalPrice
+2.5
+18.4
+49.3
+33.25
+764.3
+Page 1
+ 
+ 

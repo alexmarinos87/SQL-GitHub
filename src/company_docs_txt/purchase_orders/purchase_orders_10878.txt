@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10878
+2018-02-10
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+20
+Sir Rodney's Marmalade
+20
+81
+Page 1

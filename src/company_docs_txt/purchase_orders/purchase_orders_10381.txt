@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10381
+2016-12-12
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+74
+Longlife Tofu
+14
+8
+Page 1

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10336
+Customer ID: PRINI
+Order Date: 2016-10-23
+Customer Details:
+Contact Name:
+Isabel de Castro
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Estrada da saúde n. 58
+Lisboa
+1756
+Portugal
+(1) 356-5634
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+Chef Anton's Cajun Seasoning
+18
+TotalPrice
+17.6
+316.8
+Page 1
+ 
+ 

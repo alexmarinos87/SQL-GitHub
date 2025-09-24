@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10340
+2016-10-29
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+41
+43
+Carnarvon Tigers
+Jack's New England Clam Chowder
+Ipoh Coffee
+20
+12
+40
+50
+7.7
+36.8
+Page 1

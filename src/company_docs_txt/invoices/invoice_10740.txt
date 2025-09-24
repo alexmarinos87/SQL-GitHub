@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10740
+Customer ID: WHITC
+Order Date: 2017-11-13
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+35
+45
+56
+Rössle Sauerkraut
+Steeleye Stout
+Rogede sild
+Gnocchi di nonna Alice
+5
+35
+40
+14
+45.6
+18.0
+9.5
+38.0
+TotalPrice
+1770.0
+Page 1
+ 
+ 

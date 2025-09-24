@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10919
+2018-03-02
+Felipe Izquierdo
+Products
+Product ID:
+16
+25
+40
+Product:
+Pavlova
+NuNuCa Nuﬂ-Nougat-Creme
+Boston Crab Meat
+Quantity:
+Unit Price:
+24
+24
+20
+17.45
+14
+18.4
+Page 1

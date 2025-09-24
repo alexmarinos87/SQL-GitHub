@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10796
+2017-12-25
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+44
+64
+69
+Gumbär Gummibärchen
+Gula Malacca
+Wimmers gute Semmelknödel
+Gudbrandsdalsost
+21
+10
+35
+24
+31.23
+19.45
+33.25
+36
+Page 1

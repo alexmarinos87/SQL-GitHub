@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10257
+2016-07-16
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+27
+39
+77
+Schoggi Schokolade
+Chartreuse verte
+Original Frankfurter grüne Soße
+25
+6
+15
+35.1
+14.4
+10.4
+Page 1

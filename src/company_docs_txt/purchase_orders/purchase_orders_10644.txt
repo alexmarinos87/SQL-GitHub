@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10644
+2017-08-25
+Paula Parente
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+43
+46
+Carnarvon Tigers
+Ipoh Coffee
+Spegesild
+4
+20
+21
+62.5
+46
+12
+Page 1

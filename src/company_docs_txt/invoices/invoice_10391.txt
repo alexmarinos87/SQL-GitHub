@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10391
+Customer ID: DRACD
+Order Date: 2016-12-23
+Customer Details:
+Contact Name:
+Sven Ottlieb
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Walserweg 21
+Aachen
+52066
+Germany
+0241-039123
+0241-059428
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+Konbu
+18
+4.8
+TotalPrice
+86.39999999999999
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10712
+Customer ID: HUNGO
+Order Date: 2017-10-21
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+56
+Perth Pasties
+Gnocchi di nonna Alice
+3
+30
+32.8
+38.0
+TotalPrice
+1238.4
+Page 1
+ 
+ 

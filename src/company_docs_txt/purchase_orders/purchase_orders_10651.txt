@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10651
+2017-09-01
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+22
+Teatime Chocolate Biscuits
+Gustaf's Knäckebröd
+12
+20
+9.2
+21
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10739
+2017-11-12
+Paul Henriot
+Products
+Product ID:
+36
+52
+Product:
+Inlagd Sill
+Filo Mix
+Quantity:
+Unit Price:
+6
+18
+19
+7
+Page 1

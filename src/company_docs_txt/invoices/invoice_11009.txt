@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11009
+Customer ID: GODOS
+Order Date: 2018-04-08
+Customer Details:
+Contact Name:
+José Pedro Freyre
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Romero, 33
+Sevilla
+41101
+Spain
+(95) 555 82 82
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+36
+60
+Guaraná Fantástica
+Inlagd Sill
+Camembert Pierrot
+12
+18
+9
+4.5
+19.0
+34.0
+TotalPrice
+702.0
+Page 1
+ 
+ 

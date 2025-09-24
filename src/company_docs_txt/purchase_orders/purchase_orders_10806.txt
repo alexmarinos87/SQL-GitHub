@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10806
+2017-12-31
+Mary Saveley
+Products
+Product ID:
+2
+65
+74
+Product:
+Chang
+Louisiana Fiery Hot Pepper Sauce
+Longlife Tofu
+Quantity:
+Unit Price:
+20
+2
+15
+19
+21.05
+10
+Page 1

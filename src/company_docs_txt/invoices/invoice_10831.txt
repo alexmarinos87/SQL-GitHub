@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10831
+Customer ID: SANTG
+Order Date: 2018-01-14
+Customer Details:
+Contact Name:
+Jonas Bergulfsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Erling Skakkes gate 78
+Stavern
+4110
+Norway
+07-98 92 35
+07-98 92 47
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+35
+38
+43
+Teatime Chocolate Biscuits
+Steeleye Stout
+Côte de Blaye
+Ipoh Coffee
+2
+8
+8
+9
+9.2
+18.0
+263.5
+46.0
+TotalPrice
+2684.4
+Page 1
+ 
+ 

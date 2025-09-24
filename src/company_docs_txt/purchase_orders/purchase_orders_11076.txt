@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11076
+2018-05-06
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+14
+19
+Grandma's Boysenberry Spread
+Tofu
+Teatime Chocolate Biscuits
+20
+20
+10
+25
+23.25
+9.2
+Page 1

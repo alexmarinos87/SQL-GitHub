@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10532
+2017-05-09
+Ann Devon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+66
+Nord-Ost Matjeshering
+Louisiana Hot Spiced Okra
+15
+24
+25.89
+17
+Page 1

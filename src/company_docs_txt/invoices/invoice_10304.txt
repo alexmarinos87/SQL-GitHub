@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10304
+Customer ID: TORTU
+Order Date: 2016-09-12
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+49
+59
+71
+Maxilaku
+Raclette Courdavault
+Flotemysost
+30
+10
+2
+16.0
+44.0
+17.2
+TotalPrice
+954.4
+Page 1
+ 
+ 

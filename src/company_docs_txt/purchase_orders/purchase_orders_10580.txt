@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10580
+2017-06-26
+Henriette Pfalzheim
+Products
+Product ID:
+14
+41
+65
+Product:
+Tofu
+Jack's New England Clam Chowder
+Louisiana Fiery Hot Pepper Sauce
+Quantity:
+Unit Price:
+15
+9
+30
+23.25
+9.65
+21.05
+Page 1

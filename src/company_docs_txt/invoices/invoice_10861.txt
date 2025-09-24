@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10861
+Customer ID: WHITC
+Order Date: 2018-01-30
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+18
+21
+33
+62
+Alice Mutton
+Carnarvon Tigers
+Sir Rodney's Scones
+Geitost
+Tarte au sucre
+42
+20
+40
+35
+3
+39.0
+62.5
+10.0
+2.5
+49.3
+TotalPrice
+3523.4
+Page 1
+ 
+ 

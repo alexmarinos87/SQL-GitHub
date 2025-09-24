@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10387
+2016-12-18
+Jonas Bergulfsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+28
+59
+71
+Guaraná Fantástica
+Rössle Sauerkraut
+Raclette Courdavault
+Flotemysost
+15
+6
+12
+15
+3.6
+36.4
+44
+17.2
+Page 1

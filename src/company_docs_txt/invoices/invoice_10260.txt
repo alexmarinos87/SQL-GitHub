@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10260
+Customer ID: OTTIK
+Order Date: 2016-07-19
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+57
+62
+70
+Jack's New England Clam Chowder
+Ravioli Angelo
+Tarte au sucre
+Outback Lager
+16
+50
+15
+21
+7.7
+15.6
+39.4
+12.0
+TotalPrice
+1746.2
+Page 1
+ 
+ 

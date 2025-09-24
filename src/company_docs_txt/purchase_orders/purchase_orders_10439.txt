@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10439
+2017-02-07
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+12
+16
+64
+74
+Queso Manchego La Pastora
+Pavlova
+Wimmers gute Semmelknödel
+Longlife Tofu
+15
+16
+6
+30
+30.4
+13.9
+26.6
+8
+Page 1

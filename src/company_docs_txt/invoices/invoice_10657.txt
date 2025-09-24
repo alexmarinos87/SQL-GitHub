@@ -1,0 +1,53 @@
+Invoice
+Order ID: 10657
+Customer ID: SAVEA
+Order Date: 2017-09-04
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+15
+41
+46
+47
+56
+60
+Genen Shouyu
+Jack's New England Clam Chowder
+Spegesild
+Zaanse koeken
+Gnocchi di nonna Alice
+Camembert Pierrot
+50
+24
+45
+10
+45
+30
+15.5
+9.65
+12.0
+9.5
+38.0
+34.0
+TotalPrice
+4371.6
+Page 1
+ 
+ 

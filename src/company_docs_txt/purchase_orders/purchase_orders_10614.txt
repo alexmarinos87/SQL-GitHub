@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10614
+2017-07-29
+Hanna Moos
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+21
+39
+Queso Cabrales
+Sir Rodney's Scones
+Chartreuse verte
+14
+8
+5
+21
+10
+18
+Page 1

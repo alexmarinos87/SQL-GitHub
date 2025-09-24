@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10717
+Customer ID: FRANK
+Order Date: 2017-10-24
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+54
+69
+Sir Rodney's Scones
+Tourtière
+Gudbrandsdalsost
+32
+15
+25
+10.0
+7.45
+36.0
+TotalPrice
+1331.75
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10385
+2016-12-17
+Art Braunschweiger
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+60
+68
+Uncle Bob's Organic Dried Pears
+Camembert Pierrot
+Scottish Longbreads
+10
+20
+8
+24
+27.2
+10
+Page 1

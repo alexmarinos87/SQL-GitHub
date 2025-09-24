@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10298
+2016-09-05
+Patricia McKenna
+Products
+Product ID:
+2
+36
+59
+62
+Product:
+Chang
+Inlagd Sill
+Raclette Courdavault
+Tarte au sucre
+Quantity:
+Unit Price:
+40
+40
+30
+15
+15.2
+15.2
+44
+39.4
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10910
+Customer ID: WILMK
+Order Date: 2018-02-26
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+49
+61
+Teatime Chocolate Biscuits
+Maxilaku
+Sirop d'érable
+12
+10
+5
+9.2
+20.0
+28.5
+TotalPrice
+452.9
+Page 1
+ 
+ 

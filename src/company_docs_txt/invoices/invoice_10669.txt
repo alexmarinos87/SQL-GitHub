@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10669
+Customer ID: SIMOB
+Order Date: 2017-09-15
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+Inlagd Sill
+30
+TotalPrice
+19.0
+570.0
+Page 1
+ 
+ 

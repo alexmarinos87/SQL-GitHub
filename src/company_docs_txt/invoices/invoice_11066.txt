@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11066
+Customer ID: WHITC
+Order Date: 2018-05-01
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+19
+34
+Pavlova
+Teatime Chocolate Biscuits
+Sasquatch Ale
+3
+42
+35
+17.45
+9.2
+14.0
+TotalPrice
+928.75
+Page 1
+ 
+ 

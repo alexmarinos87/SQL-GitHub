@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10505
+2017-04-14
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+62
+Tarte au sucre
+3
+49.3
+Page 1

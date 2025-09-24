@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10889
+Customer ID: RATTC
+Order Date: 2018-02-16
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+38
+Queso Cabrales
+Côte de Blaye
+40
+40
+21.0
+263.5
+TotalPrice
+11380.0
+Page 1
+ 
+ 

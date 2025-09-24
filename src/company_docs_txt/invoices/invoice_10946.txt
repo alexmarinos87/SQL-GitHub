@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10946
+Customer ID: VAFFE
+Order Date: 2018-03-12
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+24
+77
+Ikura
+Guaraná Fantástica
+Original Frankfurter grüne Soße
+25
+25
+40
+31.0
+4.5
+13.0
+TotalPrice
+1407.5
+Page 1
+ 
+ 

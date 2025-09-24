@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10464
+Customer ID: FURIB
+Order Date: 2017-03-04
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+43
+56
+60
+Chef Anton's Cajun Seasoning
+Ipoh Coffee
+Gnocchi di nonna Alice
+Camembert Pierrot
+16
+3
+30
+20
+17.6
+36.8
+30.4
+27.2
+TotalPrice
+1848.0
+Page 1
+ 
+ 

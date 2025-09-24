@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10877
+Customer ID: RICAR
+Order Date: 2018-02-09
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+18
+Pavlova
+Carnarvon Tigers
+30
+25
+17.45
+62.5
+TotalPrice
+2086.0
+Page 1
+ 
+ 

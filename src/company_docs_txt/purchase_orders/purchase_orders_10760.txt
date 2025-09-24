@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10760
+2017-12-01
+Catherine Dewey
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+27
+43
+NuNuCa Nuﬂ-Nougat-Creme
+Schoggi Schokolade
+Ipoh Coffee
+12
+40
+30
+14
+43.9
+46
+Page 1

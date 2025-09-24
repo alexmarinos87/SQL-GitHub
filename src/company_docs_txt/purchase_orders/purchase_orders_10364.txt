@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10364
+2016-11-26
+Ann Devon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+69
+71
+Gudbrandsdalsost
+Flotemysost
+30
+5
+28.8
+17.2
+Page 1

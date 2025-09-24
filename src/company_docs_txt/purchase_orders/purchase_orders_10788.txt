@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10788
+2017-12-22
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+75
+Teatime Chocolate Biscuits
+Rhönbräu Klosterbier
+50
+40
+9.2
+7.75
+Page 1

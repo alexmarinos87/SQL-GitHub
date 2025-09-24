@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10613
+2017-07-29
+Carlos Hernández
+Products
+Product ID:
+13
+75
+Product:
+Konbu
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+8
+40
+6
+7.75
+Page 1

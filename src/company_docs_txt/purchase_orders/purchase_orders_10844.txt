@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10844
+2018-01-21
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+22
+Gustaf's Knäckebröd
+35
+21
+Page 1

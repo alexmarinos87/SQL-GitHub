@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10805
+2017-12-30
+Liz Nixon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+34
+38
+Sasquatch Ale
+Côte de Blaye
+10
+10
+14
+263.5
+Page 1

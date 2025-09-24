@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10676
+2017-09-22
+Miguel Angel Paolino
+Products
+Product ID:
+10
+19
+44
+Product:
+Ikura
+Teatime Chocolate Biscuits
+Gula Malacca
+Quantity:
+Unit Price:
+2
+7
+21
+31
+9.2
+19.45
+Page 1

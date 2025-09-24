@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10759
+Customer ID: ANATR
+Order Date: 2017-11-28
+Customer Details:
+Contact Name:
+Ana Trujillo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. de la Constitución 2222
+México D.F.
+05021
+Mexico
+(5) 555-4729
+(5) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+32
+Mascarpone Fabioli
+10
+TotalPrice
+32.0
+320.0
+Page 1
+ 
+ 

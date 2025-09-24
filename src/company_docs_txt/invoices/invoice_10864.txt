@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10864
+Customer ID: AROUT
+Order Date: 2018-02-02
+Customer Details:
+Contact Name:
+Thomas Hardy
+Address:
+City:
+120 Hanover Sq.
+London
+Postal Code:
+WA1 1DP
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7788
+(171) 555-6750
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+67
+Steeleye Stout
+Laughing Lumberjack Lager
+4
+15
+18.0
+14.0
+TotalPrice
+282.0
+Page 1
+ 
+ 

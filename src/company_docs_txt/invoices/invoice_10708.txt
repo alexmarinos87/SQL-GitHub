@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10708
+Customer ID: THEBI
+Order Date: 2017-10-17
+Customer Details:
+Contact Name:
+Liz Nixon
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Jefferson Way Suite 2
+Portland
+97201
+USA
+(503) 555-3612
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+5
+36
+Chef Anton's Gumbo Mix
+Inlagd Sill
+4
+5
+TotalPrice
+21.35
+19.0
+180.4
+Page 1
+ 
+ 

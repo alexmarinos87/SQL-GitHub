@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11025
+Customer ID: WARTH
+Order Date: 2018-04-15
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+13
+Chai
+Konbu
+10
+20
+18.0
+6.0
+TotalPrice
+300.0
+Page 1
+ 
+ 

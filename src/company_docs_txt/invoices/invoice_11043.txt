@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11043
+Customer ID: SPECD
+Order Date: 2018-04-22
+Customer Details:
+Contact Name:
+Dominique Perrier
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+25, rue Lauriston
+Paris
+75016
+France
+(1) 47.55.60.10
+(1) 47.55.60.20
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+Queso Cabrales
+10
+TotalPrice
+21.0
+210.0
+Page 1
+ 
+ 

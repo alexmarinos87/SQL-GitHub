@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10317
+2016-09-30
+Fran Wilson
+Products
+Product ID:
+1
+Product:
+Chai
+Quantity:
+Unit Price:
+20
+14.4
+Page 1

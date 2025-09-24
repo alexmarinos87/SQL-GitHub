@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10484
+2017-03-24
+Victoria Ashworth
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+40
+51
+Sir Rodney's Scones
+Boston Crab Meat
+Manjimup Dried Apples
+14
+10
+3
+8
+14.7
+42.4
+Page 1

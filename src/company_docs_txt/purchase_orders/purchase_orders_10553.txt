@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10553
+2017-05-30
+Pirkko Koskitalo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+16
+22
+31
+35
+Queso Cabrales
+Pavlova
+Gustaf's Knäckebröd
+Gorgonzola Telino
+Steeleye Stout
+15
+14
+24
+30
+6
+21
+17.45
+21
+12.5
+18
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10521
+Customer ID: CACTU
+Order Date: 2017-04-29
+Customer Details:
+Contact Name:
+Patricio Simpson
+Address:
+City:
+Cerrito 333
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5555
+(1) 135-4892
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+41
+68
+Steeleye Stout
+Jack's New England Clam Chowder
+Scottish Longbreads
+3
+10
+6
+18.0
+9.65
+12.5
+TotalPrice
+225.5
+Page 1
+ 
+ 

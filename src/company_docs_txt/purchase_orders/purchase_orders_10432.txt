@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10432
+2017-01-31
+Art Braunschweiger
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+54
+Gumbär Gummibärchen
+Tourtière
+10
+40
+24.9
+5.9
+Page 1

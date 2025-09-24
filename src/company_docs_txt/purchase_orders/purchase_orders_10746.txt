@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10746
+2017-11-19
+Yang Wang
+Products
+Product:
+Konbu
+Singaporean Hokkien Fried Mee
+Tarte au sucre
+Gudbrandsdalsost
+Product ID:
+13
+42
+62
+69
+Quantity:
+Unit Price:
+6
+28
+9
+40
+6
+14
+49.3
+36
+Page 1

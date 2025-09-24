@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10517
+Customer ID: NORTS
+Order Date: 2017-04-24
+Customer Details:
+Contact Name:
+Simon Crowther
+Address:
+City:
+South House 300 Queensbridge
+London
+Postal Code:
+SW7 1RZ
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7733
+(171) 555-2530
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+52
+59
+70
+Filo Mix
+Raclette Courdavault
+Outback Lager
+6
+4
+6
+7.0
+55.0
+15.0
+TotalPrice
+352.0
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10477
+Customer ID: PRINI
+Order Date: 2017-03-17
+Customer Details:
+Contact Name:
+Isabel de Castro
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Estrada da saúde n. 58
+Lisboa
+1756
+Portugal
+(1) 356-5634
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+21
+39
+Chai
+Sir Rodney's Scones
+Chartreuse verte
+15
+21
+20
+14.4
+8.0
+14.4
+TotalPrice
+672.0
+Page 1
+ 
+ 

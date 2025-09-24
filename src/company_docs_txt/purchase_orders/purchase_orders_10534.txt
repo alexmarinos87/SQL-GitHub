@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10534
+2017-05-12
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+40
+54
+Nord-Ost Matjeshering
+Boston Crab Meat
+Tourtière
+10
+10
+10
+25.89
+18.4
+7.45
+Page 1

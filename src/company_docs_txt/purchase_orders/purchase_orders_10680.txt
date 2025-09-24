@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10680
+2017-09-24
+Rene Phillips
+Products
+Product ID:
+16
+31
+42
+Product:
+Pavlova
+Gorgonzola Telino
+Singaporean Hokkien Fried Mee
+Quantity:
+Unit Price:
+50
+20
+40
+17.45
+12.5
+14
+Page 1

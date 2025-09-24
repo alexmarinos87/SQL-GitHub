@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10503
+Customer ID: HUNGO
+Order Date: 2017-04-11
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+65
+Tofu
+Louisiana Fiery Hot Pepper Sauce
+70
+20
+23.25
+21.05
+TotalPrice
+2048.5
+Page 1
+ 
+ 

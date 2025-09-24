@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10601
+2017-07-16
+Carlos Hernández
+Products
+Product ID:
+13
+59
+Product:
+Konbu
+Raclette Courdavault
+Quantity:
+Unit Price:
+60
+35
+6
+55
+Page 1

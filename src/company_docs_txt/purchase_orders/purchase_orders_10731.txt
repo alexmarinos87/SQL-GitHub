@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10731
+2017-11-06
+Yang Wang
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+51
+Sir Rodney's Scones
+Manjimup Dried Apples
+40
+30
+10
+53
+Page 1

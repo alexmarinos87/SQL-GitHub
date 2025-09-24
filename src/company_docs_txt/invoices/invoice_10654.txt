@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10654
+Customer ID: BERGS
+Order Date: 2017-09-02
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+39
+54
+Chef Anton's Cajun Seasoning
+Chartreuse verte
+Tourtière
+12
+20
+6
+22.0
+18.0
+7.45
+TotalPrice
+668.7
+Page 1
+ 
+ 

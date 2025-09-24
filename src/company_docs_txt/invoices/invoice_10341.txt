@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10341
+Customer ID: SIMOB
+Order Date: 2016-10-29
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+59
+Geitost
+Raclette Courdavault
+8
+9
+2.0
+44.0
+TotalPrice
+412.0
+Page 1
+ 
+ 

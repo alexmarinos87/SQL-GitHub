@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10474
+2017-03-13
+Guillermo Fernández
+Products
+Product ID:
+14
+28
+40
+75
+Product:
+Tofu
+Rössle Sauerkraut
+Boston Crab Meat
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+12
+18
+21
+10
+18.6
+36.4
+14.7
+6.2
+Page 1

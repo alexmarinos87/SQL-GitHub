@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10768
+2017-12-08
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+22
+31
+60
+71
+Gustaf's Knäckebröd
+Gorgonzola Telino
+Camembert Pierrot
+Flotemysost
+4
+50
+15
+12
+21
+12.5
+34
+21.5
+Page 1

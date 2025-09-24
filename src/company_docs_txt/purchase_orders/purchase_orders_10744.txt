@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10744
+2017-11-17
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+Boston Crab Meat
+50
+18.4
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10942
+2018-03-11
+Maurizio Moroni
+Products
+Product ID:
+49
+Product:
+Maxilaku
+Quantity:
+Unit Price:
+28
+20
+Page 1

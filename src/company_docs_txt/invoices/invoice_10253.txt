@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10253
+Customer ID: HANAR
+Order Date: 2016-07-10
+Customer Details:
+Contact Name:
+Mario Pontes
+Address:
+City:
+Rua do Paço, 67
+Rio de Janeiro
+Postal Code:
+05454-876
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-0091
+(21) 555-8765
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+39
+49
+Gorgonzola Telino
+Chartreuse verte
+Maxilaku
+20
+42
+40
+10.0
+14.4
+16.0
+TotalPrice
+1444.8000000000002
+Page 1
+ 
+ 

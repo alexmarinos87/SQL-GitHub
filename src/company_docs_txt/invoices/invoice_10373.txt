@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10373
+Customer ID: HUNGO
+Order Date: 2016-12-05
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+58
+71
+Escargots de Bourgogne
+Flotemysost
+80
+50
+10.6
+17.2
+TotalPrice
+1708.0
+Page 1
+ 
+ 

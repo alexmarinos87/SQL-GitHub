@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10822
+2018-01-08
+Helvetius Nagy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+62
+70
+Tarte au sucre
+Outback Lager
+3
+6
+49.3
+15
+Page 1

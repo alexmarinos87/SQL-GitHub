@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10902
+2018-02-23
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+62
+Pâté chinois
+Tarte au sucre
+30
+6
+24
+49.3
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10800
+2017-12-26
+Hari Kumar
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+51
+54
+Queso Cabrales
+Manjimup Dried Apples
+Tourtière
+50
+10
+7
+21
+53
+7.45
+Page 1

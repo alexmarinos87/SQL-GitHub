@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10589
+2017-07-04
+Howard Snyder
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+Steeleye Stout
+4
+18
+Page 1

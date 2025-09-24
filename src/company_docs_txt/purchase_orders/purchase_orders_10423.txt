@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10423
+2017-01-23
+André Fonseca
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+59
+Gorgonzola Telino
+Raclette Courdavault
+14
+20
+10
+44
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10658
+Customer ID: QUICK
+Order Date: 2017-09-05
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraße 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+40
+60
+77
+Sir Rodney's Scones
+Boston Crab Meat
+Camembert Pierrot
+Original Frankfurter grüne Soße
+60
+70
+55
+70
+10.0
+18.4
+34.0
+13.0
+TotalPrice
+4668.0
+Page 1
+ 
+ 

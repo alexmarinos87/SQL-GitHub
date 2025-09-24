@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10747
+2017-11-19
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+41
+63
+69
+Gorgonzola Telino
+Jack's New England Clam Chowder
+Vegie-spread
+Gudbrandsdalsost
+8
+35
+9
+30
+12.5
+9.65
+43.9
+36
+Page 1

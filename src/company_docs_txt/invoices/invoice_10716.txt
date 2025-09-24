@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10716
+Customer ID: RANCH
+Order Date: 2017-10-24
+Customer Details:
+Contact Name:
+Sergio Gutiérrez
+Address:
+City:
+Av. del Libertador 900
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 123-5555
+(1) 123-5556
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+51
+61
+Sir Rodney's Scones
+Manjimup Dried Apples
+Sirop d'érable
+5
+7
+10
+10.0
+53.0
+28.5
+TotalPrice
+706.0
+Page 1
+ 
+ 

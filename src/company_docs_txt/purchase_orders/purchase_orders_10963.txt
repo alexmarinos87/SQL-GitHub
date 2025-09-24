@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10963
+2018-03-19
+Lino Rodriguez
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+60
+Camembert Pierrot
+2
+34
+Page 1

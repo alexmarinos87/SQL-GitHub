@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10733
+2017-11-07
+Christina Berglund
+Products
+Product ID:
+14
+28
+52
+Product:
+Tofu
+Rössle Sauerkraut
+Filo Mix
+Quantity:
+Unit Price:
+16
+20
+25
+23.25
+45.6
+7
+Page 1

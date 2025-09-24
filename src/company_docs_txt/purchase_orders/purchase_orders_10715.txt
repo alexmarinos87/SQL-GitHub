@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10715
+2017-10-23
+Laurence Lebihan
+Products
+Product ID:
+10
+71
+Product:
+Ikura
+Flotemysost
+Quantity:
+Unit Price:
+21
+30
+31
+21.5
+Page 1

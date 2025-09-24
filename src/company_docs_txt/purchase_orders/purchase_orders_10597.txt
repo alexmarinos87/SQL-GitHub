@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10597
+2017-07-11
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+57
+65
+Guaraná Fantástica
+Ravioli Angelo
+Louisiana Fiery Hot Pepper Sauce
+35
+20
+12
+4.5
+19.5
+21.05
+Page 1

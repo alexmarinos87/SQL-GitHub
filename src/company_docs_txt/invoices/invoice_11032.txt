@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11032
+Customer ID: WHITC
+Order Date: 2018-04-17
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+38
+59
+Inlagd Sill
+Côte de Blaye
+Raclette Courdavault
+35
+25
+30
+19.0
+263.5
+55.0
+TotalPrice
+8902.5
+Page 1
+ 
+ 

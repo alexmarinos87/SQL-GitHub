@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10687
+2017-09-30
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+9
+29
+36
+Mishi Kobe Niku
+Thüringer Rostbratwurst
+Inlagd Sill
+50
+10
+6
+97
+123.79
+19
+Page 1

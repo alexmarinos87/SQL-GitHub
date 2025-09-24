@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10572
+Customer ID: BERGS
+Order Date: 2017-06-18
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+32
+40
+75
+Pavlova
+Mascarpone Fabioli
+Boston Crab Meat
+Rhönbräu Klosterbier
+12
+10
+50
+15
+17.45
+32.0
+18.4
+7.75
+TotalPrice
+1565.6499999999999
+Page 1
+ 
+ 

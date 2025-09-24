@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10985
+2018-03-30
+Patricia McKenna
+Products
+Product ID:
+16
+18
+32
+Product:
+Pavlova
+Carnarvon Tigers
+Mascarpone Fabioli
+Quantity:
+Unit Price:
+36
+8
+35
+17.45
+62.5
+32
+Page 1

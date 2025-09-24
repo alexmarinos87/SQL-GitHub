@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10319
+2016-10-02
+Miguel Angel Paolino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+28
+76
+Alice Mutton
+Rössle Sauerkraut
+Lakkalikööri
+8
+14
+30
+31.2
+36.4
+14.4
+Page 1

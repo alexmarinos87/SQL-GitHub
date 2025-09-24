@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10378
+2016-12-10
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+71
+Flotemysost
+6
+17.2
+Page 1

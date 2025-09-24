@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10568
+2017-06-13
+Eduardo Saavedra
+Products
+Product ID:
+10
+Product:
+Ikura
+Quantity:
+Unit Price:
+5
+31
+Page 1

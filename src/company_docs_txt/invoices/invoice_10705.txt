@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10705
+Customer ID: HILAA
+Order Date: 2017-10-15
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+32
+Gorgonzola Telino
+Mascarpone Fabioli
+20
+4
+12.5
+32.0
+TotalPrice
+378.0
+Page 1
+ 
+ 

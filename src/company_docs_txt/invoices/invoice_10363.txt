@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10363
+Customer ID: DRACD
+Order Date: 2016-11-26
+Customer Details:
+Contact Name:
+Sven Ottlieb
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Walserweg 21
+Aachen
+52066
+Germany
+0241-039123
+0241-059428
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+75
+76
+Gorgonzola Telino
+Rhönbräu Klosterbier
+Lakkalikööri
+20
+12
+12
+10.0
+6.2
+14.4
+TotalPrice
+447.20000000000005
+Page 1
+ 
+ 

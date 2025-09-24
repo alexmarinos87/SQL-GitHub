@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11047
+2018-04-24
+Ann Devon
+Products
+Product ID:
+1
+5
+Product:
+Chai
+Chef Anton's Gumbo Mix
+Quantity:
+Unit Price:
+25
+30
+18
+21.35
+Page 1

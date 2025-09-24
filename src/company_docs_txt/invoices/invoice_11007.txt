@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11007
+Customer ID: PRINI
+Order Date: 2018-04-08
+Customer Details:
+Contact Name:
+Isabel de Castro
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Estrada da saúde n. 58
+Lisboa
+1756
+Portugal
+(1) 356-5634
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+29
+42
+Northwoods Cranberry Sauce
+Thüringer Rostbratwurst
+Singaporean Hokkien Fried Mee
+30
+10
+14
+40.0
+123.79
+14.0
+TotalPrice
+2633.9
+Page 1
+ 
+ 

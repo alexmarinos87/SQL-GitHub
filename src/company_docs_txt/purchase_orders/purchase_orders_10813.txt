@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10813
+2018-01-05
+Janete Limeira
+Products
+Product ID:
+2
+46
+Product:
+Chang
+Spegesild
+Quantity:
+Unit Price:
+12
+35
+19
+12
+Page 1

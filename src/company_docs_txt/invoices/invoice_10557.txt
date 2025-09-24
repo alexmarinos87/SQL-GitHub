@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10557
+Customer ID: LEHMS
+Order Date: 2017-06-03
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+64
+75
+Wimmers gute Semmelknödel
+Rhönbräu Klosterbier
+30
+20
+33.25
+7.75
+TotalPrice
+1152.5
+Page 1
+ 
+ 

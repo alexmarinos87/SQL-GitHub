@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11029
+Customer ID: CHOPS
+Order Date: 2018-04-16
+Customer Details:
+Contact Name:
+Yang Wang
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Hauptstr. 29
+Bern
+3012
+Switzerland
+0452-076545
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+63
+Gnocchi di nonna Alice
+Vegie-spread
+20
+12
+38.0
+43.9
+TotalPrice
+1286.8
+Page 1
+ 
+ 

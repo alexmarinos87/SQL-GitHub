@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10459
+Customer ID: VICTE
+Order Date: 2017-02-27
+Customer Details:
+Contact Name:
+Mary Saveley
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2, rue du Commerce
+Lyon
+69004
+France
+78.32.54.86
+78.32.54.87
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+46
+72
+Uncle Bob's Organic Dried Pears
+Spegesild
+Mozzarella di Giovanni
+16
+20
+40
+24.0
+9.6
+27.8
+TotalPrice
+1688.0
+Page 1
+ 
+ 

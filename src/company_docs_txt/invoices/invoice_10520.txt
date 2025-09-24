@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10520
+Customer ID: SANTG
+Order Date: 2017-04-29
+Customer Details:
+Contact Name:
+Jonas Bergulfsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Erling Skakkes gate 78
+Stavern
+4110
+Norway
+07-98 92 35
+07-98 92 47
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+53
+Guaraná Fantástica
+Perth Pasties
+8
+5
+4.5
+32.8
+TotalPrice
+200.0
+Page 1
+ 
+ 

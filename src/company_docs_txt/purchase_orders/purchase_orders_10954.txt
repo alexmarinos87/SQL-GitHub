@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10954
+2018-03-17
+Felipe Izquierdo
+Products
+Product ID:
+16
+31
+45
+60
+Product:
+Pavlova
+Gorgonzola Telino
+Rogede sild
+Camembert Pierrot
+Quantity:
+Unit Price:
+28
+25
+30
+24
+17.45
+12.5
+9.5
+34
+Page 1

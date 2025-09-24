@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10434
+2017-02-03
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+76
+Queso Cabrales
+Lakkalikööri
+6
+18
+16.8
+14.4
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10556
+2017-06-03
+Jytte Petersen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+72
+Mozzarella di Giovanni
+24
+34.8
+Page 1

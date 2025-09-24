@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10293
+2016-08-29
+Miguel Angel Paolino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+24
+63
+75
+Carnarvon Tigers
+Guaraná Fantástica
+Vegie-spread
+Rhönbräu Klosterbier
+12
+10
+5
+6
+50
+3.6
+35.1
+6.2
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10736
+Customer ID: HUNGO
+Order Date: 2017-11-11
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+65
+75
+Louisiana Fiery Hot Pepper Sauce
+Rhönbräu Klosterbier
+40
+20
+TotalPrice
+21.05
+7.75
+997.0
+Page 1
+ 
+ 

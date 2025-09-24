@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10431
+2017-01-30
+Elizabeth Lincoln
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+40
+47
+Alice Mutton
+Boston Crab Meat
+Zaanse koeken
+50
+50
+30
+31.2
+14.7
+7.6
+Page 1

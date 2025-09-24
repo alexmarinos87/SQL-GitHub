@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11022
+Customer ID: HANAR
+Order Date: 2018-04-14
+Customer Details:
+Contact Name:
+Mario Pontes
+Address:
+City:
+Rua do Paço, 67
+Rio de Janeiro
+Postal Code:
+05454-876
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-0091
+(21) 555-8765
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+69
+Teatime Chocolate Biscuits
+Gudbrandsdalsost
+35
+30
+9.2
+36.0
+TotalPrice
+1402.0
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10719
+Customer ID: LETSS
+Order Date: 2017-10-27
+Customer Details:
+Contact Name:
+Jaime Yorres
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+87 Polk St. Suite 5
+San Francisco
+94117
+USA
+(415) 555-5938
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+30
+54
+Carnarvon Tigers
+Nord-Ost Matjeshering
+Tourtière
+12
+3
+40
+62.5
+25.89
+7.45
+TotalPrice
+1125.67
+Page 1
+ 
+ 

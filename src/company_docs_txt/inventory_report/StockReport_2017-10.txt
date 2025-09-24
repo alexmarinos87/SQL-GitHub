@@ -1,0 +1,281 @@
+Stock Report for 2017-10
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Steeleye Stout
+Condiments
+Aniseed Syrup
+Condiments
+Chef Anton's Cajun..
+Condiments
+Chef Anton's Gumbo Mix
+Condiments
+Gula Malacca
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Northwoods Cranberry..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Condiments
+Vegie-spread
+Confections
+Chocolade
+Confections
+Gumbär Gummibärchen
+Confections
+Pavlova
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Confections
+Zaanse koeken
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Flotemysost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+70
+38
+55
+64
+50
+116
+42
+26
+30
+6
+6
+4
+74
+65
+50
+30
+15
+20
+24
+45
+40
+85
+37
+68
+24
+67
+10
+118
+70
+55
+4
+15
+40
+Dairy Products
+Raclette Courdavault
+110
+Grains/Cereals
+Filo Mix
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Ravioli Angelo
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Mishi Kobe Niku
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Manjimup Dried Apples
+Rössle Sauerkraut
+Uncle Bob's Organic..
+Carnarvon Tigers
+Escargots de Bourgogne
+Ikura
+Inlagd Sill
+Jack's New England..
+Nord-Ost Matjeshering
+Rogede sild
+Röd Kaviar
+Spegesild
+4
+68
+40
+55
+6
+123
+27
+52
+115
+35
+60
+90
+12
+42
+73
+45
+54
+3
+110
+50
+42
+39
+17
+20
+17
+57
+15
+125
+111
+20
+13
+53
+0
+27
+76
+6
+32
+113
+24
+15
+15
+29
+6
+3
+17
+25
+36
+19
+26
+0
+26
+9
+22
+86
+79
+38
+21
+36
+0
+29
+0
+0
+21
+20
+26
+15
+42
+62
+31
+85
+10
+5
+112
+101
+95
+115
+18
+19
+4.5
+46
+18
+15
+7.75
+14
+18
+10
+22
+21.35
+19.45
+21.05
+40
+13
+28.5
+43.9
+12.75
+31.23
+17.45
+12.5
+10
+49.3
+9.2
+9.5
+34
+21.5
+12.5
+36
+32
+21
+38
+55
+7
+38
+39
+97
+19.5
+32.8
+24
+7.45
+53
+45.6
+30
+62.5
+13.25
+31
+19
+9.65
+25.89
+9.5
+15
+12
+Meat/Poultry
+Thüringer Rostbratwurst
+123.79

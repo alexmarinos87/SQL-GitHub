@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10303
+2016-09-11
+José Pedro Freyre
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+65
+68
+Boston Crab Meat
+Louisiana Fiery Hot Pepper Sauce
+Scottish Longbreads
+40
+30
+15
+14.7
+16.8
+10
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10945
+2018-03-12
+Alexander Feuer
+Products
+Product ID:
+13
+31
+Product:
+Konbu
+Gorgonzola Telino
+Quantity:
+Unit Price:
+20
+10
+6
+12.5
+Page 1

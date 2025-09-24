@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10967
+2018-03-23
+Karin Josephs
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+49
+Teatime Chocolate Biscuits
+Maxilaku
+12
+40
+9.2
+20
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10901
+2018-02-23
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+71
+Jack's New England Clam Chowder
+Flotemysost
+30
+30
+9.65
+21.5
+Page 1

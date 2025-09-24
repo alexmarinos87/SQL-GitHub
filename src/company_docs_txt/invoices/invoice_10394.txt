@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10394
+Customer ID: HUNGC
+Order Date: 2016-12-25
+Customer Details:
+Contact Name:
+Yoshi Latimer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+City Center Plaza 516 Main St.
+Elgin
+97827
+USA
+(503) 555-6874
+(503) 555-2376
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+62
+Konbu
+Tarte au sucre
+10
+10
+4.8
+39.4
+TotalPrice
+442.0
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10543
+2017-05-21
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+12
+23
+Queso Manchego La Pastora
+Tunnbröd
+30
+70
+38
+9
+Page 1

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10786
+Customer ID: QUEEN
+Order Date: 2017-12-19
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+8
+30
+75
+Northwoods Cranberry Sauce
+Nord-Ost Matjeshering
+Rhönbräu Klosterbier
+30
+15
+42
+40.0
+25.89
+7.75
+TotalPrice
+1913.85
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10626
+2017-08-11
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+53
+60
+71
+Perth Pasties
+Camembert Pierrot
+Flotemysost
+12
+20
+20
+32.8
+34
+21.5
+Page 1

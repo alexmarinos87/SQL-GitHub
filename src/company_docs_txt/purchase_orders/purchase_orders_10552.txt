@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10552
+2017-05-29
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+69
+75
+Gudbrandsdalsost
+Rhönbräu Klosterbier
+18
+30
+36
+7.75
+Page 1

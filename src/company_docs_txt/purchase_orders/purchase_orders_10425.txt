@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10425
+2017-01-24
+Annette Roulet
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+76
+Pâté chinois
+Lakkalikööri
+10
+20
+19.2
+14.4
+Page 1

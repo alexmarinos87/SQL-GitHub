@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10836
+2018-01-16
+Roland Mendel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+22
+35
+57
+60
+64
+Gustaf's Knäckebröd
+Steeleye Stout
+Ravioli Angelo
+Camembert Pierrot
+Wimmers gute Semmelknödel
+52
+6
+24
+60
+30
+21
+18
+19.5
+34
+33.25
+Page 1

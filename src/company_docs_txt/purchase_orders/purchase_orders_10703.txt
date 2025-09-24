@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10703
+2017-10-14
+Maria Larsson
+Products
+Product ID:
+2
+59
+73
+Product:
+Chang
+Raclette Courdavault
+Röd Kaviar
+Quantity:
+Unit Price:
+5
+35
+35
+19
+55
+15
+Page 1

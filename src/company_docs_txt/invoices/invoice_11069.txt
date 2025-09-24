@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11069
+Customer ID: TORTU
+Order Date: 2018-05-04
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+39
+Chartreuse verte
+20
+TotalPrice
+18.0
+360.0
+Page 1
+ 
+ 

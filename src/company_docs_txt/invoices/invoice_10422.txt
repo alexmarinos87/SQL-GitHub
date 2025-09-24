@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10422
+Customer ID: FRANS
+Order Date: 2017-01-22
+Customer Details:
+Contact Name:
+Paolo Accorti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Monte Bianco 34
+Torino
+10100
+Italy
+011-4988260
+011-4988261
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+Gumbär Gummibärchen
+2
+TotalPrice
+24.9
+49.8
+Page 1
+ 
+ 

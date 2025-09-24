@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10815
+Customer ID: SAVEA
+Order Date: 2018-01-05
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+Geitost
+16
+TotalPrice
+2.5
+40.0
+Page 1
+ 
+ 

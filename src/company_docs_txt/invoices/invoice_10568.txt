@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10568
+Customer ID: GALED
+Order Date: 2017-06-13
+Customer Details:
+Contact Name:
+Eduardo Saavedra
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rambla de Cataluña, 23
+Barcelona
+08022
+Spain
+(93) 203 4560
+(93) 203 4561
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+Ikura
+5
+TotalPrice
+31.0
+155.0
+Page 1
+ 
+ 

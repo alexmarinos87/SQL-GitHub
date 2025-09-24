@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10448
+Customer ID: RANCH
+Order Date: 2017-02-17
+Customer Details:
+Contact Name:
+Sergio Gutiérrez
+Address:
+City:
+Av. del Libertador 900
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 123-5555
+(1) 123-5556
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+40
+Gumbär Gummibärchen
+Boston Crab Meat
+6
+20
+24.9
+14.7
+TotalPrice
+443.4
+Page 1
+ 
+ 

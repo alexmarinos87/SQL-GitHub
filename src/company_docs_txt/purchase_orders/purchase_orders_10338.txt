@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10338
+2016-10-25
+Rene Phillips
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+30
+Alice Mutton
+Nord-Ost Matjeshering
+20
+15
+31.2
+20.7
+Page 1

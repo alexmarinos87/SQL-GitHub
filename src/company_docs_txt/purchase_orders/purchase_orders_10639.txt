@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10639
+2017-08-20
+Jonas Bergulfsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+Carnarvon Tigers
+8
+62.5
+Page 1

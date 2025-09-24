@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10379
+2016-12-11
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+63
+65
+Jack's New England Clam Chowder
+Vegie-spread
+Louisiana Fiery Hot Pepper Sauce
+8
+16
+20
+7.7
+35.1
+16.8
+Page 1

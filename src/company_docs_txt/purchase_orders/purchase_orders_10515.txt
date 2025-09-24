@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10515
+2017-04-23
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+9
+16
+27
+33
+60
+Mishi Kobe Niku
+Pavlova
+Schoggi Schokolade
+Geitost
+Camembert Pierrot
+16
+50
+120
+16
+84
+97
+17.45
+43.9
+2.5
+34
+Page 1

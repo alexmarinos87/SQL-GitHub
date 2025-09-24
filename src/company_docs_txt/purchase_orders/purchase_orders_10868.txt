@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10868
+2018-02-04
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+35
+49
+Gumbär Gummibärchen
+Steeleye Stout
+Maxilaku
+20
+30
+42
+31.23
+18
+20
+Page 1

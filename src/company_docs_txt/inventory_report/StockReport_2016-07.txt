@@ -1,0 +1,206 @@
+Stock Report for 2016-07
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Chang
+105
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chartreuse verte
+Guaraná Fantástica
+Lakkalikööri
+Outback Lager
+Steeleye Stout
+Condiments
+Chef Anton's Gumbo Mix
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Original Frankfurter..
+Confections
+Confections
+Maxilaku
+Pavlova
+Confections
+Schoggi Schokolade
+Confections
+Sir Rodney's Marmalade
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+48
+43
+15
+41
+20
+77
+35
+27
+40
+95
+25
+40
+30
+15
+40
+85
+20
+6
+29
+12
+12
+Dairy Products
+Raclette Courdavault
+100
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Gustaf's Knäckebröd
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals
+Singaporean Hokkien..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Produce
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Longlife Tofu
+Manjimup Dried Apples
+Tofu
+Uncle Bob's Organic..
+Boston Crab Meat
+Gravad lax
+Inlagd Sill
+Jack's New England..
+Nord-Ost Matjeshering
+2
+6
+65
+10
+30
+15
+21
+10
+57
+75
+9
+15
+50
+1
+25
+51
+60
+17
+69
+20
+57
+15
+20
+0
+76
+32
+10
+29
+49
+40
+3
+17
+19
+112
+0
+9
+14
+22
+86
+79
+21
+104
+36
+26
+0
+0
+115
+0
+4
+20
+35
+15
+123
+11
+112
+85
+10
+19
+18
+4.5
+18
+15
+18
+21.35
+21.05
+13
+20
+17.45
+43.9
+81
+10
+49.3
+34
+2.5
+12.5
+32
+34.8
+21
+38
+55
+38
+21
+19.5
+14
+39
+32.8
+24
+123.79
+10
+53
+23.25
+30
+18.4
+26
+19
+9.65
+25.89

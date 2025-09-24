@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10331
+2016-10-16
+Laurence Lebihan
+Products
+Product ID:
+54
+Product:
+Tourtière
+Quantity:
+Unit Price:
+15
+5.9
+Page 1

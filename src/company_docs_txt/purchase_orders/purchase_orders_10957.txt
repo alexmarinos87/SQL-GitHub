@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10957
+2018-03-18
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+35
+64
+Nord-Ost Matjeshering
+Steeleye Stout
+Wimmers gute Semmelknödel
+30
+40
+8
+25.89
+18
+33.25
+Page 1

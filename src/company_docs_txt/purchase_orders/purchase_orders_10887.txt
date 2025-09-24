@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10887
+2018-02-13
+Eduardo Saavedra
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+NuNuCa Nuﬂ-Nougat-Creme
+5
+14
+Page 1

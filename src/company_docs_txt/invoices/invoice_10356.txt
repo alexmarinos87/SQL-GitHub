@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10356
+Customer ID: WANDK
+Order Date: 2016-11-18
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+55
+69
+Gorgonzola Telino
+Pâté chinois
+Gudbrandsdalsost
+30
+12
+20
+10.0
+19.2
+28.8
+TotalPrice
+1106.4
+Page 1
+ 
+ 

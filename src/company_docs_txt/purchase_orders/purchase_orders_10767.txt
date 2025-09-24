@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10767
+2017-12-05
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+42
+Singaporean Hokkien Fried Mee
+2
+14
+Page 1

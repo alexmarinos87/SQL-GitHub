@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10299
+2016-09-06
+Janete Limeira
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+70
+Teatime Chocolate Biscuits
+Outback Lager
+15
+20
+7.3
+12
+Page 1

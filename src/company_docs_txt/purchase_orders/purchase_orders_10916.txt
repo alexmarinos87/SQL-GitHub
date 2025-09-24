@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10916
+2018-02-27
+Sergio Gutiérrez
+Products
+Product ID:
+16
+32
+57
+Product:
+Pavlova
+Mascarpone Fabioli
+Ravioli Angelo
+Quantity:
+Unit Price:
+6
+6
+20
+17.45
+32
+19.5
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10353
+2016-11-13
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+38
+Queso Cabrales
+Côte de Blaye
+12
+50
+16.8
+210.8
+Page 1

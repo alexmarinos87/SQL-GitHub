@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10507
+2017-04-15
+Antonio Moreno
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+43
+48
+Ipoh Coffee
+Chocolade
+15
+15
+46
+12.75
+Page 1

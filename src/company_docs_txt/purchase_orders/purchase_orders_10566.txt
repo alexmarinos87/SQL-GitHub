@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10566
+2017-06-12
+Frédérique Citeaux
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+18
+76
+Queso Cabrales
+Carnarvon Tigers
+Lakkalikööri
+35
+18
+10
+21
+62.5
+18
+Page 1

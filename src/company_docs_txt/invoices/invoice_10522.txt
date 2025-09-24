@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10522
+Customer ID: LEHMS
+Order Date: 2017-04-30
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+8
+30
+40
+Chai
+Northwoods Cranberry Sauce
+Nord-Ost Matjeshering
+Boston Crab Meat
+40
+24
+20
+25
+18.0
+40.0
+25.89
+18.4
+TotalPrice
+2657.7999999999997
+Page 1
+ 
+ 

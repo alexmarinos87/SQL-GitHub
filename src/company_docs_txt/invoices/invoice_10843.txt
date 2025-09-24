@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10843
+Customer ID: VICTE
+Order Date: 2018-01-21
+Customer Details:
+Contact Name:
+Mary Saveley
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2, rue du Commerce
+Lyon
+69004
+France
+78.32.54.86
+78.32.54.87
+Product ID
+Product Name
+Quantity
+Unit Price
+51
+Manjimup Dried Apples
+4
+TotalPrice
+53.0
+212.0
+Page 1
+ 
+ 

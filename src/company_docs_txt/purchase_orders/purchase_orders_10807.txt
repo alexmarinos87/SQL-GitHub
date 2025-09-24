@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10807
+2017-12-31
+Paolo Accorti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+Boston Crab Meat
+1
+18.4
+Page 1

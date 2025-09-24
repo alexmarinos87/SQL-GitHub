@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10897
+Customer ID: HUNGO
+Order Date: 2018-02-19
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+30
+Thüringer Rostbratwurst
+Nord-Ost Matjeshering
+80
+36
+123.79
+25.89
+TotalPrice
+10835.240000000002
+Page 1
+ 
+ 

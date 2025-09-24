@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10829
+2018-01-13
+Helen Bennett
+Products
+Product:
+Chang
+Northwoods Cranberry Sauce
+Konbu
+Camembert Pierrot
+Product ID:
+2
+8
+13
+60
+Quantity:
+Unit Price:
+10
+20
+10
+21
+19
+40
+6
+34
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11059
+2018-04-29
+Janete Limeira
+Products
+Product ID:
+13
+17
+60
+Product:
+Konbu
+Alice Mutton
+Camembert Pierrot
+Quantity:
+Unit Price:
+30
+12
+35
+6
+39
+34
+Page 1

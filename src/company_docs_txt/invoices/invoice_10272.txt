@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10272
+Customer ID: RATTC
+Order Date: 2016-08-02
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+31
+72
+Sir Rodney's Marmalade
+Gorgonzola Telino
+Mozzarella di Giovanni
+6
+40
+24
+64.8
+10.0
+27.8
+TotalPrice
+1456.0
+Page 1
+ 
+ 

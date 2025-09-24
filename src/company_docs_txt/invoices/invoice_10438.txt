@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10438
+Customer ID: TOMSP
+Order Date: 2017-02-06
+Customer Details:
+Contact Name:
+Karin Josephs
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Luisenstr. 48
+Münster
+44087
+Germany
+0251-031259
+0251-035695
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+34
+57
+Teatime Chocolate Biscuits
+Sasquatch Ale
+Ravioli Angelo
+15
+20
+15
+7.3
+11.2
+15.6
+TotalPrice
+567.5
+Page 1
+ 
+ 

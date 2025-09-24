@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10399
+Customer ID: VAFFE
+Order Date: 2016-12-31
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+68
+71
+76
+77
+Scottish Longbreads
+Flotemysost
+Lakkalikööri
+Original Frankfurter grüne Soße
+60
+30
+35
+14
+10.0
+17.2
+14.4
+10.4
+TotalPrice
+1765.6
+Page 1
+ 
+ 

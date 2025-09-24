@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10650
+Customer ID: FAMIA
+Order Date: 2017-08-29
+Customer Details:
+Contact Name:
+Aria Cruz
+Address:
+City:
+Rua Orós, 92
+Sao Paulo
+Postal Code:
+05442-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9857
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+53
+54
+Nord-Ost Matjeshering
+Perth Pasties
+Tourtière
+30
+25
+30
+25.89
+32.8
+7.45
+TotalPrice
+1820.1999999999998
+Page 1
+ 
+ 

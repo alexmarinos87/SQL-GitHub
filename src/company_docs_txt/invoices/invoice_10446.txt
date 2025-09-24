@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10446
+Customer ID: TOMSP
+Order Date: 2017-02-14
+Customer Details:
+Contact Name:
+Karin Josephs
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Luisenstr. 48
+Münster
+44087
+Germany
+0251-031259
+0251-035695
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+24
+31
+52
+Teatime Chocolate Biscuits
+Guaraná Fantástica
+Gorgonzola Telino
+Filo Mix
+12
+20
+3
+15
+7.3
+3.6
+10.0
+5.6
+TotalPrice
+273.6
+Page 1
+ 
+ 

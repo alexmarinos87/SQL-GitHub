@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10487
+2017-03-26
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+26
+54
+Teatime Chocolate Biscuits
+Gumbär Gummibärchen
+Tourtière
+5
+30
+24
+7.3
+24.9
+5.9
+Page 1

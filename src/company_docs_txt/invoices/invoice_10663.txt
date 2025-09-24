@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10663
+Customer ID: BONAP
+Order Date: 2017-09-10
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+42
+51
+Boston Crab Meat
+Singaporean Hokkien Fried Mee
+Manjimup Dried Apples
+30
+30
+20
+18.4
+14.0
+53.0
+TotalPrice
+2032.0
+Page 1
+ 
+ 

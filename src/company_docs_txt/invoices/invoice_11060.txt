@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11060
+Customer ID: FRANS
+Order Date: 2018-04-30
+Customer Details:
+Contact Name:
+Paolo Accorti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Monte Bianco 34
+Torino
+10100
+Italy
+011-4988260
+011-4988261
+Product ID
+Product Name
+Quantity
+Unit Price
+60
+77
+Camembert Pierrot
+Original Frankfurter grüne Soße
+4
+10
+34.0
+13.0
+TotalPrice
+266.0
+Page 1
+ 
+ 

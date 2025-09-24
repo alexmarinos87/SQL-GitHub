@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10999
+Customer ID: OTTIK
+Order Date: 2018-04-03
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+51
+77
+Jack's New England Clam Chowder
+Manjimup Dried Apples
+Original Frankfurter grüne Soße
+20
+15
+21
+9.65
+53.0
+13.0
+TotalPrice
+1261.0
+Page 1
+ 
+ 

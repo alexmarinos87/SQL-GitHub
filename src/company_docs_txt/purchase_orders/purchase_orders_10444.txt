@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10444
+2017-02-12
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+26
+35
+41
+Alice Mutton
+Gumbär Gummibärchen
+Steeleye Stout
+Jack's New England Clam Chowder
+10
+15
+8
+30
+31.2
+24.9
+14.4
+7.7
+Page 1

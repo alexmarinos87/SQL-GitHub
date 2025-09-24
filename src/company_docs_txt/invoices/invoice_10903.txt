@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10903
+Customer ID: HANAR
+Order Date: 2018-02-24
+Customer Details:
+Contact Name:
+Mario Pontes
+Address:
+City:
+Rua do Paço, 67
+Rio de Janeiro
+Postal Code:
+05454-876
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-0091
+(21) 555-8765
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+65
+68
+Konbu
+Louisiana Fiery Hot Pepper Sauce
+Scottish Longbreads
+40
+21
+20
+6.0
+21.05
+12.5
+TotalPrice
+932.05
+Page 1
+ 
+ 

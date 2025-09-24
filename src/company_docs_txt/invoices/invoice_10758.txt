@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10758
+Customer ID: RICSU
+Order Date: 2017-11-28
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+52
+70
+Gumbär Gummibärchen
+Filo Mix
+Outback Lager
+20
+60
+40
+31.23
+7.0
+15.0
+TotalPrice
+1644.6
+Page 1
+ 
+ 

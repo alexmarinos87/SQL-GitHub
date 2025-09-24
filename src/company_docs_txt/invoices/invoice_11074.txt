@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11074
+Customer ID: SIMOB
+Order Date: 2018-05-06
+Customer Details:
+Contact Name:
+Jytte Petersen
+Address:
+City:
+Vinbæltet 34
+Kobenhavn
+Postal Code:
+1734
+Country:
+Phone:
+Fax:
+Denmark
+31 12 34 56
+31 13 35 57
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+Pavlova
+14
+17.45
+TotalPrice
+244.29999999999998
+Page 1
+ 
+ 

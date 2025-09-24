@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10602
+2017-07-17
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+77
+Original Frankfurter grüne Soße
+5
+13
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10503
+2017-04-11
+Patricia McKenna
+Products
+Product ID:
+14
+65
+Product:
+Tofu
+Louisiana Fiery Hot Pepper Sauce
+Quantity:
+Unit Price:
+70
+20
+23.25
+21.05
+Page 1

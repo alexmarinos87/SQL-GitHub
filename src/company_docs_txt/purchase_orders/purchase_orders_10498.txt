@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10498
+2017-04-07
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+40
+42
+Guaraná Fantástica
+Boston Crab Meat
+Singaporean Hokkien Fried Mee
+14
+5
+30
+4.5
+18.4
+14
+Page 1

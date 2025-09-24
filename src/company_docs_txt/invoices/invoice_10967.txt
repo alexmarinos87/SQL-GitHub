@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10967
+Customer ID: TOMSP
+Order Date: 2018-03-23
+Customer Details:
+Contact Name:
+Karin Josephs
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Luisenstr. 48
+Münster
+44087
+Germany
+0251-031259
+0251-035695
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+49
+Teatime Chocolate Biscuits
+Maxilaku
+12
+40
+9.2
+20.0
+TotalPrice
+910.4
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10794
+2017-12-24
+Bernardo Batista
+Products
+Product ID:
+14
+54
+Product:
+Tofu
+Tourtière
+Quantity:
+Unit Price:
+15
+6
+23.25
+7.45
+Page 1

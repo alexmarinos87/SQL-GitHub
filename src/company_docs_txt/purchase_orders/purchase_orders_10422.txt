@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10422
+2017-01-22
+Paolo Accorti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+Gumbär Gummibärchen
+2
+24.9
+Page 1

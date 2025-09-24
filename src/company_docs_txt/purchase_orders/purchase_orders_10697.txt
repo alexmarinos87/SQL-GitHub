@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10697
+2017-10-08
+Felipe Izquierdo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+35
+58
+70
+Teatime Chocolate Biscuits
+Steeleye Stout
+Escargots de Bourgogne
+Outback Lager
+7
+9
+30
+30
+9.2
+18
+13.25
+15
+Page 1

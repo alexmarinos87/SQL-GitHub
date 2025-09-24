@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10828
+Customer ID: RANCH
+Order Date: 2018-01-13
+Customer Details:
+Contact Name:
+Sergio Gutiérrez
+Address:
+City:
+Av. del Libertador 900
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 123-5555
+(1) 123-5556
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+38
+Sir Rodney's Marmalade
+Côte de Blaye
+5
+2
+TotalPrice
+81.0
+263.5
+932.0
+Page 1
+ 
+ 

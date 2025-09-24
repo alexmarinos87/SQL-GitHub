@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10727
+2017-11-03
+Maurizio Moroni
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+56
+59
+Alice Mutton
+Gnocchi di nonna Alice
+Raclette Courdavault
+20
+10
+10
+39
+38
+55
+Page 1

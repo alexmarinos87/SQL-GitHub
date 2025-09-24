@@ -1,0 +1,245 @@
+Stock Report for 2017-02
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chang
+Chartreuse verte
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Steeleye Stout
+Condiments
+Gula Malacca
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Louisiana Hot Spiced..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Confections
+Chocolade
+Confections
+Gumbär Gummibärchen
+Confections
+Confections
+Maxilaku
+Pavlova
+Confections
+Schoggi Schokolade
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Filo Mix
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Gustaf's Knäckebröd
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals Wimmers gute..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Longlife Tofu
+Rössle Sauerkraut
+Uncle Bob's Organic..
+Boston Crab Meat
+Ikura
+Jack's New England..
+Nord-Ost Matjeshering
+Spegesild
+55
+26
+20
+20
+18
+25
+28
+20
+8
+100
+63
+60
+55
+115
+15
+51
+21
+85
+50
+21
+80
+35
+67
+82
+20
+3
+50
+42
+15
+36
+35
+83
+12
+15
+71
+10
+65
+30
+57
+16
+20
+34
+30
+28
+35
+180
+24
+101
+17
+69
+20
+17
+57
+15
+125
+111
+20
+27
+76
+4
+32
+113
+15
+15
+10
+29
+49
+6
+3
+17
+25
+26
+112
+0
+14
+22
+86
+79
+38
+21
+104
+36
+22
+115
+0
+0
+0
+4
+21
+26
+15
+123
+31
+85
+10
+95
+19
+18
+4.5
+46
+18
+15
+7.75
+14
+18
+19.45
+21.05
+17
+13
+28.5
+12.75
+31.23
+20
+17.45
+43.9
+12.5
+10
+49.3
+9.2
+21.5
+2.5
+12.5
+34.8
+21
+38
+55
+7
+38
+21
+19.5
+33.25
+39
+32.8
+24
+123.79
+7.45
+10
+45.6
+30
+18.4
+31
+9.65
+25.89
+12

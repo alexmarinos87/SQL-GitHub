@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10855
+Customer ID: OLDWO
+Order Date: 2018-01-27
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+31
+56
+65
+Pavlova
+Gorgonzola Telino
+Gnocchi di nonna Alice
+Louisiana Fiery Hot Pepper Sauce
+50
+14
+24
+15
+17.45
+12.5
+38.0
+21.05
+TotalPrice
+2275.25
+Page 1
+ 
+ 

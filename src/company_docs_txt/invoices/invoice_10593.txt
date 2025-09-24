@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10593
+Customer ID: LEHMS
+Order Date: 2017-07-09
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+69
+76
+Sir Rodney's Marmalade
+Gudbrandsdalsost
+Lakkalikööri
+21
+20
+4
+81.0
+36.0
+18.0
+TotalPrice
+2493.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10507
+Customer ID: ANTON
+Order Date: 2017-04-15
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+43
+48
+Ipoh Coffee
+Chocolade
+15
+15
+46.0
+12.75
+TotalPrice
+881.25
+Page 1
+ 
+ 

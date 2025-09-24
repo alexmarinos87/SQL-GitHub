@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10926
+2018-03-04
+Ana Trujillo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+13
+19
+72
+Queso Cabrales
+Konbu
+Teatime Chocolate Biscuits
+Mozzarella di Giovanni
+2
+10
+7
+10
+21
+6
+9.2
+34.8
+Page 1

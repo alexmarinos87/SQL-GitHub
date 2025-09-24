@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10305
+Customer ID: OLDWO
+Order Date: 2016-09-13
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+29
+39
+Carnarvon Tigers
+Thüringer Rostbratwurst
+Chartreuse verte
+25
+25
+30
+50.0
+99.0
+14.4
+TotalPrice
+4157.0
+Page 1
+ 
+ 

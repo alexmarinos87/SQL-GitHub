@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10421
+Customer ID: QUEDE
+Order Date: 2017-01-21
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+26
+53
+77
+Teatime Chocolate Biscuits
+Gumbär Gummibärchen
+Perth Pasties
+Original Frankfurter grüne Soße
+4
+30
+15
+10
+7.3
+24.9
+26.2
+10.4
+TotalPrice
+1273.2
+Page 1
+ 
+ 

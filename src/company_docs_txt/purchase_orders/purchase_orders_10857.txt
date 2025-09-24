@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10857
+2018-01-28
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+26
+29
+Aniseed Syrup
+Gumbär Gummibärchen
+Thüringer Rostbratwurst
+30
+35
+10
+10
+31.23
+123.79
+Page 1

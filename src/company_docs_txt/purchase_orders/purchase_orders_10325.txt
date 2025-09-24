@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10325
+2016-10-09
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+13
+14
+31
+72
+Grandma's Boysenberry Spread
+Konbu
+Tofu
+Gorgonzola Telino
+Mozzarella di Giovanni
+6
+12
+9
+4
+40
+20
+4.8
+18.6
+10
+27.8
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10459
+2017-02-27
+Mary Saveley
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+46
+72
+Uncle Bob's Organic Dried Pears
+Spegesild
+Mozzarella di Giovanni
+16
+20
+40
+24
+9.6
+27.8
+Page 1

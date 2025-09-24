@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10634
+2017-08-15
+Martine Rancé
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+18
+51
+75
+Uncle Bob's Organic Dried Pears
+Carnarvon Tigers
+Manjimup Dried Apples
+Rhönbräu Klosterbier
+35
+50
+15
+2
+30
+62.5
+53
+7.75
+Page 1

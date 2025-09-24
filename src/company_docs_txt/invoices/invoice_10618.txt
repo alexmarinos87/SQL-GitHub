@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10618
+Customer ID: MEREP
+Order Date: 2017-08-01
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+6
+56
+68
+Grandma's Boysenberry Spread
+Gnocchi di nonna Alice
+Scottish Longbreads
+70
+20
+15
+25.0
+38.0
+12.5
+TotalPrice
+2697.5
+Page 1
+ 
+ 

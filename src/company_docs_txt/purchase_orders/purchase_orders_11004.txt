@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11004
+2018-04-07
+Catherine Dewey
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+76
+Gumbär Gummibärchen
+Lakkalikööri
+6
+6
+31.23
+18
+Page 1

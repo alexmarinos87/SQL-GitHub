@@ -1,0 +1,115 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11077
+2018-05-06
+Paula Wilson
+Product ID:
+2
+3
+4
+6
+7
+8
+10
+12
+13
+14
+16
+20
+23
+32
+Products
+Product:
+Chang
+Aniseed Syrup
+Chef Anton's Cajun Seasoning
+Grandma's Boysenberry Spread
+Uncle Bob's Organic Dried Pears
+Northwoods Cranberry Sauce
+Ikura
+Queso Manchego La Pastora
+Konbu
+Tofu
+Pavlova
+Sir Rodney's Marmalade
+Tunnbröd
+Mascarpone Fabioli
+Page 1
+Quantity:
+Unit Price:
+24
+4
+1
+1
+1
+2
+1
+2
+4
+1
+2
+1
+2
+1
+19
+10
+22
+25
+30
+40
+31
+38
+6
+23.25
+17.45
+81
+9
+32
+39
+41
+46
+52
+55
+60
+64
+66
+73
+75
+77
+Purchase Orders
+Chartreuse verte
+Jack's New England Clam Chowder
+Spegesild
+Filo Mix
+Pâté chinois
+Camembert Pierrot
+Wimmers gute Semmelknödel
+Louisiana Hot Spiced Okra
+Röd Kaviar
+Rhönbräu Klosterbier
+Original Frankfurter grüne Soße
+2
+3
+3
+2
+2
+2
+2
+1
+2
+4
+2
+18
+9.65
+12
+7
+24
+34
+33.25
+17
+15
+7.75
+13
+Page 2

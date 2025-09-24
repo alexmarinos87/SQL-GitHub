@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10949
+2018-03-13
+Elizabeth Lincoln
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+10
+17
+62
+Grandma's Boysenberry Spread
+Ikura
+Alice Mutton
+Tarte au sucre
+12
+30
+6
+60
+25
+31
+39
+49.3
+Page 1

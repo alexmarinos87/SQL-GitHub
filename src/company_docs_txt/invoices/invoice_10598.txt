@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10598
+Customer ID: RATTC
+Order Date: 2017-07-14
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+27
+71
+Schoggi Schokolade
+Flotemysost
+50
+9
+43.9
+21.5
+TotalPrice
+2388.5
+Page 1
+ 
+ 

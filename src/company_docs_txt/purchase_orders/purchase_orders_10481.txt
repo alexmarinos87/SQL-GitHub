@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10481
+2017-03-20
+Janete Limeira
+Products
+Product ID:
+49
+60
+Product:
+Maxilaku
+Camembert Pierrot
+Quantity:
+Unit Price:
+24
+40
+16
+27.2
+Page 1

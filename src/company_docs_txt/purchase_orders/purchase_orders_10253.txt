@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10253
+2016-07-10
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+39
+49
+Gorgonzola Telino
+Chartreuse verte
+Maxilaku
+20
+42
+40
+10
+14.4
+16
+Page 1

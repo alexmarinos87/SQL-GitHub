@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10825
+Customer ID: DRACD
+Order Date: 2018-01-09
+Customer Details:
+Contact Name:
+Sven Ottlieb
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Walserweg 21
+Aachen
+52066
+Germany
+0241-039123
+0241-059428
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+53
+Gumbär Gummibärchen
+Perth Pasties
+12
+20
+31.23
+32.8
+TotalPrice
+1030.76
+Page 1
+ 
+ 

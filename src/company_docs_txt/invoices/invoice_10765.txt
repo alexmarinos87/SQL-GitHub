@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10765
+Customer ID: QUICK
+Order Date: 2017-12-04
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+65
+Louisiana Fiery Hot Pepper Sauce
+80
+21.05
+TotalPrice
+1684.0
+Page 1
+ 
+ 

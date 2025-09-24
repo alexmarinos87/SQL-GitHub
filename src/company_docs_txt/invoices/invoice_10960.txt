@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10960
+Customer ID: HILAA
+Order Date: 2018-03-19
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+41
+Guaraná Fantástica
+Jack's New England Clam Chowder
+10
+24
+4.5
+9.65
+TotalPrice
+276.6
+Page 1
+ 
+ 

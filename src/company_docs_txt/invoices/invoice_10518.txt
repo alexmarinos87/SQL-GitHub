@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10518
+Customer ID: TORTU
+Order Date: 2017-04-25
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+38
+44
+Guaraná Fantástica
+Côte de Blaye
+Gula Malacca
+5
+15
+9
+4.5
+263.5
+19.45
+TotalPrice
+4150.05
+Page 1
+ 
+ 

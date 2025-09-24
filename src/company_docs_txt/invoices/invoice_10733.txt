@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10733
+Customer ID: BERGS
+Order Date: 2017-11-07
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+28
+52
+Tofu
+Rössle Sauerkraut
+Filo Mix
+16
+20
+25
+23.25
+45.6
+7.0
+TotalPrice
+1459.0
+Page 1
+ 
+ 

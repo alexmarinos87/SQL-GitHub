@@ -1,0 +1,225 @@
+Stock Report for 2016-08
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Laughing Lumberjack..
+Rhönbräu Klosterbier
+Sasquatch Ale
+Steeleye Stout
+63
+40
+40
+33
+5
+42
+20
+104
+Condiments
+Aniseed Syrup
+Condiments
+Chef Anton's Gumbo Mix
+Condiments
+Genen Shouyu
+Condiments
+Gula Malacca
+Condiments
+Original Frankfurter..
+Condiments
+Vegie-spread
+Confections
+Confections
+Maxilaku
+Pavlova
+Confections
+Schoggi Schokolade
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals Wimmers gute..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+30
+20
+20
+61
+10
+13
+15
+40
+15
+3
+26
+52
+19
+76
+20
+44
+55
+34
+21
+2
+9
+30
+36
+20
+15
+10
+2
+20
+12
+39
+30
+30
+6
+25
+15
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Manjimup Dried Apples
+Rössle Sauerkraut
+Boston Crab Meat
+100
+Carnarvon Tigers
+Ikura
+Inlagd Sill
+Konbu
+Röd Kaviar
+Spegesild
+Nord-Ost Matjeshering
+39
+20
+17
+57
+52
+125
+111
+20
+13
+0
+39
+27
+32
+24
+10
+29
+49
+6
+40
+17
+25
+19
+26
+112
+0
+14
+79
+36
+22
+0
+0
+115
+0
+21
+20
+26
+123
+42
+31
+112
+24
+10
+101
+95
+18
+4.5
+46
+18
+14
+7.75
+14
+18
+10
+21.35
+15.5
+19.45
+13
+43.9
+20
+17.45
+43.9
+12.5
+81
+49.3
+9.2
+34
+21.5
+2.5
+12.5
+34.8
+55
+19.5
+33.25
+39
+32.8
+24
+123.79
+7.45
+53
+45.6
+18.4
+62.5
+31
+19
+6
+15
+12
+25.89

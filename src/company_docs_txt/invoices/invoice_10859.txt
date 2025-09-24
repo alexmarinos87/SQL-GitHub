@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10859
+Customer ID: FRANK
+Order Date: 2018-01-29
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+54
+64
+Guaraná Fantástica
+Tourtière
+Wimmers gute Semmelknödel
+40
+35
+30
+4.5
+7.45
+33.25
+TotalPrice
+1438.25
+Page 1
+ 
+ 

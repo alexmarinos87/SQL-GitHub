@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10309
+Customer ID: HUNGO
+Order Date: 2016-09-19
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+6
+42
+43
+71
+Chef Anton's Cajun Seasoning
+Grandma's Boysenberry Spread
+Singaporean Hokkien Fried Mee
+Ipoh Coffee
+Flotemysost
+20
+30
+2
+20
+3
+17.6
+20.0
+11.2
+36.8
+17.2
+TotalPrice
+1762.0
+Page 1
+ 
+ 

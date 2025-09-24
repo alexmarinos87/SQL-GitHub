@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10709
+2017-10-17
+André Fonseca
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+8
+51
+60
+Northwoods Cranberry Sauce
+Manjimup Dried Apples
+Camembert Pierrot
+40
+28
+10
+40
+53
+34
+Page 1

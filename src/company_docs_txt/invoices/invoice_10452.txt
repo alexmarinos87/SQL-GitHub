@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10452
+Customer ID: SAVEA
+Order Date: 2017-02-20
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+44
+Rössle Sauerkraut
+Gula Malacca
+15
+100
+36.4
+15.5
+TotalPrice
+2096.0
+Page 1
+ 
+ 

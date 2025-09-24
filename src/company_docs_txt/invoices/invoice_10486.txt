@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10486
+Customer ID: HILAA
+Order Date: 2017-03-26
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+51
+74
+Queso Cabrales
+Manjimup Dried Apples
+Longlife Tofu
+5
+25
+16
+16.8
+42.4
+8.0
+TotalPrice
+1272.0
+Page 1
+ 
+ 

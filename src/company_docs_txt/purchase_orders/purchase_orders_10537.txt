@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10537
+2017-05-14
+Michael Holz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+51
+58
+72
+73
+Gorgonzola Telino
+Manjimup Dried Apples
+Escargots de Bourgogne
+Mozzarella di Giovanni
+Röd Kaviar
+30
+6
+20
+21
+9
+12.5
+53
+13.25
+34.8
+15
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11054
+Customer ID: CACTU
+Order Date: 2018-04-28
+Customer Details:
+Contact Name:
+Patricio Simpson
+Address:
+City:
+Cerrito 333
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5555
+(1) 135-4892
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+67
+Geitost
+Laughing Lumberjack Lager
+10
+20
+2.5
+14.0
+TotalPrice
+305.0
+Page 1
+ 
+ 

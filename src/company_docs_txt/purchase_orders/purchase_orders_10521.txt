@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10521
+2017-04-29
+Patricio Simpson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+41
+68
+Steeleye Stout
+Jack's New England Clam Chowder
+Scottish Longbreads
+3
+10
+6
+18
+9.65
+12.5
+Page 1

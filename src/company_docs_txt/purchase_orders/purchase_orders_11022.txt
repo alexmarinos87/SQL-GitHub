@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11022
+2018-04-14
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+69
+Teatime Chocolate Biscuits
+Gudbrandsdalsost
+35
+30
+9.2
+36
+Page 1

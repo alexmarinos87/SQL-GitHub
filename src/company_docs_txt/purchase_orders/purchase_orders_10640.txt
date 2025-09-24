@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10640
+2017-08-21
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+69
+70
+Gudbrandsdalsost
+Outback Lager
+20
+15
+36
+15
+Page 1

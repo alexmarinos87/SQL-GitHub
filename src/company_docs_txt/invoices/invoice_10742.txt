@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10742
+Customer ID: BOTTM
+Order Date: 2017-11-14
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+3
+60
+72
+Aniseed Syrup
+Camembert Pierrot
+Mozzarella di Giovanni
+20
+50
+35
+10.0
+34.0
+34.8
+TotalPrice
+3118.0
+Page 1
+ 
+ 

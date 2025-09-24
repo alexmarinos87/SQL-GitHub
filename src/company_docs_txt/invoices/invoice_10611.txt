@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10611
+Customer ID: WOLZA
+Order Date: 2017-07-25
+Customer Details:
+Contact Name:
+Zbyszek Piestrzeniewicz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+ul. Filtrowa 68
+Warszawa
+01-012
+Poland
+(26) 642-7012
+(26) 642-7012
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+2
+60
+Chai
+Chang
+Camembert Pierrot
+6
+10
+15
+18.0
+19.0
+34.0
+TotalPrice
+808.0
+Page 1
+ 
+ 

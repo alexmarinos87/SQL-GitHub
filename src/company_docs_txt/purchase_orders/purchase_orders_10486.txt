@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10486
+2017-03-26
+Carlos Hernández
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+51
+74
+Queso Cabrales
+Manjimup Dried Apples
+Longlife Tofu
+5
+25
+16
+16.8
+42.4
+8
+Page 1

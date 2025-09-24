@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10537
+Customer ID: RICSU
+Order Date: 2017-05-14
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+51
+58
+72
+73
+Gorgonzola Telino
+Manjimup Dried Apples
+Escargots de Bourgogne
+Mozzarella di Giovanni
+Röd Kaviar
+30
+6
+20
+21
+9
+12.5
+53.0
+13.25
+34.8
+15.0
+TotalPrice
+1823.8
+Page 1
+ 
+ 

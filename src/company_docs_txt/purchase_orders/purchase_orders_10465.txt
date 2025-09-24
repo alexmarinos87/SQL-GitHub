@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10465
+2017-03-05
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+29
+40
+45
+50
+Guaraná Fantástica
+Thüringer Rostbratwurst
+Boston Crab Meat
+Rogede sild
+Valkoinen suklaa
+25
+18
+20
+30
+25
+3.6
+99
+14.7
+7.6
+13
+Page 1

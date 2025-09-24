@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10989
+Customer ID: QUEDE
+Order Date: 2018-03-31
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+6
+11
+41
+Grandma's Boysenberry Spread
+Queso Cabrales
+Jack's New England Clam Chowder
+40
+15
+4
+25.0
+21.0
+9.65
+TotalPrice
+1353.6
+Page 1
+ 
+ 

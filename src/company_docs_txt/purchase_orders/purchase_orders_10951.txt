@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10951
+2018-03-16
+Michael Holz
+Products
+Product ID:
+33
+41
+75
+Product:
+Geitost
+Jack's New England Clam Chowder
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+15
+6
+50
+2.5
+9.65
+7.75
+Page 1

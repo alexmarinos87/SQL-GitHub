@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10783
+2017-12-18
+Mario Pontes
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+38
+Gorgonzola Telino
+Côte de Blaye
+10
+5
+12.5
+263.5
+Page 1

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10646
+2017-08-27
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+1
+10
+71
+77
+Chai
+Ikura
+Flotemysost
+Original Frankfurter grüne Soße
+15
+18
+30
+35
+18
+31
+21.5
+13
+Page 1

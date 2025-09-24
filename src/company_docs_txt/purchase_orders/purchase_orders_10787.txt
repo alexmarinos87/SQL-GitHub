@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10787
+2017-12-19
+Annette Roulet
+Products
+Product ID:
+2
+29
+Product:
+Chang
+Thüringer Rostbratwurst
+Quantity:
+Unit Price:
+15
+20
+19
+123.79
+Page 1

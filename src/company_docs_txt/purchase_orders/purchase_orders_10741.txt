@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10741
+2017-11-14
+Thomas Hardy
+Products
+Product ID:
+2
+Product:
+Chang
+Quantity:
+Unit Price:
+15
+19
+Page 1

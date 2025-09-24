@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10906
+Customer ID: WOLZA
+Order Date: 2018-02-25
+Customer Details:
+Contact Name:
+Zbyszek Piestrzeniewicz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+ul. Filtrowa 68
+Warszawa
+01-012
+Poland
+(26) 642-7012
+(26) 642-7012
+Product ID
+Product Name
+Quantity
+Unit Price
+61
+Sirop d'érable
+15
+TotalPrice
+28.5
+427.5
+Page 1
+ 
+ 

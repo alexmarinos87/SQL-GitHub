@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10719
+2017-10-27
+Jaime Yorres
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+30
+54
+Carnarvon Tigers
+Nord-Ost Matjeshering
+Tourtière
+12
+3
+40
+62.5
+25.89
+7.45
+Page 1

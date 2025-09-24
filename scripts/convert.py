@@ -28,11 +28,11 @@ print(select_folder)
 
     # set directory path from user combobox selection
 if select_folder == 'inventory_report':
-    directory = "src/company_docs_pdf/" + select_folder +"/monthly/monthly"
-else: directory = "src/company_docs_pdf/" + select_folder
+    directory = "src/company_docs_pdf/company_docs/" + select_folder +"/monthly/monthly"
+else: directory = "src/company_docs_pdf/company_docs/" + select_folder
 
 if select_folder == 'inventory_report':
-    dest_directory = "src/company_docs_txt/" + select_folder +"/monthly/monthly"
+    dest_directory = "src/company_docs_txt/" + select_folder 
 else: dest_directory = "src/company_docs_txt/" + select_folder
 
 def main():
@@ -53,7 +53,7 @@ def main():
             document = PDFDocument(parser, "")
             if not document.is_extractable:
                 continue
-
+            
             manager = PDFResourceManager()
             params = LAParams()
 
@@ -61,16 +61,14 @@ def main():
             interpreter = PDFPageInterpreter(manager, device)
 
             text = ""
-
             for page in PDFPage.create_pages(document):
                 interpreter.process_page(page)
                 for obj in device.get_result():
                     if isinstance(obj, LTTextBox) or isinstance(obj, LTTextLine):
                         text += obj.get_text()
-        with open('dest_directory/{}.txt'.format(path.stem), 'w') as file:
+        with open(dest_directory +'/{}.txt'.format(path.stem), 'w') as file:
             file.write(text)
     return 0
-
 
 if __name__ == "__main__":
     import sys

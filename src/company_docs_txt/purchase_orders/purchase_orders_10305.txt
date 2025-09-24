@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10305
+2016-09-13
+Rene Phillips
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+29
+39
+Carnarvon Tigers
+Thüringer Rostbratwurst
+Chartreuse verte
+25
+25
+30
+50
+99
+14.4
+Page 1

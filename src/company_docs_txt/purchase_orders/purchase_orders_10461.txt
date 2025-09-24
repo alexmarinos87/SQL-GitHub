@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10461
+2017-02-28
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+30
+55
+Sir Rodney's Scones
+Nord-Ost Matjeshering
+Pâté chinois
+40
+28
+60
+8
+20.7
+19.2
+Page 1

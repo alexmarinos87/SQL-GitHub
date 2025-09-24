@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10370
+2016-12-03
+Yang Wang
+Products
+Product ID:
+1
+64
+74
+Product:
+Chai
+Wimmers gute Semmelknödel
+Longlife Tofu
+Quantity:
+Unit Price:
+15
+30
+20
+14.4
+26.6
+8
+Page 1

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11030
+2018-04-17
+Jose Pavarotti
+Products
+Product:
+Chang
+Chef Anton's Gumbo Mix
+Thüringer Rostbratwurst
+Raclette Courdavault
+Product ID:
+2
+5
+29
+59
+Quantity:
+Unit Price:
+100
+70
+60
+100
+19
+21.35
+123.79
+55
+Page 1

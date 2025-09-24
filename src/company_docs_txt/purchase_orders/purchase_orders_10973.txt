@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10973
+2018-03-24
+Daniel Tonini
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+41
+75
+Gumbär Gummibärchen
+Jack's New England Clam Chowder
+Rhönbräu Klosterbier
+5
+6
+10
+31.23
+9.65
+7.75
+Page 1

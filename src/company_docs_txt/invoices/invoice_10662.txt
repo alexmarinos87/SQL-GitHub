@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10662
+Customer ID: LONEP
+Order Date: 2017-09-09
+Customer Details:
+Contact Name:
+Fran Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Chiaroscuro Rd.
+Portland
+97219
+USA
+(503) 555-9573
+(503) 555-9646
+Product ID
+Product Name
+Quantity
+Unit Price
+68
+Scottish Longbreads
+10
+TotalPrice
+12.5
+125.0
+Page 1
+ 
+ 

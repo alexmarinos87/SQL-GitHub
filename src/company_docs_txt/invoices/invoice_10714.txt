@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10714
+Customer ID: SAVEA
+Order Date: 2017-10-22
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+17
+47
+56
+58
+Chang
+Alice Mutton
+Zaanse koeken
+Gnocchi di nonna Alice
+Escargots de Bourgogne
+30
+27
+50
+18
+12
+19.0
+39.0
+9.5
+38.0
+13.25
+TotalPrice
+2941.0
+Page 1
+ 
+ 

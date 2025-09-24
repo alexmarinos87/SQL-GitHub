@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10938
+2018-03-10
+Horst Kloss
+Products
+Product ID:
+13
+43
+60
+71
+Product:
+Konbu
+Ipoh Coffee
+Camembert Pierrot
+Flotemysost
+Quantity:
+Unit Price:
+20
+24
+49
+35
+6
+46
+34
+21.5
+Page 1

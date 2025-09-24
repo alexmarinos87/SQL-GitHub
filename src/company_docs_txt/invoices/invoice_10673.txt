@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10673
+Customer ID: WILMK
+Order Date: 2017-09-18
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+42
+43
+Pavlova
+Singaporean Hokkien Fried Mee
+Ipoh Coffee
+3
+6
+6
+17.45
+14.0
+46.0
+TotalPrice
+412.35
+Page 1
+ 
+ 

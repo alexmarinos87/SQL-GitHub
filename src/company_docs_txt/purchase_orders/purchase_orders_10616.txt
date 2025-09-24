@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10616
+2017-07-31
+Howard Snyder
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+38
+56
+70
+71
+Côte de Blaye
+Gnocchi di nonna Alice
+Outback Lager
+Flotemysost
+15
+14
+15
+15
+263.5
+38
+15
+21.5
+Page 1

@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10751
+Customer ID: RICSU
+Order Date: 2017-11-24
+Customer Details:
+Contact Name:
+Michael Holz
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Grenzacherweg 237
+Genève
+1203
+Switzerland
+0897-034214
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+30
+50
+73
+Gumbär Gummibärchen
+Nord-Ost Matjeshering
+Valkoinen suklaa
+Röd Kaviar
+12
+30
+20
+15
+31.23
+25.89
+16.25
+15.0
+TotalPrice
+1701.46
+Page 1
+ 
+ 

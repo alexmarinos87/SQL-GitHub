@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11068
+2018-05-04
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+43
+77
+Rössle Sauerkraut
+Ipoh Coffee
+Original Frankfurter grüne Soße
+8
+36
+28
+45.6
+46
+13
+Page 1

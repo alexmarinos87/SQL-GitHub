@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10655
+Customer ID: REGGC
+Order Date: 2017-09-03
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+Jack's New England Clam Chowder
+20
+TotalPrice
+9.65
+193.0
+Page 1
+ 
+ 

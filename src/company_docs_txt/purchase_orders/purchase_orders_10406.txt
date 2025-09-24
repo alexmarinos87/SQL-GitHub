@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10406
+2017-01-07
+Lúcia Carvalho
+Products
+Product ID:
+1
+21
+28
+36
+40
+Product:
+Chai
+Sir Rodney's Scones
+Rössle Sauerkraut
+Inlagd Sill
+Boston Crab Meat
+Quantity:
+Unit Price:
+10
+30
+42
+5
+2
+14.4
+8
+36.4
+15.2
+14.7
+Page 1

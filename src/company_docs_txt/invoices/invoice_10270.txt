@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10270
+Customer ID: WARTH
+Order Date: 2016-08-01
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+43
+Inlagd Sill
+Ipoh Coffee
+30
+25
+15.2
+36.8
+TotalPrice
+1376.0
+Page 1
+ 
+ 

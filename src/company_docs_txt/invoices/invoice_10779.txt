@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10779
+Customer ID: MORGK
+Order Date: 2017-12-16
+Customer Details:
+Contact Name:
+Alexander Feuer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Heerstr. 22
+Leipzig
+04179
+Germany
+0342-023176
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+62
+Pavlova
+Tarte au sucre
+20
+20
+17.45
+49.3
+TotalPrice
+1335.0
+Page 1
+ 
+ 

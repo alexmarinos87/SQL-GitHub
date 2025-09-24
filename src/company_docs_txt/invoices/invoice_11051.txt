@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11051
+Customer ID: LAMAI
+Order Date: 2018-04-27
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+24
+Guaraná Fantástica
+10
+TotalPrice
+4.5
+45.0
+Page 1
+ 
+ 

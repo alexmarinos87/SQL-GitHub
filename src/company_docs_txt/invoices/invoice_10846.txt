@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10846
+Customer ID: SUPRD
+Order Date: 2018-01-22
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+70
+74
+Chef Anton's Cajun Seasoning
+Outback Lager
+Longlife Tofu
+21
+30
+20
+22.0
+15.0
+10.0
+TotalPrice
+1112.0
+Page 1
+ 
+ 

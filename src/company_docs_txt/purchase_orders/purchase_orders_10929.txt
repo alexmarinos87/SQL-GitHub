@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10929
+2018-03-05
+Peter Franken
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+75
+77
+Sir Rodney's Scones
+Rhönbräu Klosterbier
+Original Frankfurter grüne Soße
+60
+49
+15
+10
+7.75
+13
+Page 1

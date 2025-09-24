@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10689
+2017-10-01
+Christina Berglund
+Products
+Product ID:
+1
+Product:
+Chai
+Quantity:
+Unit Price:
+35
+18
+Page 1

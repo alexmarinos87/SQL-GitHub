@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10934
+Customer ID: LEHMS
+Order Date: 2018-03-09
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+6
+Grandma's Boysenberry Spread
+20
+TotalPrice
+25.0
+500.0
+Page 1
+ 
+ 

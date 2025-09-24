@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10576
+Customer ID: TORTU
+Order Date: 2017-06-23
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+31
+44
+Chai
+Gorgonzola Telino
+Gula Malacca
+10
+20
+21
+18.0
+12.5
+19.45
+TotalPrice
+838.45
+Page 1
+ 
+ 

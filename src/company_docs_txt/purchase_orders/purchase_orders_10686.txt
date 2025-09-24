@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10686
+2017-09-30
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+26
+Alice Mutton
+Gumbär Gummibärchen
+30
+15
+39
+31.23
+Page 1

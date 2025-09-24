@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10996
+Customer ID: QUICK
+Order Date: 2018-04-02
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+42
+Singaporean Hokkien Fried Mee
+40
+TotalPrice
+14.0
+560.0
+Page 1
+ 
+ 

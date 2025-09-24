@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10524
+2017-05-01
+Christina Berglund
+Products
+Product ID:
+10
+30
+43
+54
+Product:
+Ikura
+Nord-Ost Matjeshering
+Ipoh Coffee
+Tourtière
+Quantity:
+Unit Price:
+2
+10
+60
+15
+31
+25.89
+46
+7.45
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10752
+Customer ID: NORTS
+Order Date: 2017-11-24
+Customer Details:
+Contact Name:
+Simon Crowther
+Address:
+City:
+South House 300 Queensbridge
+London
+Postal Code:
+SW7 1RZ
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7733
+(171) 555-2530
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+69
+Chai
+Gudbrandsdalsost
+8
+3
+18.0
+36.0
+TotalPrice
+252.0
+Page 1
+ 
+ 

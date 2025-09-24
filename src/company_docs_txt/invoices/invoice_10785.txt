@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10785
+Customer ID: GROSR
+Order Date: 2017-12-18
+Customer Details:
+Contact Name:
+Manuel Pereira
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+5ª Ave. Los Palos Grandes
+Caracas
+1081
+Venezuela
+(2) 283-2951
+(2) 283-3397
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+75
+Ikura
+Rhönbräu Klosterbier
+10
+10
+31.0
+7.75
+TotalPrice
+387.5
+Page 1
+ 
+ 

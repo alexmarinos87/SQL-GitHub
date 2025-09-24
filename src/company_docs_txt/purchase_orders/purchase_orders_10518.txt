@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10518
+2017-04-25
+Miguel Angel Paolino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+38
+44
+Guaraná Fantástica
+Côte de Blaye
+Gula Malacca
+5
+15
+9
+4.5
+263.5
+19.45
+Page 1

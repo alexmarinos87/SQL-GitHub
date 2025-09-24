@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10984
+Customer ID: SAVEA
+Order Date: 2018-03-30
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+24
+36
+Pavlova
+Guaraná Fantástica
+Inlagd Sill
+55
+20
+40
+17.45
+4.5
+19.0
+TotalPrice
+1809.75
+Page 1
+ 
+ 

@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10623
+2017-08-07
+Peter Franken
+Products
+Product:
+Tofu
+Teatime Chocolate Biscuits
+Sir Rodney's Scones
+Guaraná Fantástica
+Steeleye Stout
+Product ID:
+14
+19
+21
+24
+35
+Quantity:
+Unit Price:
+21
+15
+25
+3
+30
+23.25
+9.2
+10
+4.5
+18
+Page 1

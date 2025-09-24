@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10997
+2018-04-03
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+32
+46
+52
+Mascarpone Fabioli
+Spegesild
+Filo Mix
+50
+20
+20
+32
+12
+7
+Page 1

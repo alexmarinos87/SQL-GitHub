@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10360
+Customer ID: BLONP
+Order Date: 2016-11-22
+Customer Details:
+Contact Name:
+Frédérique Citeaux
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+24, place Kléber
+Strasbourg
+67000
+France
+88.60.15.31
+88.60.15.32
+Product ID
+Product Name
+Quantity
+Unit Price
+28
+29
+38
+49
+54
+Rössle Sauerkraut
+Thüringer Rostbratwurst
+Côte de Blaye
+Maxilaku
+Tourtière
+30
+35
+10
+35
+28
+36.4
+99.0
+210.8
+16.0
+5.9
+TotalPrice
+7390.2
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11029
+2018-04-16
+Yang Wang
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+63
+Gnocchi di nonna Alice
+Vegie-spread
+20
+12
+38
+43.9
+Page 1

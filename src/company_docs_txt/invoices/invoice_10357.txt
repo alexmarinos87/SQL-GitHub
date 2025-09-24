@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10357
+Customer ID: LILAS
+Order Date: 2016-11-19
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+26
+60
+Ikura
+Gumbär Gummibärchen
+Camembert Pierrot
+30
+16
+8
+24.8
+24.9
+27.2
+TotalPrice
+1360.0
+Page 1
+ 
+ 

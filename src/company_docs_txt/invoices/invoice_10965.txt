@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10965
+Customer ID: OLDWO
+Order Date: 2018-03-20
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+51
+Manjimup Dried Apples
+16
+TotalPrice
+53.0
+848.0
+Page 1
+ 
+ 

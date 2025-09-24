@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10723
+Customer ID: WHITC
+Order Date: 2017-10-30
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+Gumbär Gummibärchen
+15
+31.23
+TotalPrice
+468.45
+Page 1
+ 
+ 

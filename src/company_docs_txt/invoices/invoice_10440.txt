@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10440
+Customer ID: SAVEA
+Order Date: 2017-02-10
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+16
+29
+61
+Chang
+Pavlova
+Thüringer Rostbratwurst
+Sirop d'érable
+45
+49
+24
+90
+15.2
+13.9
+99.0
+22.8
+TotalPrice
+5793.1
+Page 1
+ 
+ 

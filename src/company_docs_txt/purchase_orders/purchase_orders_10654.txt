@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10654
+2017-09-02
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+39
+54
+Chef Anton's Cajun Seasoning
+Chartreuse verte
+Tourtière
+12
+20
+6
+22
+18
+7.45
+Page 1

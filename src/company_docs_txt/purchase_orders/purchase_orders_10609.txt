@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10609
+2017-07-24
+Janine Labrune
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+1
+10
+21
+Chai
+Ikura
+Sir Rodney's Scones
+3
+10
+6
+18
+31
+10
+Page 1

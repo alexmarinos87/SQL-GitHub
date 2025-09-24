@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10624
+2017-08-07
+Liu Wong
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+29
+44
+Rössle Sauerkraut
+Thüringer Rostbratwurst
+Gula Malacca
+10
+6
+10
+45.6
+123.79
+19.45
+Page 1

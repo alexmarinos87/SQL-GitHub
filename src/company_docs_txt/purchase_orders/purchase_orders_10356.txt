@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10356
+2016-11-18
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+55
+69
+Gorgonzola Telino
+Pâté chinois
+Gudbrandsdalsost
+30
+12
+20
+10
+19.2
+28.8
+Page 1

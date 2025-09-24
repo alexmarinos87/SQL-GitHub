@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11002
+2018-04-06
+Jose Pavarotti
+Products
+Product:
+Konbu
+Steeleye Stout
+Singaporean Hokkien Fried Mee
+Pâté chinois
+Product ID:
+13
+35
+42
+55
+Quantity:
+Unit Price:
+56
+15
+24
+40
+6
+18
+14
+24
+Page 1

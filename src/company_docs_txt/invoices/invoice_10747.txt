@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10747
+Customer ID: PICCO
+Order Date: 2017-11-19
+Customer Details:
+Contact Name:
+Georg Pipps
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Geislweg 14
+Salzburg
+5020
+Austria
+6562-9722
+6562-9723
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+41
+63
+69
+Gorgonzola Telino
+Jack's New England Clam Chowder
+Vegie-spread
+Gudbrandsdalsost
+8
+35
+9
+30
+12.5
+9.65
+43.9
+36.0
+TotalPrice
+1912.85
+Page 1
+ 
+ 

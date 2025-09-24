@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10594
+2017-07-09
+Rene Phillips
+Products
+Product ID:
+52
+58
+Product:
+Filo Mix
+Escargots de Bourgogne
+Quantity:
+Unit Price:
+24
+30
+7
+13.25
+Page 1

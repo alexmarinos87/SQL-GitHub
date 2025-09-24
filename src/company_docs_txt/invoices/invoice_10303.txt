@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10303
+Customer ID: GODOS
+Order Date: 2016-09-11
+Customer Details:
+Contact Name:
+José Pedro Freyre
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Romero, 33
+Sevilla
+41101
+Spain
+(95) 555 82 82
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+65
+68
+Boston Crab Meat
+Louisiana Fiery Hot Pepper Sauce
+Scottish Longbreads
+40
+30
+15
+14.7
+16.8
+10.0
+TotalPrice
+1242.0
+Page 1
+ 
+ 

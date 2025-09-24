@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10728
+Customer ID: QUEEN
+Order Date: 2017-11-04
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+40
+55
+60
+Nord-Ost Matjeshering
+Boston Crab Meat
+Pâté chinois
+Camembert Pierrot
+15
+6
+12
+15
+25.89
+18.4
+24.0
+34.0
+TotalPrice
+1296.75
+Page 1
+ 
+ 

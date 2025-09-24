@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11057
+Customer ID: NORTS
+Order Date: 2018-04-29
+Customer Details:
+Contact Name:
+Simon Crowther
+Address:
+City:
+South House 300 Queensbridge
+London
+Postal Code:
+SW7 1RZ
+Country:
+Phone:
+Fax:
+UK
+(171) 555-7733
+(171) 555-2530
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+70
+Outback Lager
+3
+TotalPrice
+15.0
+45.0
+Page 1
+ 
+ 

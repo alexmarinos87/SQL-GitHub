@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10626
+Customer ID: BERGS
+Order Date: 2017-08-11
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+53
+60
+71
+Perth Pasties
+Camembert Pierrot
+Flotemysost
+12
+20
+20
+32.8
+34.0
+21.5
+TotalPrice
+1503.6
+Page 1
+ 
+ 

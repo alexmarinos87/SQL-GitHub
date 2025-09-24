@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10620
+2017-08-05
+Yoshi Tannamuri
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+52
+Guaraná Fantástica
+Filo Mix
+5
+5
+4.5
+7
+Page 1

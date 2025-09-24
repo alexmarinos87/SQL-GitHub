@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10394
+2016-12-25
+Yoshi Latimer
+Products
+Product ID:
+13
+62
+Product:
+Konbu
+Tarte au sucre
+Quantity:
+Unit Price:
+10
+10
+4.8
+39.4
+Page 1

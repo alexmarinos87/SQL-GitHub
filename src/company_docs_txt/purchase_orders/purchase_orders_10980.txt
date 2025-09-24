@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10980
+2018-03-27
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+75
+Rhönbräu Klosterbier
+40
+7.75
+Page 1

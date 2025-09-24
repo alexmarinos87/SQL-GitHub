@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10583
+Customer ID: WARTH
+Order Date: 2017-06-30
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+29
+60
+69
+Thüringer Rostbratwurst
+Camembert Pierrot
+Gudbrandsdalsost
+10
+24
+10
+123.79
+34.0
+36.0
+TotalPrice
+2413.9
+Page 1
+ 
+ 

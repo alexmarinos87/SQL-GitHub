@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10615
+Customer ID: WILMK
+Order Date: 2017-07-30
+Customer Details:
+Contact Name:
+Matti Karttunen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Keskuskatu 45
+Helsinki
+21240
+Finland
+90-224 8858
+90-224 8858
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+Pâté chinois
+5
+TotalPrice
+24.0
+120.0
+Page 1
+ 
+ 

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10428
+Customer ID: REGGC
+Order Date: 2017-01-28
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+46
+Spegesild
+20
+TotalPrice
+9.6
+192.0
+Page 1
+ 
+ 

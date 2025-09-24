@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10635
+2017-08-18
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+5
+22
+Chef Anton's Cajun Seasoning
+Chef Anton's Gumbo Mix
+Gustaf's Knäckebröd
+10
+15
+40
+22
+21.35
+21
+Page 1

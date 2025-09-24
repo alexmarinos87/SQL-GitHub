@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10845
+2018-01-21
+Horst Kloss
+Products
+Product:
+Tunnbröd
+Steeleye Stout
+Singaporean Hokkien Fried Mee
+Escargots de Bourgogne
+Wimmers gute Semmelknödel
+Product ID:
+23
+35
+42
+58
+64
+Quantity:
+Unit Price:
+70
+25
+42
+60
+48
+9
+18
+14
+13.25
+33.25
+Page 1

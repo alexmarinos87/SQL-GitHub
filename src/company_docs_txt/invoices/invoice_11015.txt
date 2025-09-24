@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11015
+Customer ID: SANTG
+Order Date: 2018-04-10
+Customer Details:
+Contact Name:
+Jonas Bergulfsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Erling Skakkes gate 78
+Stavern
+4110
+Norway
+07-98 92 35
+07-98 92 47
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+77
+Nord-Ost Matjeshering
+Original Frankfurter grüne Soße
+15
+18
+25.89
+13.0
+TotalPrice
+622.35
+Page 1
+ 
+ 

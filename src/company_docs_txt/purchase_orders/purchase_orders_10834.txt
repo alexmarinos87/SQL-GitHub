@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10834
+2018-01-15
+Anabela Domingues
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+30
+Thüringer Rostbratwurst
+Nord-Ost Matjeshering
+8
+20
+123.79
+25.89
+Page 1

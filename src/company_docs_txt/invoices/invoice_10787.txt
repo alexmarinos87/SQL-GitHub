@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10787
+Customer ID: LAMAI
+Order Date: 2017-12-19
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+29
+Chang
+Thüringer Rostbratwurst
+15
+20
+TotalPrice
+19.0
+123.79
+2760.8
+Page 1
+ 
+ 

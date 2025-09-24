@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10837
+2018-01-16
+Christina Berglund
+Products
+Product ID:
+13
+40
+47
+76
+Product:
+Konbu
+Boston Crab Meat
+Zaanse koeken
+Lakkalikööri
+Quantity:
+Unit Price:
+6
+25
+40
+21
+6
+18.4
+9.5
+18
+Page 1

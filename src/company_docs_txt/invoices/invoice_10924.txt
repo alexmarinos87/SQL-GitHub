@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10924
+Customer ID: BERGS
+Order Date: 2018-03-04
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+28
+75
+Ikura
+Rössle Sauerkraut
+Rhönbräu Klosterbier
+20
+30
+6
+31.0
+45.6
+7.75
+TotalPrice
+2034.5
+Page 1
+ 
+ 

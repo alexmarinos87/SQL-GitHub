@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10476
+Customer ID: HILAA
+Order Date: 2017-03-17
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+70
+Pâté chinois
+Outback Lager
+2
+12
+19.2
+12.0
+TotalPrice
+182.4
+Page 1
+ 
+ 

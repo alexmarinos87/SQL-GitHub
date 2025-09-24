@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10277
+2016-08-09
+Alexander Feuer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+62
+Rössle Sauerkraut
+Tarte au sucre
+20
+12
+36.4
+39.4
+Page 1

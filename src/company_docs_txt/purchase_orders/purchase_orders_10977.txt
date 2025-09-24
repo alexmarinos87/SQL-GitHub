@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10977
+2018-03-26
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+47
+51
+63
+Chartreuse verte
+Zaanse koeken
+Manjimup Dried Apples
+Vegie-spread
+30
+30
+10
+20
+18
+9.5
+53
+43.9
+Page 1

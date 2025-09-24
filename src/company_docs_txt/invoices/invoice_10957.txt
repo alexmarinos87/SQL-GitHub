@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10957
+Customer ID: HILAA
+Order Date: 2018-03-18
+Customer Details:
+Contact Name:
+Carlos Hernández
+Address:
+City:
+Carrera 22 con Ave. Carlos Soublette #8-35
+San Cristóbal
+Postal Code:
+5022
+Country:
+Phone:
+Fax:
+Venezuela
+(5) 555-1340
+(5) 555-1948
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+35
+64
+Nord-Ost Matjeshering
+Steeleye Stout
+Wimmers gute Semmelknödel
+30
+40
+8
+25.89
+18.0
+33.25
+TotalPrice
+1762.7
+Page 1
+ 
+ 

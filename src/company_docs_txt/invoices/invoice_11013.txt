@@ -1,0 +1,45 @@
+Invoice
+Order ID: 11013
+Customer ID: ROMEY
+Order Date: 2018-04-09
+Customer Details:
+Contact Name:
+Alejandra Camino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Gran Vía, 1
+Madrid
+28001
+Spain
+(91) 745 6200
+(91) 745 6210
+Product ID
+Product Name
+Quantity
+Unit Price
+23
+42
+45
+68
+Tunnbröd
+Singaporean Hokkien Fried Mee
+Rogede sild
+Scottish Longbreads
+10
+4
+20
+2
+9.0
+14.0
+9.5
+12.5
+TotalPrice
+361.0
+Page 1
+ 
+ 

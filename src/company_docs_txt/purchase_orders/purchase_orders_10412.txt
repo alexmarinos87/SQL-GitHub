@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10412
+2017-01-13
+Pirkko Koskitalo
+Products
+Product ID:
+14
+Product:
+Tofu
+Quantity:
+Unit Price:
+20
+18.6
+Page 1

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10533
+2017-05-12
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+72
+73
+Chef Anton's Cajun Seasoning
+Mozzarella di Giovanni
+Röd Kaviar
+50
+24
+24
+22
+34.8
+15
+Page 1

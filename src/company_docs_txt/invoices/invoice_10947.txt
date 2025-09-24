@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10947
+Customer ID: BSBEV
+Order Date: 2018-03-13
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+Raclette Courdavault
+4
+TotalPrice
+55.0
+220.0
+Page 1
+ 
+ 

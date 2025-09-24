@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10972
+2018-03-24
+Daniel Tonini
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+33
+Alice Mutton
+Geitost
+6
+7
+39
+2.5
+Page 1

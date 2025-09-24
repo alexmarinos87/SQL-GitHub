@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10698
+Customer ID: ERNSH
+Order Date: 2017-10-09
+Customer Details:
+Contact Name:
+Roland Mendel
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Kirchgasse 6
+Graz
+8010
+Austria
+7675-3425
+7675-3426
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+17
+29
+65
+70
+Queso Cabrales
+Alice Mutton
+Thüringer Rostbratwurst
+Louisiana Fiery Hot Pepper Sauce
+Outback Lager
+15
+8
+12
+65
+8
+21.0
+39.0
+123.79
+21.05
+15.0
+TotalPrice
+3600.73
+Page 1
+ 
+ 

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10478
+2017-03-18
+Mary Saveley
+Products
+Product ID:
+10
+Product:
+Ikura
+Quantity:
+Unit Price:
+20
+24.8
+Page 1

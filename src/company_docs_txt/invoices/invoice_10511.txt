@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10511
+Customer ID: BONAP
+Order Date: 2017-04-18
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+7
+8
+Chef Anton's Cajun Seasoning
+Uncle Bob's Organic Dried Pears
+Northwoods Cranberry Sauce
+50
+50
+10
+22.0
+30.0
+40.0
+TotalPrice
+3000.0
+Page 1
+ 
+ 

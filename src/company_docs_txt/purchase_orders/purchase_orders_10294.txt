@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10294
+2016-08-30
+Paula Wilson
+Products
+Product ID:
+1
+17
+43
+60
+75
+Product:
+Chai
+Alice Mutton
+Ipoh Coffee
+Camembert Pierrot
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+18
+15
+15
+21
+6
+14.4
+31.2
+36.8
+27.2
+6.2
+Page 1

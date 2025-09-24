@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10864
+2018-02-02
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+67
+Steeleye Stout
+Laughing Lumberjack Lager
+4
+15
+18
+14
+Page 1

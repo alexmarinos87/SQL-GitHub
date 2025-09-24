@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10804
+2017-12-30
+Hari Kumar
+Products
+Product ID:
+10
+28
+49
+Product:
+Ikura
+Rössle Sauerkraut
+Maxilaku
+Quantity:
+Unit Price:
+36
+24
+4
+31
+45.6
+20
+Page 1

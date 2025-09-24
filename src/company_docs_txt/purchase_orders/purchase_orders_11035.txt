@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11035
+2018-04-20
+Pascale Cartrain
+Products
+Product:
+Chai
+Steeleye Stout
+Singaporean Hokkien Fried Mee
+Tourtière
+Product ID:
+1
+35
+42
+54
+Quantity:
+Unit Price:
+10
+60
+30
+10
+18
+18
+14
+7.45
+Page 1

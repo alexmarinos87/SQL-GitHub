@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10817
+2018-01-06
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+38
+40
+62
+Gumbär Gummibärchen
+Côte de Blaye
+Boston Crab Meat
+Tarte au sucre
+40
+30
+60
+25
+31.23
+263.5
+18.4
+49.3
+Page 1

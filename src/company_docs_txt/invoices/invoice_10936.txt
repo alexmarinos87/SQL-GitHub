@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10936
+Customer ID: GREAL
+Order Date: 2018-03-09
+Customer Details:
+Contact Name:
+Howard Snyder
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2732 Baker Blvd.
+Eugene
+97403
+USA
+(503) 555-7555
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+Inlagd Sill
+30
+TotalPrice
+19.0
+570.0
+Page 1
+ 
+ 

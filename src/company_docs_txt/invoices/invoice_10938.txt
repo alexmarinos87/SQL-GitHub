@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10938
+Customer ID: QUICK
+Order Date: 2018-03-10
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+43
+60
+71
+Konbu
+Ipoh Coffee
+Camembert Pierrot
+Flotemysost
+20
+24
+49
+35
+6.0
+46.0
+34.0
+21.5
+TotalPrice
+3642.5
+Page 1
+ 
+ 

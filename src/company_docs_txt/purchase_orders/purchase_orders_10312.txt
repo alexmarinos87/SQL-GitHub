@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10312
+2016-09-23
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+43
+53
+75
+Rössle Sauerkraut
+Ipoh Coffee
+Perth Pasties
+Rhönbräu Klosterbier
+4
+24
+20
+10
+36.4
+36.8
+26.2
+6.2
+Page 1

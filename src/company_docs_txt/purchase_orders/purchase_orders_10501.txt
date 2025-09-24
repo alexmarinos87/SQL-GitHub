@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10501
+2017-04-09
+Hanna Moos
+Products
+Product ID:
+54
+Product:
+Tourtière
+Quantity:
+Unit Price:
+20
+7.45
+Page 1

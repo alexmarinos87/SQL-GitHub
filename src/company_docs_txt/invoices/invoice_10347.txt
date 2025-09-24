@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10347
+Customer ID: FAMIA
+Order Date: 2016-11-06
+Customer Details:
+Contact Name:
+Aria Cruz
+Address:
+City:
+Rua Orós, 92
+Sao Paulo
+Postal Code:
+05442-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9857
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+25
+39
+40
+75
+NuNuCa Nuß-Nougat-Creme
+Chartreuse verte
+Boston Crab Meat
+Rhönbräu Klosterbier
+10
+50
+4
+6
+11.2
+14.4
+14.7
+6.2
+TotalPrice
+928.0
+Page 1
+ 
+ 

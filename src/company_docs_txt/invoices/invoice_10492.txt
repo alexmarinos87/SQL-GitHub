@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10492
+Customer ID: BOTTM
+Order Date: 2017-04-01
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+25
+42
+NuNuCa Nuﬂ-Nougat-Creme
+Singaporean Hokkien Fried Mee
+60
+20
+11.2
+11.2
+TotalPrice
+896.0
+Page 1
+ 
+ 

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10415
+2017-01-15
+Yoshi Latimer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+33
+Alice Mutton
+Geitost
+2
+20
+31.2
+2
+Page 1

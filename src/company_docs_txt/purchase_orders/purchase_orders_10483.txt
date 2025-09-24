@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10483
+2017-03-24
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+34
+77
+Sasquatch Ale
+Original Frankfurter grüne Soße
+35
+30
+11.2
+10.4
+Page 1

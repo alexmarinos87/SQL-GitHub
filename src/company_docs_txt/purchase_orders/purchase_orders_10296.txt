@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10296
+2016-09-03
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+16
+69
+Queso Cabrales
+Pavlova
+Gudbrandsdalsost
+12
+30
+15
+16.8
+13.9
+28.8
+Page 1

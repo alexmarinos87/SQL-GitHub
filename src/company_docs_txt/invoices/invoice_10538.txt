@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10538
+Customer ID: BSBEV
+Order Date: 2017-05-15
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+70
+72
+Outback Lager
+Mozzarella di Giovanni
+7
+1
+15.0
+34.8
+TotalPrice
+139.8
+Page 1
+ 
+ 

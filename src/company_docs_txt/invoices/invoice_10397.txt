@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10397
+Customer ID: PRINI
+Order Date: 2016-12-27
+Customer Details:
+Contact Name:
+Isabel de Castro
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Estrada da saúde n. 58
+Lisboa
+1756
+Portugal
+(1) 356-5634
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+51
+Sir Rodney's Scones
+Manjimup Dried Apples
+10
+18
+8.0
+42.4
+TotalPrice
+843.1999999999999
+Page 1
+ 
+ 

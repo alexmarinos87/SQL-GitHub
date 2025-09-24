@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10878
+Customer ID: QUICK
+Order Date: 2018-02-10
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+Sir Rodney's Marmalade
+20
+81.0
+TotalPrice
+1620.0
+Page 1
+ 
+ 

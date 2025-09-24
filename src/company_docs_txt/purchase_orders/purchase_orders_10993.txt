@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10993
+2018-04-01
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+41
+Thüringer Rostbratwurst
+Jack's New England Clam Chowder
+50
+35
+123.79
+9.65
+Page 1

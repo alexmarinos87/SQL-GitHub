@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10354
+2016-11-14
+Guillermo Fernández
+Products
+Product ID:
+1
+29
+Product:
+Chai
+Thüringer Rostbratwurst
+Quantity:
+Unit Price:
+12
+4
+14.4
+99
+Page 1

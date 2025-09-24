@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10479
+Customer ID: RATTC
+Order Date: 2017-03-19
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+38
+53
+59
+64
+Côte de Blaye
+Perth Pasties
+Raclette Courdavault
+Wimmers gute Semmelknödel
+30
+28
+60
+30
+210.8
+26.2
+44.0
+26.6
+TotalPrice
+10495.6
+Page 1
+ 
+ 

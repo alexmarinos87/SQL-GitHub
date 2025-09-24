@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11072
+2018-05-05
+Roland Mendel
+Products
+Product ID:
+2
+41
+50
+64
+Product:
+Chang
+Jack's New England Clam Chowder
+Valkoinen suklaa
+Wimmers gute Semmelknödel
+Quantity:
+Unit Price:
+8
+40
+22
+130
+19
+9.65
+16.25
+33.25
+Page 1

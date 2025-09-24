@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10433
+Customer ID: PRINI
+Order Date: 2017-02-03
+Customer Details:
+Contact Name:
+Isabel de Castro
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Estrada da saúde n. 58
+Lisboa
+1756
+Portugal
+(1) 356-5634
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+Gnocchi di nonna Alice
+28
+30.4
+TotalPrice
+851.1999999999999
+Page 1
+ 
+ 

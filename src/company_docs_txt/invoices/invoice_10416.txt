@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10416
+Customer ID: WARTH
+Order Date: 2017-01-16
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+53
+57
+Teatime Chocolate Biscuits
+Perth Pasties
+Ravioli Angelo
+20
+10
+20
+7.3
+26.2
+15.6
+TotalPrice
+720.0
+Page 1
+ 
+ 

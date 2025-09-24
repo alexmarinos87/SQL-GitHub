@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10810
+Customer ID: LAUGB
+Order Date: 2018-01-01
+Customer Details:
+Contact Name:
+Yoshi Tannamuri
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1900 Oak St.
+Vancouver
+V3F 2K1
+Canada
+(604) 555-3392
+(604) 555-7293
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+25
+70
+Konbu
+NuNuCa Nuﬂ-Nougat-Creme
+Outback Lager
+7
+5
+5
+6.0
+14.0
+15.0
+TotalPrice
+187.0
+Page 1
+ 
+ 

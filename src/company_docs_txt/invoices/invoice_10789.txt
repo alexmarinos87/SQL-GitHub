@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10789
+Customer ID: FOLIG
+Order Date: 2017-12-22
+Customer Details:
+Contact Name:
+Martine Rancé
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+184, chaussée de Tournai
+Lille
+59000
+France
+20.16.10.16
+20.16.10.17
+Product ID
+Product Name
+Quantity
+Unit Price
+18
+35
+63
+68
+Carnarvon Tigers
+Steeleye Stout
+Vegie-spread
+Scottish Longbreads
+30
+15
+30
+18
+62.5
+18.0
+43.9
+12.5
+TotalPrice
+3687.0
+Page 1
+ 
+ 

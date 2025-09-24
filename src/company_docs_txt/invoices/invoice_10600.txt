@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10600
+Customer ID: HUNGC
+Order Date: 2017-07-16
+Customer Details:
+Contact Name:
+Yoshi Latimer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+City Center Plaza 516 Main St.
+Elgin
+97827
+USA
+(503) 555-6874
+(503) 555-2376
+Product ID
+Product Name
+Quantity
+Unit Price
+54
+73
+Tourtière
+Röd Kaviar
+4
+30
+7.45
+15.0
+TotalPrice
+479.8
+Page 1
+ 
+ 

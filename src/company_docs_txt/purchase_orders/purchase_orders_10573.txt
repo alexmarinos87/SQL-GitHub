@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10573
+2017-06-19
+Antonio Moreno
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+34
+53
+Alice Mutton
+Sasquatch Ale
+Perth Pasties
+18
+40
+25
+39
+14
+32.8
+Page 1

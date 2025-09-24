@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10677
+Customer ID: ANTON
+Order Date: 2017-09-22
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+33
+Gumbär Gummibärchen
+Geitost
+30
+8
+TotalPrice
+31.23
+2.5
+956.9
+Page 1
+ 
+ 

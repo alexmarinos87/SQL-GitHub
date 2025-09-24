@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10455
+Customer ID: WARTH
+Order Date: 2017-02-24
+Customer Details:
+Contact Name:
+Pirkko Koskitalo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Torikatu 38
+Oulu
+90110
+Finland
+981-443655
+981-443655
+Product ID
+Product Name
+Quantity
+Unit Price
+39
+53
+61
+71
+Chartreuse verte
+Perth Pasties
+Sirop d'érable
+Flotemysost
+20
+50
+25
+30
+14.4
+26.2
+22.8
+17.2
+TotalPrice
+2684.0
+Page 1
+ 
+ 

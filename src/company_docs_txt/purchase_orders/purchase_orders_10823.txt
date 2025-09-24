@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10823
+2018-01-09
+Carlos González
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+57
+59
+77
+Queso Cabrales
+Ravioli Angelo
+Raclette Courdavault
+Original Frankfurter grüne Soße
+20
+15
+40
+15
+21
+19.5
+55
+13
+Page 1

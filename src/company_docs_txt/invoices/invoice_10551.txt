@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10551
+Customer ID: FURIB
+Order Date: 2017-05-28
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+35
+44
+Pavlova
+Steeleye Stout
+Gula Malacca
+40
+20
+40
+17.45
+18.0
+19.45
+TotalPrice
+1836.0
+Page 1
+ 
+ 

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10965
+2018-03-20
+Rene Phillips
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+51
+Manjimup Dried Apples
+16
+53
+Page 1

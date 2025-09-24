@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10453
+2017-02-21
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+48
+70
+Chocolade
+Outback Lager
+15
+25
+10.2
+12
+Page 1

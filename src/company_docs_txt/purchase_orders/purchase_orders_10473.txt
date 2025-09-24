@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10473
+2017-03-13
+Helen Bennett
+Products
+Product ID:
+33
+71
+Product:
+Geitost
+Flotemysost
+Quantity:
+Unit Price:
+12
+12
+2
+17.2
+Page 1

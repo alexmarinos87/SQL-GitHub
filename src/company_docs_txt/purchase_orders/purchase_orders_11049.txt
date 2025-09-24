@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11049
+2018-04-24
+André Fonseca
+Products
+Product ID:
+2
+12
+Product:
+Chang
+Queso Manchego La Pastora
+Quantity:
+Unit Price:
+10
+4
+19
+38
+Page 1

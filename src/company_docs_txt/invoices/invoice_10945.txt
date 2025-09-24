@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10945
+Customer ID: MORGK
+Order Date: 2018-03-12
+Customer Details:
+Contact Name:
+Alexander Feuer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Heerstr. 22
+Leipzig
+04179
+Germany
+0342-023176
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+31
+Konbu
+Gorgonzola Telino
+20
+10
+6.0
+12.5
+TotalPrice
+245.0
+Page 1
+ 
+ 

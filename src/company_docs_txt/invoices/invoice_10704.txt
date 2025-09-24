@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10704
+Customer ID: QUEEN
+Order Date: 2017-10-14
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+24
+48
+Chef Anton's Cajun Seasoning
+Guaraná Fantástica
+Chocolade
+6
+35
+24
+TotalPrice
+22.0
+4.5
+12.75
+595.5
+Page 1
+ 
+ 

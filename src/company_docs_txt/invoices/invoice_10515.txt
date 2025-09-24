@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10515
+Customer ID: QUICK
+Order Date: 2017-04-23
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+9
+16
+27
+33
+60
+Mishi Kobe Niku
+Pavlova
+Schoggi Schokolade
+Geitost
+Camembert Pierrot
+16
+50
+120
+16
+84
+97.0
+17.45
+43.9
+2.5
+34.0
+TotalPrice
+10588.5
+Page 1
+ 
+ 

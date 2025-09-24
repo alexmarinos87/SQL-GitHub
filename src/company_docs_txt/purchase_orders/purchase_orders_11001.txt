@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11001
+2018-04-06
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+22
+46
+55
+Uncle Bob's Organic Dried Pears
+Gustaf's Knäckebröd
+Spegesild
+Pâté chinois
+60
+25
+25
+6
+30
+21
+12
+24
+Page 1

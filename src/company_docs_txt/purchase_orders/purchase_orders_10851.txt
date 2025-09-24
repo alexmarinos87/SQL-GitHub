@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10851
+2018-01-26
+Janete Limeira
+Products
+Product:
+Chang
+NuNuCa Nuﬂ-Nougat-Creme
+Ravioli Angelo
+Raclette Courdavault
+Product ID:
+2
+25
+57
+59
+Quantity:
+Unit Price:
+5
+10
+10
+42
+19
+14
+19.5
+55
+Page 1

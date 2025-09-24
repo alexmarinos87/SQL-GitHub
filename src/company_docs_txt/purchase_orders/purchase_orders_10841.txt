@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10841
+2018-01-20
+Pascale Cartrain
+Products
+Product:
+Ikura
+Gnocchi di nonna Alice
+Raclette Courdavault
+Original Frankfurter grüne Soße
+Product ID:
+10
+56
+59
+77
+Quantity:
+Unit Price:
+16
+30
+50
+15
+31
+38
+55
+13
+Page 1

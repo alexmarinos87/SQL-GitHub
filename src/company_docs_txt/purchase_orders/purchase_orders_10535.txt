@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10535
+2017-05-13
+Antonio Moreno
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+40
+57
+59
+Queso Cabrales
+Boston Crab Meat
+Ravioli Angelo
+Raclette Courdavault
+50
+10
+5
+15
+21
+18.4
+19.5
+55
+Page 1

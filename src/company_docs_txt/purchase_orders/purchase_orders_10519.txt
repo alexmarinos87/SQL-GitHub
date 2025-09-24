@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10519
+2017-04-28
+Yang Wang
+Products
+Product ID:
+10
+56
+60
+Product:
+Ikura
+Gnocchi di nonna Alice
+Camembert Pierrot
+Quantity:
+Unit Price:
+16
+40
+10
+31
+38
+34
+Page 1

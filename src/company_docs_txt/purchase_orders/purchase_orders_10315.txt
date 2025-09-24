@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10315
+2016-09-26
+Helen Bennett
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+34
+70
+Sasquatch Ale
+Outback Lager
+14
+30
+11.2
+12
+Page 1

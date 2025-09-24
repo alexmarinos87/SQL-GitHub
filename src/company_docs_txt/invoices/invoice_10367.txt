@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10367
+Customer ID: VAFFE
+Order Date: 2016-11-28
+Customer Details:
+Contact Name:
+Palle Ibsen
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Smagsloget 45
+Århus
+8200
+Denmark
+86 21 32 43
+86 22 33 44
+Product ID
+Product Name
+Quantity
+Unit Price
+34
+54
+65
+77
+Sasquatch Ale
+Tourtière
+Louisiana Fiery Hot Pepper Sauce
+Original Frankfurter grüne Soße
+36
+18
+15
+7
+11.2
+5.9
+16.8
+10.4
+TotalPrice
+834.1999999999999
+Page 1
+ 
+ 

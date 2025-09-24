@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10755
+Customer ID: BONAP
+Order Date: 2017-11-26
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+56
+57
+69
+Zaanse koeken
+Gnocchi di nonna Alice
+Ravioli Angelo
+Gudbrandsdalsost
+30
+30
+14
+25
+9.5
+38.0
+19.5
+36.0
+TotalPrice
+2598.0
+Page 1
+ 
+ 

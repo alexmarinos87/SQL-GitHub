@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10775
+2017-12-12
+Liu Wong
+Products
+Product ID:
+10
+67
+Product:
+Ikura
+Laughing Lumberjack Lager
+Quantity:
+Unit Price:
+6
+3
+31
+14
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10793
+2017-12-24
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+52
+Jack's New England Clam Chowder
+Filo Mix
+14
+8
+9.65
+7
+Page 1

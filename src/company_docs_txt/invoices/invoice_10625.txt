@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10625
+Customer ID: ANATR
+Order Date: 2017-08-08
+Customer Details:
+Contact Name:
+Ana Trujillo
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. de la Constitución 2222
+México D.F.
+05021
+Mexico
+(5) 555-4729
+(5) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+42
+60
+Tofu
+Singaporean Hokkien Fried Mee
+Camembert Pierrot
+3
+5
+10
+23.25
+14.0
+34.0
+TotalPrice
+479.75
+Page 1
+ 
+ 

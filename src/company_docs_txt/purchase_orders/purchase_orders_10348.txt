@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10348
+2016-11-07
+Rita Müller
+Products
+Product ID:
+1
+23
+Product:
+Chai
+Tunnbröd
+Quantity:
+Unit Price:
+15
+25
+14.4
+7.2
+Page 1

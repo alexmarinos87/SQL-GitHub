@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10759
+2017-11-28
+Ana Trujillo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+32
+Mascarpone Fabioli
+10
+32
+Page 1

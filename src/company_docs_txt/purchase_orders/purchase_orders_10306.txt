@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10306
+2016-09-16
+Alejandra Camino
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+53
+54
+Nord-Ost Matjeshering
+Perth Pasties
+Tourtière
+10
+10
+5
+20.7
+26.2
+5.9
+Page 1

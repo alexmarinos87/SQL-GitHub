@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10877
+2018-02-09
+Janete Limeira
+Products
+Product ID:
+16
+18
+Product:
+Pavlova
+Carnarvon Tigers
+Quantity:
+Unit Price:
+30
+25
+17.45
+62.5
+Page 1

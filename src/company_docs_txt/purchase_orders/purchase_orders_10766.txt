@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10766
+2017-12-05
+Henriette Pfalzheim
+Products
+Product ID:
+2
+7
+68
+Product:
+Chang
+Uncle Bob's Organic Dried Pears
+Scottish Longbreads
+Quantity:
+Unit Price:
+40
+35
+40
+19
+30
+12.5
+Page 1

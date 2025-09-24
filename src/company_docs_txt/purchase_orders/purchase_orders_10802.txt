@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10802
+2017-12-29
+Jytte Petersen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+51
+55
+62
+Nord-Ost Matjeshering
+Manjimup Dried Apples
+Pâté chinois
+Tarte au sucre
+25
+30
+60
+5
+25.89
+53
+24
+49.3
+Page 1

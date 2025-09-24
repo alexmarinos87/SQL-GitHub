@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10659
+2017-09-05
+Lúcia Carvalho
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+40
+70
+Gorgonzola Telino
+Boston Crab Meat
+Outback Lager
+20
+24
+40
+12.5
+18.4
+15
+Page 1

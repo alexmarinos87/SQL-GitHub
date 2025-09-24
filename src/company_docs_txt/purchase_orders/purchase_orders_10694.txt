@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10694
+2017-10-06
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+59
+70
+Uncle Bob's Organic Dried Pears
+Raclette Courdavault
+Outback Lager
+90
+25
+50
+30
+55
+15
+Page 1

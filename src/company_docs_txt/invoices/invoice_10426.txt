@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10426
+Customer ID: GALED
+Order Date: 2017-01-27
+Customer Details:
+Contact Name:
+Eduardo Saavedra
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rambla de Cataluña, 23
+Barcelona
+08022
+Spain
+(93) 203 4560
+(93) 203 4561
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+64
+Gnocchi di nonna Alice
+Wimmers gute Semmelknödel
+5
+7
+30.4
+26.6
+TotalPrice
+338.20000000000005
+Page 1
+ 
+ 

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10969
+2018-03-23
+Pedro Afonso
+Products
+Product ID:
+46
+Product:
+Spegesild
+Quantity:
+Unit Price:
+9
+12
+Page 1

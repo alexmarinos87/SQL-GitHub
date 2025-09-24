@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10425
+Customer ID: LAMAI
+Order Date: 2017-01-24
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+76
+Pâté chinois
+Lakkalikööri
+10
+20
+19.2
+14.4
+TotalPrice
+480.0
+Page 1
+ 
+ 

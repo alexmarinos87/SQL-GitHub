@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10835
+2018-01-15
+Maria Anders
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+77
+Raclette Courdavault
+Original Frankfurter grüne Soße
+15
+2
+55
+13
+Page 1

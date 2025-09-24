@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10577
+2017-06-23
+Helvetius Nagy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+75
+77
+Chartreuse verte
+Rhönbräu Klosterbier
+Original Frankfurter grüne Soße
+10
+20
+18
+18
+7.75
+13
+Page 1

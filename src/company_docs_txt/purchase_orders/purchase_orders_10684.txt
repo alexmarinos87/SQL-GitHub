@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10684
+2017-09-26
+Henriette Pfalzheim
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+47
+60
+Boston Crab Meat
+Zaanse koeken
+Camembert Pierrot
+20
+40
+30
+18.4
+9.5
+34
+Page 1

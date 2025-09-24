@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10900
+2018-02-20
+Paula Parente
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+70
+Outback Lager
+3
+15
+Page 1

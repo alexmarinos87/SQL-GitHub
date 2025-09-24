@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10327
+2016-10-11
+Maria Larsson
+Products
+Product:
+Chang
+Queso Cabrales
+Nord-Ost Matjeshering
+Escargots de Bourgogne
+Product ID:
+2
+11
+30
+58
+Quantity:
+Unit Price:
+25
+50
+35
+30
+15.2
+16.8
+20.7
+10.6
+Page 1

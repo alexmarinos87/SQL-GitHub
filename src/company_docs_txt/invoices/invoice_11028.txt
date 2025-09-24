@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11028
+Customer ID: KOENE
+Order Date: 2018-04-16
+Customer Details:
+Contact Name:
+Philip Cramer
+Address:
+City:
+Maubelstr. 90
+Brandenburg
+Postal Code:
+14776
+Country:
+Phone:
+Fax:
+Germany
+0555-09876
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+55
+59
+Pâté chinois
+Raclette Courdavault
+35
+24
+24.0
+55.0
+TotalPrice
+2160.0
+Page 1
+ 
+ 

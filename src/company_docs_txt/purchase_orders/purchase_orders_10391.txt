@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10391
+2016-12-23
+Sven Ottlieb
+Products
+Product ID:
+13
+Product:
+Konbu
+Quantity:
+Unit Price:
+18
+4.8
+Page 1

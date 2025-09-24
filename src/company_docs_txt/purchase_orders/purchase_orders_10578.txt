@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10578
+2017-06-24
+Victoria Ashworth
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+57
+Steeleye Stout
+Ravioli Angelo
+20
+6
+18
+19.5
+Page 1

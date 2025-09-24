@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10575
+2017-06-20
+Alexander Feuer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+63
+72
+76
+Raclette Courdavault
+Vegie-spread
+Mozzarella di Giovanni
+Lakkalikööri
+12
+6
+30
+10
+55
+43.9
+34.8
+18
+Page 1

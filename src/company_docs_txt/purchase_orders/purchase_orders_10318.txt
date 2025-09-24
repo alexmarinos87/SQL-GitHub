@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10318
+2016-10-01
+Helen Bennett
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+76
+Jack's New England Clam Chowder
+Lakkalikööri
+20
+6
+7.7
+14.4
+Page 1

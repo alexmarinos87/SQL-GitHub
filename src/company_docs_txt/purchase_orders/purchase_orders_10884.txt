@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10884
+2018-02-12
+Jaime Yorres
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+56
+65
+Sir Rodney's Scones
+Gnocchi di nonna Alice
+Louisiana Fiery Hot Pepper Sauce
+40
+21
+12
+10
+38
+21.05
+Page 1

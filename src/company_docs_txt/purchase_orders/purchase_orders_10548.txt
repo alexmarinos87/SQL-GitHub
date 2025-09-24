@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10548
+2017-05-26
+Karin Josephs
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+34
+41
+Sasquatch Ale
+Jack's New England Clam Chowder
+10
+14
+14
+9.65
+Page 1

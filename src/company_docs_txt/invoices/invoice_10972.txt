@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10972
+Customer ID: LACOR
+Order Date: 2018-03-24
+Customer Details:
+Contact Name:
+Daniel Tonini
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+67, avenue de l'Europe
+Versailles
+78000
+France
+30.59.84.10
+30.59.85.11
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+33
+Alice Mutton
+Geitost
+6
+7
+39.0
+2.5
+TotalPrice
+251.5
+Page 1
+ 
+ 

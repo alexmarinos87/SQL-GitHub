@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10940
+Customer ID: BONAP
+Order Date: 2018-03-11
+Customer Details:
+Contact Name:
+Laurence Lebihan
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+12, rue des Bouchers
+Marseille
+13008
+France
+91.24.45.40
+91.24.45.41
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+13
+Uncle Bob's Organic Dried Pears
+Konbu
+8
+20
+30.0
+6.0
+TotalPrice
+360.0
+Page 1
+ 
+ 

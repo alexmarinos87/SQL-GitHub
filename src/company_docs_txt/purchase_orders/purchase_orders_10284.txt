@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10284
+2016-08-19
+Renate Messner
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+27
+44
+60
+67
+Schoggi Schokolade
+Gula Malacca
+Camembert Pierrot
+Laughing Lumberjack Lager
+15
+21
+20
+5
+35.1
+15.5
+27.2
+11.2
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10271
+2016-08-01
+Art Braunschweiger
+Products
+Product ID:
+33
+Product:
+Geitost
+Quantity:
+Unit Price:
+24
+2
+Page 1

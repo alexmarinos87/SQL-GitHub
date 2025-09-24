@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10393
+Customer ID: SAVEA
+Order Date: 2016-12-25
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+14
+25
+26
+31
+Chang
+Tofu
+NuNuCa Nuﬂ-Nougat-Creme
+Gumb‰r Gummib‰rchen
+Gorgonzola Telino
+25
+42
+7
+70
+32
+15.2
+18.6
+11.2
+24.9
+10.0
+TotalPrice
+3302.6000000000004
+Page 1
+ 
+ 

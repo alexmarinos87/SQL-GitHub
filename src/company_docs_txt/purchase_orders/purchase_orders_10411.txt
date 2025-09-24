@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10411
+2017-01-10
+Elizabeth Lincoln
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+44
+59
+Jack's New England Clam Chowder
+Gula Malacca
+Raclette Courdavault
+25
+40
+9
+7.7
+15.5
+44
+Page 1

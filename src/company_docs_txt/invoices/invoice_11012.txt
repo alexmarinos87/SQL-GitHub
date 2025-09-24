@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11012
+Customer ID: FRANK
+Order Date: 2018-04-09
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+19
+60
+71
+Teatime Chocolate Biscuits
+Camembert Pierrot
+Flotemysost
+50
+36
+60
+9.2
+34.0
+21.5
+TotalPrice
+2974.0
+Page 1
+ 
+ 

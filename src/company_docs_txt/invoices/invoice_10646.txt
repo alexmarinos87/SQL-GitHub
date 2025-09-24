@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10646
+Customer ID: HUNGO
+Order Date: 2017-08-27
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+10
+71
+77
+Chai
+Ikura
+Flotemysost
+Original Frankfurter grüne Soße
+15
+18
+30
+35
+18.0
+31.0
+21.5
+13.0
+TotalPrice
+1928.0
+Page 1
+ 
+ 

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10950
+2018-03-16
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+Chef Anton's Cajun Seasoning
+5
+22
+Page 1

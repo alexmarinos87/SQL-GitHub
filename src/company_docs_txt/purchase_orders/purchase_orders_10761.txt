@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10761
+2017-12-02
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+75
+NuNuCa Nuß-Nougat-Creme
+Rhönbräu Klosterbier
+35
+18
+14
+7.75
+Page 1

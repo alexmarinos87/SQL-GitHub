@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10482
+2017-03-21
+John Steel
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+Boston Crab Meat
+10
+14.7
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10723
+2017-10-30
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+Gumbär Gummibärchen
+15
+31.23
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10774
+2017-12-11
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+66
+Gorgonzola Telino
+Louisiana Hot Spiced Okra
+2
+50
+12.5
+17
+Page 1

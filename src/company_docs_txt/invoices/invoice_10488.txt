@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10488
+Customer ID: FRANK
+Order Date: 2017-03-27
+Customer Details:
+Contact Name:
+Peter Franken
+Address:
+City:
+Berliner Platz 43
+München
+Postal Code:
+80805
+Country:
+Phone:
+Fax:
+Germany
+089-0877310
+089-0877451
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+73
+Raclette Courdavault
+Röd Kaviar
+30
+20
+44.0
+12.0
+TotalPrice
+1560.0
+Page 1
+ 
+ 

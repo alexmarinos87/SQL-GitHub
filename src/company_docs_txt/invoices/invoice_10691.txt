@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10691
+Customer ID: QUICK
+Order Date: 2017-10-03
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraße 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+29
+43
+44
+62
+Chai
+Thüringer Rostbratwurst
+Ipoh Coffee
+Gula Malacca
+Tarte au sucre
+30
+40
+40
+24
+48
+18.0
+123.79
+46.0
+19.45
+49.3
+TotalPrice
+10164.8
+Page 1
+ 
+ 

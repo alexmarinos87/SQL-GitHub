@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10797
+2017-12-25
+Sven Ottlieb
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+Queso Cabrales
+20
+21
+Page 1

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10279
+Customer ID: LEHMS
+Order Date: 2016-08-13
+Customer Details:
+Contact Name:
+Renate Messner
+Address:
+City:
+Magazinweg 7
+Frankfurt a.M.
+Postal Code:
+60528
+Country:
+Phone:
+Fax:
+Germany
+069-0245984
+069-0245874
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+Alice Mutton
+15
+TotalPrice
+31.2
+468.0
+Page 1
+ 
+ 

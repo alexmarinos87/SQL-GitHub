@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10280
+2016-08-14
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+55
+75
+Guaraná Fantástica
+Pâté chinois
+Rhönbräu Klosterbier
+12
+20
+30
+3.6
+19.2
+6.2
+Page 1

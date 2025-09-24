@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10522
+2017-04-30
+Renate Messner
+Products
+Product:
+Chai
+Northwoods Cranberry Sauce
+Nord-Ost Matjeshering
+Boston Crab Meat
+Product ID:
+1
+8
+30
+40
+Quantity:
+Unit Price:
+40
+24
+20
+25
+18
+40
+25.89
+18.4
+Page 1

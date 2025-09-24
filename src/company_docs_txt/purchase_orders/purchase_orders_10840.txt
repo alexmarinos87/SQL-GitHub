@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10840
+2018-01-19
+Felipe Izquierdo
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+39
+NuNuCa Nuﬂ-Nougat-Creme
+Chartreuse verte
+6
+10
+14
+18
+Page 1

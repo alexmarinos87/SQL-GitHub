@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10669
+2017-09-15
+Jytte Petersen
+Products
+Product ID:
+36
+Product:
+Inlagd Sill
+Quantity:
+Unit Price:
+30
+19
+Page 1

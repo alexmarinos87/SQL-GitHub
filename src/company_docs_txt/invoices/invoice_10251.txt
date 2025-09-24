@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10251
+Customer ID: VICTE
+Order Date: 2016-07-08
+Customer Details:
+Contact Name:
+Mary Saveley
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2, rue du Commerce
+Lyon
+69004
+France
+78.32.54.86
+78.32.54.87
+Product ID
+Product Name
+Quantity
+Unit Price
+22
+57
+65
+Gustaf's Knäckebröd
+Ravioli Angelo
+Louisiana Fiery Hot Pepper Sauce
+6
+15
+20
+16.8
+15.6
+16.8
+TotalPrice
+670.8
+Page 1
+ 
+ 

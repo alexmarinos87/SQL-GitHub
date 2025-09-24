@@ -1,0 +1,49 @@
+Invoice
+Order ID: 11021
+Customer ID: QUICK
+Order Date: 2018-04-14
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+20
+26
+51
+72
+Chang
+Sir Rodney's Marmalade
+Gumb‰r Gummib‰rchen
+Manjimup Dried Apples
+Mozzarella di Giovanni
+11
+15
+63
+44
+35
+19.0
+81.0
+31.23
+53.0
+34.8
+TotalPrice
+6941.49
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10594
+Customer ID: OLDWO
+Order Date: 2017-07-09
+Customer Details:
+Contact Name:
+Rene Phillips
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2743 Bering St.
+Anchorage
+99508
+USA
+(907) 555-7584
+(907) 555-2880
+Product ID
+Product Name
+Quantity
+Unit Price
+52
+58
+Filo Mix
+Escargots de Bourgogne
+24
+30
+TotalPrice
+7.0
+13.25
+565.5
+Page 1
+ 
+ 

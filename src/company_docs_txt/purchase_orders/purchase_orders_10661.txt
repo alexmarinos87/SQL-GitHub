@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10661
+2017-09-09
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+58
+Chartreuse verte
+Escargots de Bourgogne
+3
+49
+18
+13.25
+Page 1

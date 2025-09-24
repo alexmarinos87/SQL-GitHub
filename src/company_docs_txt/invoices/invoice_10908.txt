@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10908
+Customer ID: REGGC
+Order Date: 2018-02-26
+Customer Details:
+Contact Name:
+Maurizio Moroni
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Strada Provinciale 124
+Reggio Emilia
+42100
+Italy
+0522-556721
+0522-556722
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+52
+Uncle Bob's Organic Dried Pears
+Filo Mix
+20
+14
+30.0
+7.0
+TotalPrice
+698.0
+Page 1
+ 
+ 

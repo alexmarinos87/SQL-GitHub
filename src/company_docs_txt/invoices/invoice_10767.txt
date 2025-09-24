@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10767
+Customer ID: SUPRD
+Order Date: 2017-12-05
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+42
+Singaporean Hokkien Fried Mee
+2
+TotalPrice
+14.0
+28.0
+Page 1
+ 
+ 

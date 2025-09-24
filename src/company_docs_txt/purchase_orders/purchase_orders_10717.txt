@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10717
+2017-10-24
+Peter Franken
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+54
+69
+Sir Rodney's Scones
+Tourtière
+Gudbrandsdalsost
+32
+15
+25
+10
+7.45
+36
+Page 1

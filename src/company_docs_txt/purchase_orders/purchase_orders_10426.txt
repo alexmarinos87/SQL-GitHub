@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10426
+2017-01-27
+Eduardo Saavedra
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+56
+64
+Gnocchi di nonna Alice
+Wimmers gute Semmelknödel
+5
+7
+30.4
+26.6
+Page 1

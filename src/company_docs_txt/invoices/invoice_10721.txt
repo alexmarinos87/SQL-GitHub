@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10721
+Customer ID: QUICK
+Order Date: 2017-10-29
+Customer Details:
+Contact Name:
+Horst Kloss
+Address:
+City:
+Taucherstraﬂe 10
+Cunewalde
+Postal Code:
+01307
+Country:
+Phone:
+Fax:
+Germany
+0372-035188
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+44
+Gula Malacca
+50
+TotalPrice
+19.45
+972.5
+Page 1
+ 
+ 

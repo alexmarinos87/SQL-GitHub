@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10291
+Customer ID: QUEDE
+Order Date: 2016-08-27
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+44
+51
+Konbu
+Gula Malacca
+Manjimup Dried Apples
+20
+24
+2
+4.8
+15.5
+42.4
+TotalPrice
+552.8
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10650
+2017-08-29
+Aria Cruz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+53
+54
+Nord-Ost Matjeshering
+Perth Pasties
+Tourtière
+30
+25
+30
+25.89
+32.8
+7.45
+Page 1

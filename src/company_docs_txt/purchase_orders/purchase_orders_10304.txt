@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10304
+2016-09-12
+Miguel Angel Paolino
+Products
+Product ID:
+49
+59
+71
+Product:
+Maxilaku
+Raclette Courdavault
+Flotemysost
+Quantity:
+Unit Price:
+30
+10
+2
+16
+44
+17.2
+Page 1

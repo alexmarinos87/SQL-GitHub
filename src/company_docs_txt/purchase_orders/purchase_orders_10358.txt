@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10358
+2016-11-20
+Annette Roulet
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+34
+36
+Guaraná Fantástica
+Sasquatch Ale
+Inlagd Sill
+10
+10
+20
+3.6
+11.2
+15.2
+Page 1

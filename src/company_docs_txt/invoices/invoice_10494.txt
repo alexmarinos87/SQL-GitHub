@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10494
+Customer ID: COMMI
+Order Date: 2017-04-02
+Customer Details:
+Contact Name:
+Pedro Afonso
+Address:
+City:
+Av. dos Lusíadas, 23
+Sao Paulo
+Postal Code:
+05432-043
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-7647
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+56
+Gnocchi di nonna Alice
+30
+TotalPrice
+30.4
+912.0
+Page 1
+ 
+ 

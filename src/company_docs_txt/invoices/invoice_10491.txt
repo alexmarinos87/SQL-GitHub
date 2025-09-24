@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10491
+Customer ID: FURIB
+Order Date: 2017-03-31
+Customer Details:
+Contact Name:
+Lino Rodriguez
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Jardim das rosas n. 32
+Lisboa
+1675
+Portugal
+(1) 354-2534
+(1) 354-2535
+Product ID
+Product Name
+Quantity
+Unit Price
+44
+77
+Gula Malacca
+Original Frankfurter grüne Soße
+15
+7
+15.5
+10.4
+TotalPrice
+305.3
+Page 1
+ 
+ 

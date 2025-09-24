@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10274
+2016-08-06
+Paul Henriot
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+71
+72
+Flotemysost
+Mozzarella di Giovanni
+20
+7
+17.2
+27.8
+Page 1

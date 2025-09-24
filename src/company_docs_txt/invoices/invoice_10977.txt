@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10977
+Customer ID: FOLKO
+Order Date: 2018-03-26
+Customer Details:
+Contact Name:
+Maria Larsson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Åkergatan 24
+Bräcke
+S-844 67
+Sweden
+0695-34 67 21
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+39
+47
+51
+63
+Chartreuse verte
+Zaanse koeken
+Manjimup Dried Apples
+Vegie-spread
+30
+30
+10
+20
+18.0
+9.5
+53.0
+43.9
+TotalPrice
+2233.0
+Page 1
+ 
+ 

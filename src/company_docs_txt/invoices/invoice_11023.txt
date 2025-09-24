@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11023
+Customer ID: BSBEV
+Order Date: 2018-04-14
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+43
+Uncle Bob's Organic Dried Pears
+Ipoh Coffee
+4
+30
+30.0
+46.0
+TotalPrice
+1500.0
+Page 1
+ 
+ 

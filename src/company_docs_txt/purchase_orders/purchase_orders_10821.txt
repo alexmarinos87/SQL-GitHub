@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10821
+2018-01-08
+Art Braunschweiger
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+35
+51
+Steeleye Stout
+Manjimup Dried Apples
+20
+6
+18
+53
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10619
+2017-08-04
+Jean Fresnière
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+22
+Sir Rodney's Scones
+Gustaf's Knäckebröd
+42
+40
+10
+21
+Page 1

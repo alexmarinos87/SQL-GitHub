@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10726
+2017-11-03
+Ann Devon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+4
+11
+Chef Anton's Cajun Seasoning
+Queso Cabrales
+25
+5
+22
+21
+Page 1

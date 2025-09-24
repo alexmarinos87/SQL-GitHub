@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10324
+2016-10-08
+Jose Pavarotti
+Products
+Product ID:
+16
+35
+46
+59
+63
+Product:
+Pavlova
+Steeleye Stout
+Spegesild
+Raclette Courdavault
+Vegie-spread
+Quantity:
+Unit Price:
+21
+70
+30
+40
+80
+13.9
+14.4
+9.6
+44
+35.1
+Page 1

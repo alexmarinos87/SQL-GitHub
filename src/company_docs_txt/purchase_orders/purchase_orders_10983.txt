@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10983
+2018-03-27
+Jose Pavarotti
+Products
+Product ID:
+13
+57
+Product:
+Konbu
+Ravioli Angelo
+Quantity:
+Unit Price:
+84
+15
+6
+19.5
+Page 1

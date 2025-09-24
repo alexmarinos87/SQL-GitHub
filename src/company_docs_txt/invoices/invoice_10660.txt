@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10660
+Customer ID: HUNGC
+Order Date: 2017-09-08
+Customer Details:
+Contact Name:
+Yoshi Latimer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+City Center Plaza 516 Main St.
+Elgin
+97827
+USA
+(503) 555-6874
+(503) 555-2376
+Product ID
+Product Name
+Quantity
+Unit Price
+20
+Sir Rodney's Marmalade
+21
+81.0
+TotalPrice
+1701.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10798
+Customer ID: ISLAT
+Order Date: 2017-12-26
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+62
+72
+Tarte au sucre
+Mozzarella di Giovanni
+2
+10
+49.3
+34.8
+TotalPrice
+446.6
+Page 1
+ 
+ 

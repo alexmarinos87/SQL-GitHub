@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10912
+2018-02-26
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+29
+Queso Cabrales
+Thüringer Rostbratwurst
+40
+60
+21
+123.79
+Page 1

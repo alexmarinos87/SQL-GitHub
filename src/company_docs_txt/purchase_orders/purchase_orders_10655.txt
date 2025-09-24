@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10655
+2017-09-03
+Maurizio Moroni
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+Jack's New England Clam Chowder
+20
+9.65
+Page 1

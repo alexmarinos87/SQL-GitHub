@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10467
+2017-03-06
+Giovanni Rovelli
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+24
+25
+Guaran· Fant·stica
+NuNuCa Nuﬂ-Nougat-Creme
+28
+12
+3.6
+11.2
+Page 1

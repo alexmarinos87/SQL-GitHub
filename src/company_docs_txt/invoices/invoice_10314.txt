@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10314
+Customer ID: RATTC
+Order Date: 2016-09-25
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+32
+58
+62
+Mascarpone Fabioli
+Escargots de Bourgogne
+Tarte au sucre
+40
+30
+25
+25.6
+10.6
+39.4
+TotalPrice
+2327.0
+Page 1
+ 
+ 

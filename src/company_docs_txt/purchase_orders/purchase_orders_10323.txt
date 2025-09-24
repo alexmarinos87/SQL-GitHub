@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10323
+2016-10-07
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+25
+39
+Genen Shouyu
+NuNuCa Nuﬂ-Nougat-Creme
+Chartreuse verte
+5
+4
+4
+12.4
+11.2
+14.4
+Page 1

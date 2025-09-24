@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10850
+2018-01-23
+Mary Saveley
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+25
+33
+70
+NuNuCa Nuﬂ-Nougat-Creme
+Geitost
+Outback Lager
+20
+4
+30
+14
+2.5
+15
+Page 1

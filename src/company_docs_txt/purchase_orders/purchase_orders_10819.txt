@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10819
+2018-01-07
+Patricio Simpson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+43
+75
+Ipoh Coffee
+Rhönbräu Klosterbier
+7
+20
+46
+7.75
+Page 1

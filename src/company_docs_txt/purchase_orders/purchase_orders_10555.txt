@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10555
+2017-06-02
+Jose Pavarotti
+Products
+Product:
+Tofu
+Teatime Chocolate Biscuits
+Guaraná Fantástica
+Manjimup Dried Apples
+Gnocchi di nonna Alice
+Product ID:
+14
+19
+24
+51
+56
+Quantity:
+Unit Price:
+30
+35
+18
+20
+40
+23.25
+9.2
+4.5
+53
+38
+Page 1

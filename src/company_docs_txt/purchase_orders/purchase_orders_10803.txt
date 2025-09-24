@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10803
+2017-12-30
+Paula Parente
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+25
+59
+Teatime Chocolate Biscuits
+NuNuCa Nuﬂ-Nougat-Creme
+Raclette Courdavault
+24
+15
+15
+9.2
+14
+55
+Page 1

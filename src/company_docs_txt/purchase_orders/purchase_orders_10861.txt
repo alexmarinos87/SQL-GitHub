@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10861
+2018-01-30
+Karl Jablonski
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+18
+21
+33
+62
+Alice Mutton
+Carnarvon Tigers
+Sir Rodney's Scones
+Geitost
+Tarte au sucre
+42
+20
+40
+35
+3
+39
+62.5
+10
+2.5
+49.3
+Page 1

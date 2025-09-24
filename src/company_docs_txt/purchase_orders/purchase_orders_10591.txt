@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10591
+2017-07-07
+Palle Ibsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+3
+7
+54
+Aniseed Syrup
+Uncle Bob's Organic Dried Pears
+Tourtière
+14
+10
+50
+10
+30
+7.45
+Page 1

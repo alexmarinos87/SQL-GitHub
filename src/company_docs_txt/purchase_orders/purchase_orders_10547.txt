@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10547
+2017-05-23
+Hari Kumar
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+32
+36
+Mascarpone Fabioli
+Inlagd Sill
+24
+60
+32
+19
+Page 1

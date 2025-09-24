@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10524
+Customer ID: BERGS
+Order Date: 2017-05-01
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+30
+43
+54
+Ikura
+Nord-Ost Matjeshering
+Ipoh Coffee
+Tourtière
+2
+10
+60
+15
+31.0
+25.89
+46.0
+7.45
+TotalPrice
+3192.65
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 11019
+Customer ID: RANCH
+Order Date: 2018-04-13
+Customer Details:
+Contact Name:
+Sergio Gutiérrez
+Address:
+City:
+Av. del Libertador 900
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 123-5555
+(1) 123-5556
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+46
+49
+Spegesild
+Maxilaku
+3
+2
+TotalPrice
+12.0
+20.0
+76.0
+Page 1
+ 
+ 

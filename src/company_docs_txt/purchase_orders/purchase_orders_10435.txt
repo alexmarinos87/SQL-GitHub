@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10435
+2017-02-04
+Elizabeth Brown
+Products
+Product ID:
+2
+22
+72
+Product:
+Chang
+Gustaf's Knäckebröd
+Mozzarella di Giovanni
+Quantity:
+Unit Price:
+10
+12
+10
+15.2
+16.8
+27.8
+Page 1

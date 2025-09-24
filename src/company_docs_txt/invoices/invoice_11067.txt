@@ -1,0 +1,33 @@
+Invoice
+Order ID: 11067
+Customer ID: DRACD
+Order Date: 2018-05-04
+Customer Details:
+Contact Name:
+Sven Ottlieb
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Walserweg 21
+Aachen
+52066
+Germany
+0241-039123
+0241-059428
+Product ID
+Product Name
+Quantity
+Unit Price
+41
+Jack's New England Clam Chowder
+9
+9.65
+TotalPrice
+86.85000000000001
+Page 1
+ 
+ 

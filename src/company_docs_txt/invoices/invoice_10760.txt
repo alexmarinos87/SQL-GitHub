@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10760
+Customer ID: MAISD
+Order Date: 2017-12-01
+Customer Details:
+Contact Name:
+Catherine Dewey
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Rue Joseph-Bens 532
+Bruxelles
+B-1180
+Belgium
+(02) 201 24 67
+(02) 201 24 68
+Product ID
+Product Name
+Quantity
+Unit Price
+25
+27
+43
+NuNuCa Nuﬂ-Nougat-Creme
+Schoggi Schokolade
+Ipoh Coffee
+12
+40
+30
+14.0
+43.9
+46.0
+TotalPrice
+3304.0
+Page 1
+ 
+ 

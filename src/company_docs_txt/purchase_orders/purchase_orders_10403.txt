@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10403
+2017-01-03
+Roland Mendel
+Products
+Product ID:
+16
+48
+Product:
+Pavlova
+Chocolade
+Quantity:
+Unit Price:
+21
+70
+13.9
+10.2
+Page 1

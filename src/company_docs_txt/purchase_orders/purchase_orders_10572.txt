@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10572
+2017-06-18
+Christina Berglund
+Products
+Product ID:
+16
+32
+40
+75
+Product:
+Pavlova
+Mascarpone Fabioli
+Boston Crab Meat
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+12
+10
+50
+15
+17.45
+32
+18.4
+7.75
+Page 1

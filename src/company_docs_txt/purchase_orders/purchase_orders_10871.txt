@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10871
+2018-02-05
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+16
+17
+Grandma's Boysenberry Spread
+Pavlova
+Alice Mutton
+50
+12
+16
+25
+17.45
+39
+Page 1

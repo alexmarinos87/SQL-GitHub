@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10339
+Customer ID: MEREP
+Order Date: 2016-10-28
+Customer Details:
+Contact Name:
+Jean Fresnière
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+43 rue St. Laurent
+Montréal
+H1J 1C3
+Canada
+(514) 555-8054
+(514) 555-8055
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+17
+62
+Chef Anton's Cajun Seasoning
+Alice Mutton
+Tarte au sucre
+10
+70
+28
+17.6
+31.2
+39.4
+TotalPrice
+3463.2
+Page 1
+ 
+ 

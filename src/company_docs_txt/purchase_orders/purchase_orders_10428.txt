@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10428
+2017-01-28
+Maurizio Moroni
+Products
+Product ID:
+46
+Product:
+Spegesild
+Quantity:
+Unit Price:
+20
+9.6
+Page 1

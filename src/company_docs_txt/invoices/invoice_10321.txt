@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10321
+Customer ID: ISLAT
+Order Date: 2016-10-03
+Customer Details:
+Contact Name:
+Helen Bennett
+Address:
+City:
+Garden House Crowther Way
+Cowes
+Postal Code:
+PO31 7PJ
+Country:
+Phone:
+Fax:
+UK
+(198) 555-8888
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+35
+Steeleye Stout
+10
+TotalPrice
+14.4
+144.0
+Page 1
+ 
+ 

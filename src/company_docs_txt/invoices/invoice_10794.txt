@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10794
+Customer ID: QUEDE
+Order Date: 2017-12-24
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+14
+54
+Tofu
+Tourtière
+15
+6
+23.25
+7.45
+TotalPrice
+393.45
+Page 1
+ 
+ 

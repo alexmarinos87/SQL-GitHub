@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10458
+2017-02-26
+Pascale Cartrain
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+26
+28
+43
+56
+71
+Gumbär Gummibärchen
+Rössle Sauerkraut
+Ipoh Coffee
+Gnocchi di nonna Alice
+Flotemysost
+30
+30
+20
+15
+50
+24.9
+36.4
+36.8
+30.4
+17.2
+Page 1

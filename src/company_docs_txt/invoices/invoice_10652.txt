@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10652
+Customer ID: GOURL
+Order Date: 2017-09-01
+Customer Details:
+Contact Name:
+André Fonseca
+Address:
+City:
+Av. Brasil, 442
+Campinas
+Postal Code:
+04876-786
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9482
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+30
+42
+Nord-Ost Matjeshering
+Singaporean Hokkien Fried Mee
+2
+20
+25.89
+14.0
+TotalPrice
+331.78
+Page 1
+ 
+ 

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10831
+2018-01-14
+Jonas Bergulfsen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+35
+38
+43
+Teatime Chocolate Biscuits
+Steeleye Stout
+Côte de Blaye
+Ipoh Coffee
+2
+8
+8
+9
+9.2
+18
+263.5
+46
+Page 1

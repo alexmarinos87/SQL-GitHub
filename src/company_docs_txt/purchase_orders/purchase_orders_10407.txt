@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10407
+2017-01-07
+Henriette Pfalzheim
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+11
+69
+71
+Queso Cabrales
+Gudbrandsdalsost
+Flotemysost
+30
+15
+15
+16.8
+28.8
+17.2
+Page 1

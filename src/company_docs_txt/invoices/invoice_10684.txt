@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10684
+Customer ID: OTTIK
+Order Date: 2017-09-26
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+47
+60
+Boston Crab Meat
+Zaanse koeken
+Camembert Pierrot
+20
+40
+30
+18.4
+9.5
+34.0
+TotalPrice
+1768.0
+Page 1
+ 
+ 

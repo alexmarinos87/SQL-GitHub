@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10830
+Customer ID: TRADH
+Order Date: 2018-01-13
+Customer Details:
+Contact Name:
+Anabela Domingues
+Address:
+City:
+Av. Inês de Castro, 414
+Sao Paulo
+Postal Code:
+05634-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-2167
+(11) 555-2168
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+6
+39
+60
+68
+Grandma's Boysenberry Spread
+Chartreuse verte
+Camembert Pierrot
+Scottish Longbreads
+6
+28
+30
+24
+25.0
+18.0
+34.0
+12.5
+TotalPrice
+1974.0
+Page 1
+ 
+ 

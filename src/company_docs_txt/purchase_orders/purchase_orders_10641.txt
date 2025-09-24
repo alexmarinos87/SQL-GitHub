@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10641
+2017-08-22
+Carlos Hernández
+Products
+Product ID:
+2
+40
+Product:
+Chang
+Boston Crab Meat
+Quantity:
+Unit Price:
+50
+60
+19
+18.4
+Page 1

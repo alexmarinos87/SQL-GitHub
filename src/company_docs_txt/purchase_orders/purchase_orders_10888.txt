@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10888
+2018-02-16
+José Pedro Freyre
+Products
+Product ID:
+2
+68
+Product:
+Chang
+Scottish Longbreads
+Quantity:
+Unit Price:
+20
+18
+19
+12.5
+Page 1

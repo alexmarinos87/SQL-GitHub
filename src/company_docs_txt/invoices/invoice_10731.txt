@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10731
+Customer ID: CHOPS
+Order Date: 2017-11-06
+Customer Details:
+Contact Name:
+Yang Wang
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Hauptstr. 29
+Bern
+3012
+Switzerland
+0452-076545
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+51
+Sir Rodney's Scones
+Manjimup Dried Apples
+40
+30
+10.0
+53.0
+TotalPrice
+1990.0
+Page 1
+ 
+ 

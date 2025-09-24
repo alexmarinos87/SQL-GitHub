@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10713
+Customer ID: SAVEA
+Order Date: 2017-10-22
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+26
+45
+46
+Ikura
+Gumbär Gummibärchen
+Rogede sild
+Spegesild
+18
+30
+110
+24
+31.0
+31.23
+9.5
+12.0
+TotalPrice
+2827.9
+Page 1
+ 
+ 

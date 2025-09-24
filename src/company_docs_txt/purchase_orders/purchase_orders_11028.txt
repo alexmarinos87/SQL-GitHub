@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11028
+2018-04-16
+Philip Cramer
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+59
+Pâté chinois
+Raclette Courdavault
+35
+24
+24
+55
+Page 1

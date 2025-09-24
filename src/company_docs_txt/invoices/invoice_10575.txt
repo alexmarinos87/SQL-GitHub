@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10575
+Customer ID: MORGK
+Order Date: 2017-06-20
+Customer Details:
+Contact Name:
+Alexander Feuer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Heerstr. 22
+Leipzig
+04179
+Germany
+0342-023176
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+63
+72
+76
+Raclette Courdavault
+Vegie-spread
+Mozzarella di Giovanni
+Lakkalikööri
+12
+6
+30
+10
+55.0
+43.9
+34.8
+18.0
+TotalPrice
+2147.4
+Page 1
+ 
+ 

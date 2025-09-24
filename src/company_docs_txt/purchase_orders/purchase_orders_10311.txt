@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10311
+2016-09-20
+Janine Labrune
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+42
+69
+Singaporean Hokkien Fried Mee
+Gudbrandsdalsost
+6
+7
+11.2
+28.8
+Page 1

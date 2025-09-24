@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10910
+2018-02-26
+Matti Karttunen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+49
+61
+Teatime Chocolate Biscuits
+Maxilaku
+Sirop d'érable
+12
+10
+5
+9.2
+20
+28.5
+Page 1

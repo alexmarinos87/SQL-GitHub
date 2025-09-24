@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10617
+Customer ID: GREAL
+Order Date: 2017-07-31
+Customer Details:
+Contact Name:
+Howard Snyder
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2732 Baker Blvd.
+Eugene
+97403
+USA
+(503) 555-7555
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+59
+Raclette Courdavault
+30
+55.0
+TotalPrice
+1650.0
+Page 1
+ 
+ 

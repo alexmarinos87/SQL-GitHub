@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10869
+2018-02-04
+Hari Kumar
+Products
+Product ID:
+1
+11
+23
+68
+Product:
+Chai
+Queso Cabrales
+Tunnbröd
+Scottish Longbreads
+Quantity:
+Unit Price:
+40
+10
+50
+20
+18
+21
+9
+12.5
+Page 1

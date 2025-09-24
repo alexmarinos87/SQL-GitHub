@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10577
+Customer ID: TRAIH
+Order Date: 2017-06-23
+Customer Details:
+Contact Name:
+Helvetius Nagy
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+722 DaVinci Blvd.
+Kirkland
+98034
+USA
+(206) 555-8257
+(206) 555-2174
+Product ID
+Product Name
+Quantity
+Unit Price
+39
+75
+77
+Chartreuse verte
+Rhönbräu Klosterbier
+Original Frankfurter grüne Soße
+10
+20
+18
+18.0
+7.75
+13.0
+TotalPrice
+569.0
+Page 1
+ 
+ 

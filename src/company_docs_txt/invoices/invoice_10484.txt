@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10484
+Customer ID: BSBEV
+Order Date: 2017-03-24
+Customer Details:
+Contact Name:
+Victoria Ashworth
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Fauntleroy Circus
+London
+EC2 5NT
+UK
+(171) 555-1212
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+40
+51
+Sir Rodney's Scones
+Boston Crab Meat
+Manjimup Dried Apples
+14
+10
+3
+8.0
+14.7
+42.4
+TotalPrice
+386.2
+Page 1
+ 
+ 

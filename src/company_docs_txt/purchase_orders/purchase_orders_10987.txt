@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10987
+2018-03-31
+Ann Devon
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+43
+72
+Uncle Bob's Organic Dried Pears
+Ipoh Coffee
+Mozzarella di Giovanni
+60
+6
+20
+30
+46
+34.8
+Page 1

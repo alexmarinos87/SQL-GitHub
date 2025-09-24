@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10956
+2018-03-17
+Hanna Moos
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+47
+51
+Sir Rodney's Scones
+Zaanse koeken
+Manjimup Dried Apples
+12
+14
+8
+10
+9.5
+53
+Page 1

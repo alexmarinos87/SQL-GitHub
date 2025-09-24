@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10436
+2017-02-05
+Frédérique Citeaux
+Products
+Product:
+Spegesild
+Gnocchi di nonna Alice
+Wimmers gute Semmelknödel
+Rhönbräu Klosterbier
+Product ID:
+46
+56
+64
+75
+Quantity:
+Unit Price:
+5
+40
+30
+24
+9.6
+30.4
+26.6
+6.2
+Page 1

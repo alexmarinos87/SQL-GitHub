@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10406
+Customer ID: QUEEN
+Order Date: 2017-01-07
+Customer Details:
+Contact Name:
+Lúcia Carvalho
+Address:
+City:
+Alameda dos Canàrios, 891
+Sao Paulo
+Postal Code:
+05487-020
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-1189
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+21
+28
+36
+40
+Chai
+Sir Rodney's Scones
+Rössle Sauerkraut
+Inlagd Sill
+Boston Crab Meat
+10
+30
+42
+5
+2
+14.4
+8.0
+36.4
+15.2
+14.7
+TotalPrice
+2018.2
+Page 1
+ 
+ 

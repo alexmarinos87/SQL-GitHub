@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10693
+Customer ID: WHITC
+Order Date: 2017-10-06
+Customer Details:
+Contact Name:
+Karl Jablonski
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+305 - 14th Ave. S. Suite 3B
+Seattle
+98128
+USA
+(206) 555-4112
+(206) 555-4115
+Product ID
+Product Name
+Quantity
+Unit Price
+9
+54
+69
+73
+Mishi Kobe Niku
+Tourtière
+Gudbrandsdalsost
+Röd Kaviar
+6
+60
+30
+15
+97.0
+7.45
+36.0
+15.0
+TotalPrice
+2334.0
+Page 1
+ 
+ 

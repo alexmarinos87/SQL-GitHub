@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10365
+Customer ID: ANTON
+Order Date: 2016-11-27
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+Queso Cabrales
+24
+16.8
+TotalPrice
+403.20000000000005
+Page 1
+ 
+ 

@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10858
+2018-01-29
+Daniel Tonini
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+27
+70
+Uncle Bob's Organic Dried Pears
+Schoggi Schokolade
+Outback Lager
+5
+10
+4
+30
+43.9
+15
+Page 1

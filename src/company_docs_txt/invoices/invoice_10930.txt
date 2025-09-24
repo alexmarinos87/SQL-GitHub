@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10930
+Customer ID: SUPRD
+Order Date: 2018-03-06
+Customer Details:
+Contact Name:
+Pascale Cartrain
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Boulevard Tirou, 255
+Charleroi
+B-6000
+Belgium
+(071) 23 67 22 20
+(071) 23 67 22 21
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+27
+55
+58
+Sir Rodney's Scones
+Schoggi Schokolade
+Pâté chinois
+Escargots de Bourgogne
+36
+25
+25
+30
+10.0
+43.9
+24.0
+13.25
+TotalPrice
+2455.0
+Page 1
+ 
+ 

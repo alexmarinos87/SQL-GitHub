@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10564
+2017-06-10
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+17
+31
+55
+Alice Mutton
+Gorgonzola Telino
+Pâté chinois
+16
+6
+25
+39
+12.5
+24
+Page 1

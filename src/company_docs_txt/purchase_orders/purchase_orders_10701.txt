@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10701
+2017-10-13
+Patricia McKenna
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+59
+71
+76
+Raclette Courdavault
+Flotemysost
+Lakkalikööri
+42
+20
+35
+55
+21.5
+18
+Page 1

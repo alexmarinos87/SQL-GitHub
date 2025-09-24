@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10738
+2017-11-12
+Dominique Perrier
+Products
+Product ID:
+16
+Product:
+Pavlova
+Quantity:
+Unit Price:
+3
+17.45
+Page 1

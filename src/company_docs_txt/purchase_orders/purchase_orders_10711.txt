@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10711
+2017-10-21
+Jose Pavarotti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+41
+53
+Teatime Chocolate Biscuits
+Jack's New England Clam Chowder
+Perth Pasties
+12
+42
+120
+9.2
+9.65
+32.8
+Page 1

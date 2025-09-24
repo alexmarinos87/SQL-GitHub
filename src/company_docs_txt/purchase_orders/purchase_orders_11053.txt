@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11053
+2018-04-27
+Georg Pipps
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+18
+32
+64
+Carnarvon Tigers
+Mascarpone Fabioli
+Wimmers gute Semmelknödel
+35
+20
+25
+62.5
+32
+33.25
+Page 1

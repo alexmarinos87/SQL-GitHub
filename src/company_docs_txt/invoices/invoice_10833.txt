@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10833
+Customer ID: OTTIK
+Order Date: 2018-01-15
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+7
+31
+53
+Uncle Bob's Organic Dried Pears
+Gorgonzola Telino
+Perth Pasties
+20
+9
+9
+30.0
+12.5
+32.8
+TotalPrice
+1007.7
+Page 1
+ 
+ 

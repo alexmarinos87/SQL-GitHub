@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10615
+2017-07-30
+Matti Karttunen
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+Pâté chinois
+5
+24
+Page 1

@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10778
+2017-12-16
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+Jack's New England Clam Chowder
+10
+9.65
+Page 1

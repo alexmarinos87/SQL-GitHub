@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10762
+2017-12-02
+Maria Larsson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+39
+47
+51
+56
+Chartreuse verte
+Zaanse koeken
+Manjimup Dried Apples
+Gnocchi di nonna Alice
+16
+30
+28
+60
+18
+9.5
+53
+38
+Page 1

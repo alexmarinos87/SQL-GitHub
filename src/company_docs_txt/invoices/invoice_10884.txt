@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10884
+Customer ID: LETSS
+Order Date: 2018-02-12
+Customer Details:
+Contact Name:
+Jaime Yorres
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+87 Polk St. Suite 5
+San Francisco
+94117
+USA
+(415) 555-5938
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+56
+65
+Sir Rodney's Scones
+Gnocchi di nonna Alice
+Louisiana Fiery Hot Pepper Sauce
+40
+21
+12
+10.0
+38.0
+21.05
+TotalPrice
+1450.6
+Page 1
+ 
+ 

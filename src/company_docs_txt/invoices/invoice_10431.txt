@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10431
+Customer ID: BOTTM
+Order Date: 2017-01-30
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+17
+40
+47
+Alice Mutton
+Boston Crab Meat
+Zaanse koeken
+50
+50
+30
+31.2
+14.7
+7.6
+TotalPrice
+2523.0
+Page 1
+ 
+ 

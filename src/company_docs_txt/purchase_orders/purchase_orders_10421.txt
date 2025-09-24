@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10421
+2017-01-21
+Bernardo Batista
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+19
+26
+53
+77
+Teatime Chocolate Biscuits
+Gumbär Gummibärchen
+Perth Pasties
+Original Frankfurter grüne Soße
+4
+30
+15
+10
+7.3
+24.9
+26.2
+10.4
+Page 1

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10888
+Customer ID: GODOS
+Order Date: 2018-02-16
+Customer Details:
+Contact Name:
+José Pedro Freyre
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Romero, 33
+Sevilla
+41101
+Spain
+(95) 555 82 82
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+68
+Chang
+Scottish Longbreads
+20
+18
+19.0
+12.5
+TotalPrice
+605.0
+Page 1
+ 
+ 

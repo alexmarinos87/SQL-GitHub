@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10513
+2017-04-22
+Rita Müller
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+21
+32
+61
+Sir Rodney's Scones
+Mascarpone Fabioli
+Sirop d'érable
+40
+50
+15
+10
+32
+28.5
+Page 1

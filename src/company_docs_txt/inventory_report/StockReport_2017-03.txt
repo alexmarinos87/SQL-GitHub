@@ -1,0 +1,259 @@
+Stock Report for 2017-03
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+18
+42
+72
+46
+35
+20
+16
+17
+60
+37
+30
+24
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Chartreuse verte
+Côte de Blaye
+15
+60
+20
+30
+Guaraná Fantástica
+133
+Ipoh Coffee
+Lakkalikööri
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Condiments
+Aniseed Syrup
+Condiments
+Chef Anton's Cajun..
+Condiments
+Gula Malacca
+Condiments
+Louisiana Hot Spiced..
+Condiments
+Original Frankfurter..
+Confections
+Gumbär Gummibärchen
+Confections
+Maxilaku
+Confections
+NuNuCa Nuß-Nougat-Creme12
+Confections
+Pavlova
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Scones
+Confections
+Teatime Chocolate..
+Confections
+Valkoinen suklaa
+Confections
+Zaanse koeken
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Queso Cabrales
+53
+30
+35
+26
+25
+30
+60
+12
+12
+35
+30
+Dairy Products
+Raclette Courdavault
+162
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Singaporean Hokkien..
+Grains/Cereals
+Tunnbröd
+Grains/Cereals Wimmers gute..
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Longlife Tofu
+Manjimup Dried Apples
+Rössle Sauerkraut
+Tofu
+Uncle Bob's Organic..
+Boston Crab Meat
+Carnarvon Tigers
+Nord-Ost Matjeshering
+Ikura
+Konbu
+Rogede sild
+Röd Kaviar
+Spegesild
+50
+50
+36
+38
+28
+32
+18
+24
+16
+46
+18
+12
+30
+61
+30
+20
+1
+8
+30
+20
+5
+39
+17
+69
+17
+20
+17
+57
+15
+125
+111
+13
+53
+27
+4
+32
+15
+10
+76
+29
+6
+3
+25
+65
+36
+19
+26
+112
+115
+0
+22
+79
+21
+26
+61
+22
+0
+0
+4
+21
+20
+26
+35
+15
+42
+31
+24
+10
+5
+123
+101
+95
+18
+19
+18
+263.5
+4.5
+46
+18
+15
+7.75
+14
+10
+22
+19.45
+17
+13
+31.23
+20
+14
+17.45
+12.5
+10
+9.2
+16.25
+9.5
+34
+21.5
+2.5
+12.5
+21
+55
+38
+14
+9
+33.25
+32.8
+24
+123.79
+7.45
+10
+53
+45.6
+23.25
+30
+18.4
+62.5
+31
+6
+25.89
+9.5
+15
+12

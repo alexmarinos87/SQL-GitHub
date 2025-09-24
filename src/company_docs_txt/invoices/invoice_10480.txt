@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10480
+Customer ID: FOLIG
+Order Date: 2017-03-20
+Customer Details:
+Contact Name:
+Martine Rancé
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+184, chaussée de Tournai
+Lille
+59000
+France
+20.16.10.16
+20.16.10.17
+Product ID
+Product Name
+Quantity
+Unit Price
+47
+59
+Zaanse koeken
+Raclette Courdavault
+30
+12
+7.6
+44.0
+TotalPrice
+756.0
+Page 1
+ 
+ 

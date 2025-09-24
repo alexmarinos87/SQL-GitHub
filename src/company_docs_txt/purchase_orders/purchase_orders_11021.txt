@@ -1,0 +1,33 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11021
+2018-04-14
+Horst Kloss
+Products
+Product:
+Chang
+Sir Rodney's Marmalade
+Gumbär Gummibärchen
+Manjimup Dried Apples
+Mozzarella di Giovanni
+Product ID:
+2
+20
+26
+51
+72
+Quantity:
+Unit Price:
+11
+15
+63
+44
+35
+19
+81
+31.23
+53
+34.8
+Page 1

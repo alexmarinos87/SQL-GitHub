@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10581
+Customer ID: FAMIA
+Order Date: 2017-06-26
+Customer Details:
+Contact Name:
+Aria Cruz
+Address:
+City:
+Rua Orós, 92
+Sao Paulo
+Postal Code:
+05442-030
+Country:
+Phone:
+Fax:
+Brazil
+(11) 555-9857
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+75
+Rhönbräu Klosterbier
+50
+TotalPrice
+7.75
+387.5
+Page 1
+ 
+ 

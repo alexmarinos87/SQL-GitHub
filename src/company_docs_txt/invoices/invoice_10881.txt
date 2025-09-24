@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10881
+Customer ID: CACTU
+Order Date: 2018-02-11
+Customer Details:
+Contact Name:
+Patricio Simpson
+Address:
+City:
+Cerrito 333
+Buenos Aires
+Postal Code:
+1010
+Country:
+Phone:
+Fax:
+Argentina
+(1) 135-5555
+(1) 135-4892
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+73
+Röd Kaviar
+10
+TotalPrice
+15.0
+150.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10822
+Customer ID: TRAIH
+Order Date: 2018-01-08
+Customer Details:
+Contact Name:
+Helvetius Nagy
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+722 DaVinci Blvd.
+Kirkland
+98034
+USA
+(206) 555-8257
+(206) 555-2174
+Product ID
+Product Name
+Quantity
+Unit Price
+62
+70
+Tarte au sucre
+Outback Lager
+3
+6
+49.3
+15.0
+TotalPrice
+237.89999999999998
+Page 1
+ 
+ 

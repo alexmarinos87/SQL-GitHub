@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10276
+Customer ID: TORTU
+Order Date: 2016-08-08
+Customer Details:
+Contact Name:
+Miguel Angel Paolino
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Avda. Azteca 123
+México D.F.
+05033
+Mexico
+(5) 555-2933
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+13
+Ikura
+Konbu
+15
+10
+24.8
+4.8
+TotalPrice
+420.0
+Page 1
+ 
+ 

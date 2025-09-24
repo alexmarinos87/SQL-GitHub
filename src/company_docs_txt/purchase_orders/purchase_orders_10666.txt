@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10666
+2017-09-12
+Michael Holz
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+29
+65
+Thüringer Rostbratwurst
+Louisiana Fiery Hot Pepper Sauce
+36
+10
+123.79
+21.05
+Page 1

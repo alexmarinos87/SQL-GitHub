@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10795
+2017-12-24
+Roland Mendel
+Products
+Product ID:
+16
+17
+Product:
+Pavlova
+Alice Mutton
+Quantity:
+Unit Price:
+65
+35
+17.45
+39
+Page 1

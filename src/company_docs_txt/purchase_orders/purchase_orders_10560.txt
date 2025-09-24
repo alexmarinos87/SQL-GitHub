@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10560
+2017-06-06
+Peter Franken
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+30
+62
+Nord-Ost Matjeshering
+Tarte au sucre
+20
+15
+25.89
+49.3
+Page 1

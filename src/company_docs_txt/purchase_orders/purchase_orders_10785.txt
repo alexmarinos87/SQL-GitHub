@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10785
+2017-12-18
+Manuel Pereira
+Products
+Product ID:
+10
+75
+Product:
+Ikura
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+10
+10
+31
+7.75
+Page 1

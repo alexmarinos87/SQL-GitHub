@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10461
+Customer ID: LILAS
+Order Date: 2017-02-28
+Customer Details:
+Contact Name:
+Carlos González
+Address:
+City:
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+Barquisimeto
+Postal Code:
+3508
+Country:
+Phone:
+Fax:
+Venezuela
+(9) 331-6954
+(9) 331-7256
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+21
+30
+55
+Sir Rodney's Scones
+Nord-Ost Matjeshering
+Pâté chinois
+40
+28
+60
+8.0
+20.7
+19.2
+TotalPrice
+2051.6
+Page 1
+ 
+ 

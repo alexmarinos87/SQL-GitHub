@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10678
+Customer ID: SAVEA
+Order Date: 2017-09-23
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+12
+33
+41
+54
+Queso Manchego La Pastora
+Geitost
+Jack's New England Clam Chowder
+Tourtière
+100
+30
+120
+30
+38.0
+2.5
+9.65
+7.45
+TotalPrice
+5256.5
+Page 1
+ 
+ 

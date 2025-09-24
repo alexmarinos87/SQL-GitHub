@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10784
+2017-12-18
+Giovanni Rovelli
+Products
+Product ID:
+36
+39
+72
+Product:
+Inlagd Sill
+Chartreuse verte
+Mozzarella di Giovanni
+Quantity:
+Unit Price:
+30
+2
+30
+19
+18
+34.8
+Page 1

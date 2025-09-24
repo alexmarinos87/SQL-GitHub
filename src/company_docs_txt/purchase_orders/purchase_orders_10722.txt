@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10722
+2017-10-29
+Jose Pavarotti
+Products
+Product ID:
+2
+31
+68
+75
+Product:
+Chang
+Gorgonzola Telino
+Scottish Longbreads
+Rhönbräu Klosterbier
+Quantity:
+Unit Price:
+3
+50
+45
+42
+19
+12.5
+12.5
+7.75
+Page 1

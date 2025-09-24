@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+11075
+2018-05-06
+Michael Holz
+Products
+Product ID:
+2
+46
+76
+Product:
+Chang
+Spegesild
+Lakkalikööri
+Quantity:
+Unit Price:
+10
+30
+2
+19
+12
+18
+Page 1

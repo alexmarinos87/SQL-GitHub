@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10653
+2017-09-02
+Peter Franken
+Products
+Product ID:
+16
+60
+Product:
+Pavlova
+Camembert Pierrot
+Quantity:
+Unit Price:
+30
+20
+17.45
+34
+Page 1

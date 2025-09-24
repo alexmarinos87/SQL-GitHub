@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10663
+2017-09-10
+Laurence Lebihan
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+40
+42
+51
+Boston Crab Meat
+Singaporean Hokkien Fried Mee
+Manjimup Dried Apples
+30
+30
+20
+18.4
+14
+53
+Page 1

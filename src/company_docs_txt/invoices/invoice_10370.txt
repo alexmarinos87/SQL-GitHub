@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10370
+Customer ID: CHOPS
+Order Date: 2016-12-03
+Customer Details:
+Contact Name:
+Yang Wang
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Hauptstr. 29
+Bern
+3012
+Switzerland
+0452-076545
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+64
+74
+Chai
+Wimmers gute Semmelknödel
+Longlife Tofu
+15
+30
+20
+14.4
+26.6
+8.0
+TotalPrice
+1174.0
+Page 1
+ 
+ 

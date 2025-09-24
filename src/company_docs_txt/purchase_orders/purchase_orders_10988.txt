@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10988
+2018-03-31
+Paula Wilson
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+7
+62
+Uncle Bob's Organic Dried Pears
+Tarte au sucre
+60
+40
+30
+49.3
+Page 1

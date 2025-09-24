@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10999
+2018-04-03
+Henriette Pfalzheim
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+51
+77
+Jack's New England Clam Chowder
+Manjimup Dried Apples
+Original Frankfurter grüne Soße
+20
+15
+21
+9.65
+53
+13
+Page 1

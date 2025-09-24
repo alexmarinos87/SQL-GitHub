@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10287
+2016-08-22
+Janete Limeira
+Products
+Product ID:
+16
+34
+46
+Product:
+Pavlova
+Sasquatch Ale
+Spegesild
+Quantity:
+Unit Price:
+40
+20
+15
+13.9
+11.2
+9.6
+Page 1

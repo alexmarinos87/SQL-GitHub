@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10851
+Customer ID: RICAR
+Order Date: 2018-01-26
+Customer Details:
+Contact Name:
+Janete Limeira
+Address:
+City:
+Av. Copacabana, 267
+Rio de Janeiro
+Postal Code:
+02389-890
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-3412
+None
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+2
+25
+57
+59
+Chang
+NuNuCa Nuﬂ-Nougat-Creme
+Ravioli Angelo
+Raclette Courdavault
+5
+10
+10
+42
+19.0
+14.0
+19.5
+55.0
+TotalPrice
+2740.0
+Page 1
+ 
+ 

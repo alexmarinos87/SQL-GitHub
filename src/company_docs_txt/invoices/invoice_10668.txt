@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10668
+Customer ID: WANDK
+Order Date: 2017-09-15
+Customer Details:
+Contact Name:
+Rita Müller
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Adenauerallee 900
+Stuttgart
+70563
+Germany
+0711-020361
+0711-035428
+Product ID
+Product Name
+Quantity
+Unit Price
+31
+55
+64
+Gorgonzola Telino
+Pâté chinois
+Wimmers gute Semmelknödel
+8
+4
+15
+12.5
+24.0
+33.25
+TotalPrice
+694.75
+Page 1
+ 
+ 

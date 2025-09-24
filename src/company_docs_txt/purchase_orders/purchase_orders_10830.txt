@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10830
+2018-01-13
+Anabela Domingues
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+6
+39
+60
+68
+Grandma's Boysenberry Spread
+Chartreuse verte
+Camembert Pierrot
+Scottish Longbreads
+6
+28
+30
+24
+25
+18
+34
+12.5
+Page 1

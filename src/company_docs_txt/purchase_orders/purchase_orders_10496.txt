@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10496
+2017-04-04
+Anabela Domingues
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+Gorgonzola Telino
+20
+10
+Page 1

@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10814
+2018-01-05
+Mary Saveley
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+41
+43
+48
+61
+Jack's New England Clam Chowder
+Ipoh Coffee
+Chocolade
+Sirop d'érable
+20
+20
+8
+30
+9.65
+46
+12.75
+28.5
+Page 1

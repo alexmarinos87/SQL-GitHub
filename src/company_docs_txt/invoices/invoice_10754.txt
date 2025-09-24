@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10754
+Customer ID: MAGAA
+Order Date: 2017-11-25
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+40
+Boston Crab Meat
+3
+18.4
+TotalPrice
+55.199999999999996
+Page 1
+ 
+ 

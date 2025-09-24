@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10587
+Customer ID: QUEDE
+Order Date: 2017-07-02
+Customer Details:
+Contact Name:
+Bernardo Batista
+Address:
+City:
+Rua da Panificadora, 12
+Rio de Janeiro
+Postal Code:
+02389-673
+Country:
+Phone:
+Fax:
+Brazil
+(21) 555-4252
+(21) 555-4545
+Product Details:
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+35
+77
+Gumbär Gummibärchen
+Steeleye Stout
+Original Frankfurter grüne Soße
+6
+20
+20
+31.23
+18.0
+13.0
+TotalPrice
+807.38
+Page 1
+ 
+ 

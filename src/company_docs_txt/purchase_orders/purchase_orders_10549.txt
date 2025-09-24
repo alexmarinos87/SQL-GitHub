@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10549
+2017-05-27
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+31
+45
+51
+Gorgonzola Telino
+Rogede sild
+Manjimup Dried Apples
+55
+100
+48
+12.5
+9.5
+53
+Page 1

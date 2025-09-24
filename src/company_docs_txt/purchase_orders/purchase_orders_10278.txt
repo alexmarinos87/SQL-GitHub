@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10278
+2016-08-12
+Christina Berglund
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+44
+59
+63
+73
+Gula Malacca
+Raclette Courdavault
+Vegie-spread
+Röd Kaviar
+16
+15
+8
+25
+15.5
+44
+35.1
+12
+Page 1

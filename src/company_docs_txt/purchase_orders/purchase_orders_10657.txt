@@ -1,0 +1,37 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10657
+2017-09-04
+Jose Pavarotti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+15
+41
+46
+47
+56
+60
+Genen Shouyu
+Jack's New England Clam Chowder
+Spegesild
+Zaanse koeken
+Gnocchi di nonna Alice
+Camembert Pierrot
+50
+24
+45
+10
+45
+30
+15.5
+9.65
+12
+9.5
+38
+34
+Page 1

@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10317
+Customer ID: LONEP
+Order Date: 2016-09-30
+Customer Details:
+Contact Name:
+Fran Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+89 Chiaroscuro Rd.
+Portland
+97219
+USA
+(503) 555-9573
+(503) 555-9646
+Product ID
+Product Name
+Quantity
+Unit Price
+1
+Chai
+20
+TotalPrice
+14.4
+288.0
+Page 1
+ 
+ 

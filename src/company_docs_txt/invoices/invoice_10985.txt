@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10985
+Customer ID: HUNGO
+Order Date: 2018-03-30
+Customer Details:
+Contact Name:
+Patricia McKenna
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+8 Johnstown Road
+Cork
+None
+Ireland
+2967 542
+2967 3333
+Product ID
+Product Name
+Quantity
+Unit Price
+16
+18
+32
+Pavlova
+Carnarvon Tigers
+Mascarpone Fabioli
+36
+8
+35
+17.45
+62.5
+32.0
+TotalPrice
+2248.2
+Page 1
+ 
+ 

@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10784
+Customer ID: MAGAA
+Order Date: 2017-12-18
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+36
+39
+72
+Inlagd Sill
+Chartreuse verte
+Mozzarella di Giovanni
+30
+2
+30
+19.0
+18.0
+34.8
+TotalPrice
+1650.0
+Page 1
+ 
+ 

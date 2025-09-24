@@ -1,0 +1,49 @@
+Invoice
+Order ID: 10612
+Customer ID: SAVEA
+Order Date: 2017-07-28
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+36
+49
+60
+76
+Ikura
+Inlagd Sill
+Maxilaku
+Camembert Pierrot
+Lakkalikööri
+70
+55
+18
+40
+80
+31.0
+19.0
+20.0
+34.0
+18.0
+TotalPrice
+6375.0
+Page 1
+ 
+ 

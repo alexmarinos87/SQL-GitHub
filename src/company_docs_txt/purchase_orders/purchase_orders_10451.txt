@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10451
+2017-02-19
+Horst Kloss
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+55
+64
+65
+77
+Pâté chinois
+Wimmers gute Semmelknödel
+Louisiana Fiery Hot Pepper Sauce
+Original Frankfurter grüne Soße
+120
+35
+28
+55
+19.2
+26.6
+16.8
+10.4
+Page 1

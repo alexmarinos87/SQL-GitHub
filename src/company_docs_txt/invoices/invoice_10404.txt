@@ -1,0 +1,41 @@
+Invoice
+Order ID: 10404
+Customer ID: MAGAA
+Order Date: 2017-01-03
+Customer Details:
+Contact Name:
+Giovanni Rovelli
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Via Ludovico il Moro 22
+Bergamo
+24100
+Italy
+035-640230
+035-640231
+Product ID
+Product Name
+Quantity
+Unit Price
+26
+42
+49
+Gumbär Gummibärchen
+Singaporean Hokkien Fried Mee
+Maxilaku
+30
+40
+30
+24.9
+11.2
+16.0
+TotalPrice
+1675.0
+Page 1
+ 
+ 

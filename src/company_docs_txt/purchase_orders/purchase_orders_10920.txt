@@ -1,0 +1,17 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10920
+2018-03-03
+Thomas Hardy
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+50
+Valkoinen suklaa
+24
+16.25
+Page 1

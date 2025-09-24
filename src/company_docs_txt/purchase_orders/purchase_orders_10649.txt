@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10649
+2017-08-28
+Catherine Dewey
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+28
+72
+Rössle Sauerkraut
+Mozzarella di Giovanni
+20
+15
+45.6
+34.8
+Page 1

@@ -1,0 +1,21 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10863
+2018-02-02
+Carlos Hernández
+Products
+Product ID:
+1
+58
+Product:
+Chai
+Escargots de Bourgogne
+Quantity:
+Unit Price:
+20
+12
+18
+13.25
+Page 1

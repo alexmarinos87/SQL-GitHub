@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10535
+Customer ID: ANTON
+Order Date: 2017-05-13
+Customer Details:
+Contact Name:
+Antonio Moreno
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mataderos  2312
+México D.F.
+05023
+Mexico
+(5) 555-3932
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+11
+40
+57
+59
+Queso Cabrales
+Boston Crab Meat
+Ravioli Angelo
+Raclette Courdavault
+50
+10
+5
+15
+21.0
+18.4
+19.5
+55.0
+TotalPrice
+2156.5
+Page 1
+ 
+ 

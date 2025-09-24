@@ -1,0 +1,324 @@
+Stock Report for 2018-04
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Côte de Blaye
+Guaraná Fantástica
+Ipoh Coffee
+Lakkalikööri
+Laughing Lumberjack..
+Outback Lager
+Rhönbräu Klosterbier
+Sasquatch Ale
+Steeleye Stout
+Condiments
+Aniseed Syrup
+Condiments
+Chef Anton's Cajun..
+104
+201
+25
+140
+60
+146
+20
+69
+30
+180
+117
+25
+25
+Condiments
+Chef Anton's Gumbo Mix
+100
+Condiments
+Gula Malacca
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Northwoods Cranberry..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Condiments
+Vegie-spread
+Confections
+Gumbär Gummibärchen
+Confections
+Maxilaku
+27
+21
+30
+79
+97
+42
+81
+62
+Confections
+NuNuCa Nuß-Nougat-Creme15
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Teatime Chocolate..
+Dairy Products
+Camembert Pierrot
+Dairy Products
+Flotemysost
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Queso Cabrales
+Dairy Products
+Queso Manchego La..
+Grains/Cereals
+Tunnbröd
+Grains/Cereals Wimmers gute..
+Meat/Poultry
+Alice Mutton
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Pâté chinois
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Longlife Tofu
+Manjimup Dried Apples
+Rössle Sauerkraut
+Uncle Bob's Organic..
+Boston Crab Meat
+Carnarvon Tigers
+Escargots de Bourgogne
+Jack's New England..
+Nord-Ost Matjeshering
+Ikura
+Inlagd Sill
+Konbu
+Rogede sild
+Spegesild
+44
+15
+103
+33
+85
+174
+197
+55
+15
+66
+85
+37
+10
+44
+32
+25
+25
+48
+10
+45
+12
+80
+181
+122
+10
+20
+133
+90
+124
+55
+53
+40
+24
+69
+113
+193
+15
+20
+48
+39
+17
+17
+20
+17
+57
+52
+15
+125
+111
+20
+13
+53
+0
+27
+76
+6
+32
+113
+24
+15
+10
+76
+6
+40
+3
+17
+25
+19
+26
+112
+115
+0
+26
+9
+14
+22
+86
+79
+38
+21
+36
+26
+61
+22
+0
+0
+0
+4
+21
+20
+26
+15
+42
+62
+31
+85
+24
+10
+5
+95
+123
+112
+18
+19
+263.5
+4.5
+46
+18
+14
+15
+7.75
+14
+18
+10
+22
+21.35
+19.45
+21.05
+40
+13
+28.5
+43.9
+31.23
+20
+14
+12.5
+81
+10
+49.3
+9.2
+34
+21.5
+2.5
+12.5
+34.8
+36
+32
+21
+38
+55
+7
+38
+21
+14
+9
+19.5
+33.25
+39
+32.8
+24
+123.79
+7.45
+10
+53
+45.6
+30
+18.4
+62.5
+13.25
+31
+19
+9.65
+6
+25.89
+9.5
+12
+Dairy Products
+Raclette Courdavault
+322
+Grains/Cereals
+Filo Mix
+Grains/Cereals
+Gnocchi di nonna Alice
+Grains/Cereals
+Gustaf's Knäckebröd
+104
+Grains/Cereals
+Ravioli Angelo
+Grains/Cereals
+Singaporean Hokkien..
+112

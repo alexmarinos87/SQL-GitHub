@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10860
+Customer ID: FRANR
+Order Date: 2018-01-29
+Customer Details:
+Contact Name:
+Carine Schmitt
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+54, rue Royale
+Nantes
+44000
+France
+40.32.21.21
+40.32.21.20
+Product ID
+Product Name
+Quantity
+Unit Price
+51
+76
+Manjimup Dried Apples
+Lakkalikööri
+3
+20
+53.0
+18.0
+TotalPrice
+519.0
+Page 1
+ 
+ 

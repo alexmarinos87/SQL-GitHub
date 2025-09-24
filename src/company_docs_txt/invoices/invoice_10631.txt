@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10631
+Customer ID: LAMAI
+Order Date: 2017-08-14
+Customer Details:
+Contact Name:
+Annette Roulet
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+1 rue Alsace-Lorraine
+Toulouse
+31000
+France
+61.77.61.10
+61.77.61.11
+Product ID
+Product Name
+Quantity
+Unit Price
+75
+Rhönbräu Klosterbier
+8
+TotalPrice
+7.75
+62.0
+Page 1
+ 
+ 

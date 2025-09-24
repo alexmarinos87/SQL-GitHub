@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10970
+Customer ID: BOLID
+Order Date: 2018-03-24
+Customer Details:
+Contact Name:
+Martín Sommer
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+C/ Araquil, 67
+Madrid
+28023
+Spain
+(91) 555 22 82
+(91) 555 91 99
+Product ID
+Product Name
+Quantity
+Unit Price
+52
+Filo Mix
+40
+TotalPrice
+7.0
+280.0
+Page 1
+ 
+ 

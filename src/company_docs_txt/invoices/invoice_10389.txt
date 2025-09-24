@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10389
+Customer ID: BOTTM
+Order Date: 2016-12-20
+Customer Details:
+Contact Name:
+Elizabeth Lincoln
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+23 Tsawassen Blvd.
+Tsawassen
+T2F 8M4
+Canada
+(604) 555-4729
+(604) 555-3745
+Product ID
+Product Name
+Quantity
+Unit Price
+10
+55
+62
+70
+Ikura
+Pâté chinois
+Tarte au sucre
+Outback Lager
+16
+15
+20
+30
+24.8
+19.2
+39.4
+12.0
+TotalPrice
+1832.8
+Page 1
+ 
+ 

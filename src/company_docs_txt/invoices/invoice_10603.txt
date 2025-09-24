@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10603
+Customer ID: SAVEA
+Order Date: 2017-07-18
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+22
+49
+Gustaf's Knäckebröd
+Maxilaku
+48
+25
+21.0
+20.0
+TotalPrice
+1508.0
+Page 1
+ 
+ 

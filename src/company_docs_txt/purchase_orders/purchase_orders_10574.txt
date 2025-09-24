@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10574
+2017-06-19
+Helvetius Nagy
+Products
+Product:
+Geitost
+Boston Crab Meat
+Tarte au sucre
+Wimmers gute Semmelknödel
+Product ID:
+33
+40
+62
+64
+Quantity:
+Unit Price:
+14
+2
+10
+6
+2.5
+18.4
+49.3
+33.25
+Page 1

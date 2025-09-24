@@ -1,0 +1,33 @@
+Invoice
+Order ID: 10271
+Customer ID: SPLIR
+Order Date: 2016-08-01
+Customer Details:
+Contact Name:
+Art Braunschweiger
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+P.O. Box 555
+Lander
+82520
+USA
+(307) 555-4680
+(307) 555-6525
+Product ID
+Product Name
+Quantity
+Unit Price
+33
+Geitost
+24
+TotalPrice
+2.0
+48.0
+Page 1
+ 
+ 

@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10445
+Customer ID: BERGS
+Order Date: 2017-02-13
+Customer Details:
+Contact Name:
+Christina Berglund
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Berguvsvägen  8
+Luleå
+S-958 22
+Sweden
+0921-12 34 65
+0921-12 34 67
+Product ID
+Product Name
+Quantity
+Unit Price
+39
+54
+Chartreuse verte
+Tourtière
+6
+15
+14.4
+5.9
+TotalPrice
+174.9
+Page 1
+ 
+ 

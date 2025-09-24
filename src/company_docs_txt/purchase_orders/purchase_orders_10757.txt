@@ -1,0 +1,29 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10757
+2017-11-27
+Jose Pavarotti
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+34
+59
+62
+64
+Sasquatch Ale
+Raclette Courdavault
+Tarte au sucre
+Wimmers gute Semmelknödel
+30
+7
+30
+24
+14
+55
+49.3
+33.25
+Page 1

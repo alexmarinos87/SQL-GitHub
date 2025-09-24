@@ -1,0 +1,41 @@
+Invoice
+Order ID: 11000
+Customer ID: RATTC
+Order Date: 2018-04-06
+Customer Details:
+Contact Name:
+Paula Wilson
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+2817 Milton Dr.
+Albuquerque
+87110
+USA
+(505) 555-5939
+(505) 555-3620
+Product ID
+Product Name
+Quantity
+Unit Price
+4
+24
+77
+Chef Anton's Cajun Seasoning
+Guaraná Fantástica
+Original Frankfurter grüne Soße
+25
+30
+30
+22.0
+4.5
+13.0
+TotalPrice
+1075.0
+Page 1
+ 
+ 

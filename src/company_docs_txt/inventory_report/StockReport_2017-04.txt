@@ -1,0 +1,275 @@
+Stock Report for 2017-04
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Beverages
+Chai
+Chang
+Chartreuse verte
+Côte de Blaye
+Guaraná Fantástica
+Ipoh Coffee
+Laughing Lumberjack..
+Outback Lager
+Rhönbräu Klosterbier
+Steeleye Stout
+Condiments
+Chef Anton's Cajun..
+Condiments
+Genen Shouyu
+Condiments
+Gula Malacca
+Condiments
+Louisiana Fiery Hot..
+Condiments
+Louisiana Hot Spiced..
+Condiments
+Northwoods Cranberry..
+Condiments
+Original Frankfurter..
+Condiments
+Sirop d'érable
+Confections
+Chocolade
+Confections
+Maxilaku
+40
+12
+10
+15
+37
+15
+30
+20
+86
+3
+50
+12
+9
+74
+10
+34
+30
+40
+15
+25
+Confections
+NuNuCa Nuß-Nougat-Creme78
+Confections
+Pavlova
+Confections
+Schoggi Schokolade
+Confections
+Scottish Longbreads
+Confections
+Sir Rodney's Marmalade
+Confections
+Sir Rodney's Scones
+Confections
+Tarte au sucre
+Confections
+Zaanse koeken
+50
+120
+6
+39
+52
+3
+6
+Dairy Products
+Camembert Pierrot
+106
+Dairy Products
+Geitost
+Dairy Products
+Gorgonzola Telino
+Dairy Products
+Gudbrandsdalsost
+Dairy Products
+Mascarpone Fabioli
+Dairy Products
+Mozzarella di Giovanni
+Dairy Products
+Raclette Courdavault
+Grains/Cereals
+Filo Mix
+16
+20
+10
+50
+25
+4
+6
+70
+10
+16
+21
+36
+20
+66
+70
+50
+30
+25
+16
+10
+20
+21
+9
+Grains/Cereals
+Gnocchi di nonna Alice
+154
+Grains/Cereals
+Singaporean Hokkien..
+Grains/Cereals
+Tunnbröd
+Meat/Poultry
+Mishi Kobe Niku
+Meat/Poultry
+Perth Pasties
+Meat/Poultry
+Thüringer Rostbratwurst
+Meat/Poultry
+Tourtière
+Produce
+Produce
+Produce
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Seafood
+Rössle Sauerkraut
+Tofu
+Uncle Bob's Organic..
+Boston Crab Meat
+Carnarvon Tigers
+Ikura
+Konbu
+Jack's New England..
+110
+Nord-Ost Matjeshering
+Rogede sild
+Spegesild
+39
+17
+69
+17
+20
+17
+52
+15
+125
+20
+53
+39
+27
+76
+4
+6
+32
+113
+15
+10
+76
+29
+49
+6
+40
+3
+17
+36
+19
+112
+0
+26
+9
+14
+79
+38
+21
+26
+61
+29
+0
+0
+21
+26
+35
+15
+42
+31
+85
+24
+10
+5
+95
+123
+18
+19
+18
+263.5
+4.5
+46
+14
+15
+7.75
+18
+22
+15.5
+19.45
+21.05
+17
+40
+13
+28.5
+12.75
+20
+14
+17.45
+43.9
+12.5
+81
+10
+49.3
+9.5
+34
+2.5
+12.5
+36
+32
+34.8
+55
+7
+38
+14
+9
+97
+32.8
+123.79
+7.45
+45.6
+23.25
+30
+18.4
+62.5
+31
+9.65
+6
+25.89
+9.5
+12

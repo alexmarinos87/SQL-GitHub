@@ -1,0 +1,45 @@
+Invoice
+Order ID: 10757
+Customer ID: SAVEA
+Order Date: 2017-11-27
+Customer Details:
+Contact Name:
+Jose Pavarotti
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+187 Suffolk Ln.
+Boise
+83720
+USA
+(208) 555-8097
+None
+Product ID
+Product Name
+Quantity
+Unit Price
+34
+59
+62
+64
+Sasquatch Ale
+Raclette Courdavault
+Tarte au sucre
+Wimmers gute Semmelknödel
+30
+7
+30
+24
+14.0
+55.0
+49.3
+33.25
+TotalPrice
+3082.0
+Page 1
+ 
+ 

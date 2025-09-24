@@ -1,0 +1,37 @@
+Invoice
+Order ID: 10508
+Customer ID: OTTIK
+Order Date: 2017-04-16
+Customer Details:
+Contact Name:
+Henriette Pfalzheim
+Address:
+City:
+Postal Code:
+Country:
+Phone:
+Fax:
+Product Details:
+Mehrheimerstr. 369
+Köln
+50739
+Germany
+0221-0644327
+0221-0765721
+Product ID
+Product Name
+Quantity
+Unit Price
+13
+39
+Konbu
+Chartreuse verte
+10
+10
+6.0
+18.0
+TotalPrice
+240.0
+Page 1
+ 
+ 

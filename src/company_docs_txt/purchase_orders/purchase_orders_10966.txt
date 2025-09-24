@@ -1,0 +1,25 @@
+Purchase Orders
+Order ID
+Order Date
+Customer Name
+10966
+2018-03-20
+Yang Wang
+Products
+Product ID:
+Product:
+Quantity:
+Unit Price:
+37
+56
+62
+Gravad lax
+Gnocchi di nonna Alice
+Tarte au sucre
+8
+12
+12
+26
+38
+49.3
+Page 1
