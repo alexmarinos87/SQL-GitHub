@@ -1,10 +1,51 @@
-import os
+def main():
+
+    from pathlib import Path
+
+    from pdfminer.pdfparser import PDFParser
+    from pdfminer.pdfdocument import PDFDocument
+    from pdfminer.pdfpage import PDFPage
+    from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+    from pdfminer.pdfdevice import PDFDevice
+    from pdfminer.layout import LAParams, LTTextBox, LTTextLine
+    from pdfminer.converter import PDFPageAggregator
+
+    for path in Path("pdfs").glob("*.pdf"):
+        with path.open("rb") as file:
+            parser = PDFParser(file)
+            document = PDFDocument(parser, "")
+            if not document.is_extractable:
+                continue
+
+            manager = PDFResourceManager()
+            params = LAParams()
+
+            device = PDFPageAggregator(manager, laparams=params)
+            interpreter = PDFPageInterpreter(manager, device)
+
+            text = ""
+
+            for page in PDFPage.create_pages(document):
+                interpreter.process_page(page)
+                for obj in device.get_result():
+                    if isinstance(obj, LTTextBox) or isinstance(obj, LTTextLine):
+                        text += obj.get_text()
+        with open("txts/{}.txt".format(path.stem), "w") as file:
+            file.write(text)
+    return 0
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(main())
+
+"""import os
 # Using os.walk()
 for dirpath, dirs, files in os.walk('src/CompanyDocuments/invoices'): 
   for filename in files:
     fname = os.path.join(dirpath,filename)
     if fname.endswith('.pdf'):
-      print(fname)
+      print(fname)"""
 
 
 
@@ -71,11 +112,11 @@ app = Gui()
 app.root.mainloop()"""
 
 
-import tkinter as tk
+"""import tkinter as tk
 
 def fahrenheit_to_celsius():
-    """Convert the value for Fahrenheit to Celsius and insert the
-    result into lbl_result.
+    """#onvert the value for Fahrenheit to Celsius and insert the
+   # result into lbl_result.
     """
     fahrenheit = ent_temperature.get()
     celsius = (5 / 9) * (float(fahrenheit) - 32)
@@ -143,4 +184,45 @@ button_close = tk.Button(root, width=35, text='Close Programme', command=root.qu
 
 root.mainloop()
 
-print(select_sheet)
+print(select_sheet)"""
+
+def main():
+
+    from pathlib import Path
+
+    from pdfminer.pdfparser import PDFParser
+    from pdfminer.pdfdocument import PDFDocument
+    from pdfminer.pdfpage import PDFPage
+    from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+    from pdfminer.pdfdevice import PDFDevice
+    from pdfminer.layout import LAParams, LTTextBox, LTTextLine
+    from pdfminer.converter import PDFPageAggregator
+
+    for path in Path("pdfs").glob("*.pdf"):
+        with path.open("rb") as file:
+            parser = PDFParser(file)
+            document = PDFDocument(parser, "")
+            if not document.is_extractable:
+                continue
+
+            manager = PDFResourceManager()
+            params = LAParams()
+
+            device = PDFPageAggregator(manager, laparams=params)
+            interpreter = PDFPageInterpreter(manager, device)
+
+            text = ""
+
+            for page in PDFPage.create_pages(document):
+                interpreter.process_page(page)
+                for obj in device.get_result():
+                    if isinstance(obj, LTTextBox) or isinstance(obj, LTTextLine):
+                        text += obj.get_text()
+        with open("txts/{}.txt".format(path.stem), "w") as file:
+            file.write(text)
+    return 0
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(main())
